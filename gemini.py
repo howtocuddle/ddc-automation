@@ -32,6 +32,8 @@ from tenacity import (
 )
 from tqdm import tqdm
 
+from merge_utils import apply_continuation_if_any, apply_page_lead_if_any
+
 # Optional: for page-count validation only (no rendering in this script)
 try:
     import fitz  # PyMuPDF
@@ -310,34 +312,6 @@ def validate_page_objects(objs: List[dict], page_number: int, img_name: str) -> 
 
     return (len(errs) == 0), errs
 
-def apply_continuation_if_any(page_objs: List[dict], merged: List[dict]) -> List[dict]:
-    if not page_objs:
-        return page_objs
-    first = page_objs[0]
-    if isinstance(first, dict) and first.get("id") == "__CONT__" and first.get("notation") == "__CONT__":
-        scope = first.get("scope") or {}
-        cont_notes = []
-        if isinstance(scope, dict):
-            notes_val = scope.get("notes")
-            if isinstance(notes_val, list):
-                cont_notes = notes_val
-        if cont_notes:
-            for i in range(len(merged) - 1, -1, -1):
-                if merged[i].get("id") in ("__CONT__", "__PAGE__"):
-                    continue
-                tgt_scope = merged[i].setdefault("scope", {})
-                if not isinstance(tgt_scope, dict):
-                    tgt_scope = {}
-                    merged[i]["scope"] = tgt_scope
-                notes = tgt_scope.setdefault("notes", [])
-                if isinstance(notes, list):
-                    notes.extend(cont_notes)
-                else:
-                    tgt_scope["notes"] = cont_notes
-                break
-        return page_objs[1:]
-    return page_objs
-
 def split_objects_by_page(objs: List[dict]) -> Dict[int, List[dict]]:
     """Group objects by their 'page' integer."""
     by_pg: Dict[int, List[dict]] = {}
@@ -350,28 +324,6 @@ def split_objects_by_page(objs: List[dict]) -> Dict[int, List[dict]]:
         else:
             LOG.debug("Discard object lacking valid page: %s", o)
     return by_pg
-
-# -------- Page lead sentinel capture (sidecar) -----------------
-def is_page_lead_sentinel(obj: dict, page_number: int, img_name: str) -> bool:
-    if not isinstance(obj, dict): return False
-    if obj.get("id") != "__PAGE__" or obj.get("notation") != "__PAGE__": return False
-    if obj.get("type") != "Concept": return False
-    if obj.get("page") != page_number: return False
-    src = obj.get("source", {})
-    return isinstance(src, dict) and src.get("fileName") == img_name
-
-def apply_page_lead_if_any(page_objs: List[dict], page_number: int, img_name: str, page_leads: Dict[int, dict]) -> List[dict]:
-    """If first object is a page-lead sentinel, stash it in page_leads and drop it.
-
-    Returns possibly shortened list sans sentinel."""
-    if not page_objs:
-        return page_objs
-    first = page_objs[0]
-    if is_page_lead_sentinel(first, page_number, img_name):
-        page_leads[page_number] = first
-        LOG.debug("Captured page-lead sentinel p%d (%s)", page_number, img_name)
-        return page_objs[1:]
-    return page_objs
 
 def _strip_hierarchy(page_objs: List[dict]) -> List[dict]:
     """Remove optional 'hierarchy' field from each concept object, in-place safe."""
