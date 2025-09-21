@@ -1,0 +1,91 @@
+Extract Dewey Decimal **Tables** (T1–T6) from the provided page image(s) into JSON for a linked database (I have license).
+Use only visible text from the image(s). Preserve wording verbatim where practical. Do not hallucinate.
+
+OUTPUT CONTRACT (MANDATORY)
+• Output ONLY a JSON ARRAY valid to the provided response_schema (no prose, no explanations, no code fences).
+• Every object MUST include: id, type="Concept", notation, prefLabel.en, page, source.fileName.
+• Maintain the top-to-bottom order of table rows as they appear on EACH page.
+• The page value MUST come from the provided file context (not any printed folio on the page image).
+
+ON-PAGE-ONLY RULE
+• Emit ONLY rows whose table notation is visibly printed on THIS page image (or images in this request).
+• Do NOT infer siblings, parents, or children that are not printed on the page.
+
+TABLE & ROW TYPING
+• Set table to one of: "T1","T2","T3A","T3B","T3C","T4","T5","T6".
+  – Detect from the page header (e.g., “Table 1”), section title, or row labeling.
+• Optionally set rowType:"TableRow" for clarity (not required by the schema).
+
+ID & NOTATION RULE (TABLES)
+• Do not use Brackets example: T1:-(016)→ T1:-016
+
+• Normalize the printed table notation by removing internal spaces. Preserve leading hyphen(s) as printed.
+  – Examples: "-093" stays "-093"; "--3" stays "--3"; "-1 2" → "-12".
+• id = "<TABLE>:" + <NORMALIZED_NOTATION>
+  – Examples: "T1:-093", "T3B:--3"
+• prefLabel.en = the printed row heading/label text (verbatim).
+
+ONE TOP-OF-PAGE RULE (APPLIES PER PAGE)
+A) If the first printed content on THIS page begins with a fresh table row notation (matches TABLE HEADING DETECTION below), DO NOT emit any sentinel.
+B) Otherwise, prepend EXACTLY ONE sentinel as the FIRST element for THIS page:
+   • Continuation from previous page (begins mid-sentence/fragment of a row):
+     {
+       "id":"__CONT__", "type":"Concept", "notation":"__CONT__",
+       "prefLabel":{"en":""},
+       "scope":{"notes":["<carry-over text from the very top of THIS page>"]},
+       "page": <THIS_PAGE_NUMBER_FROM_FILE>,
+       "source":{"fileName":"<THIS_IMAGE_FILE>","span":null}
+     }
+   • Page-level context (ANY non-row header before the first row—e.g., TABLE header block, explanatory legends, captions, general notes):
+     {
+       "id":"__PAGE__", "type":"Concept", "notation":"__PAGE__",
+       "prefLabel":{"en":"<header text if present, else 'PAGE_CONTEXT'>"},
+       "scope":{"notes":["<verbatim lines from that contextual block>"]},
+       "page": <THIS_PAGE_NUMBER_FROM_FILE>,
+       "source":{"fileName":"<THIS_IMAGE_FILE>","span":null}
+     }
+
+TABLE HEADING DETECTION (ROWS)
+• A table row begins with a table notation token, typically with leading hyphen(s): ^-+\s*\d+(?:\.\d+)*\b
+  – Examples: "-093", "-1", "-12.3", "--3", "--09"
+• If the first visible line begins mid-sentence or without a leading table notation, treat as continuation (__CONT__).
+• If a row heading includes marker(s) (*, †, ‡, etc.), copy the associated footnote text into scope.notes[].
+
+FIELD MAPPING (STRICT, ON-PAGE ONLY)
+• notation: the printed table number token with internal spaces removed; keep the printed leading hyphen(s).
+• id: "<TABLE>:" + notation (no spaces).
+• table: the detected table code ("T1","T2","T3A","T3B","T3C","T4","T5","T6").
+• rowType (optional): "TableRow".
+• prefLabel.en: the printed row heading text (verbatim).
+• altLabel[]: variant names printed for the same row (if any).
+• scope.classHere[]: lines starting “Class here …”
+• scope.including[]: lines starting “Including …”
+• scope.seeAlso[]: “See also …” or patterns like “For …, see …”
+• scope.manualRefs[]: lines starting “See Manual at …”
+• scope.tableRefs[]: any line referring to other tables or table mechanics (e.g., “from Table 1 …”, “use with …”)
+• scope.addToBaseRules[]: lines starting “Add to base …”, “Then add …”, or any explicit building instructions
+• scope.relocations[]: lines mentioning relocation
+• scope.variantNameLabel[]: “Variant name: …”
+• scope.notes[]: only residual notes not covered above; include any footnote text linked by markers.
+• ranges[]: use only for explicit printed row-span ranges; shape {"from":"-09","to":"-099","label":"<nearby label if any>"}.
+• examples[]: any explicit examples printed for that row.
+• page: THIS page number (integer) from the file context.
+• source.fileName: THIS image’s filename (exact).
+• skos.inScheme: "DDC23". Only include skos.topConceptOf if explicitly shown.
+
+HIERARCHY OUTPUT
+• Do NOT output the "hierarchy" field in this pass (broader/narrower are computed later).
+
+ROUTING (STRICT)
+• The cue phrases above MUST be routed into their matching scope arrays. Do not leave routed lines in scope.notes[].
+
+MINIMALISM
+• Omit fields that would be empty arrays or empty objects. Do NOT emit nulls unless the schema requires it.
+
+MULTI-PAGE CALLS
+• Return a SINGLE JSON ARRAY covering ALL attached pages; each object MUST carry its correct page and source.fileName.
+• Apply the TOP-OF-PAGE sentinel rule independently per page.
+
+STRICTNESS
+• If the top of the page is continuation or other non-row content and you omit the required sentinel, the output is invalid.
+• Do NOT invent content not visible on the page image(s).

@@ -1,0 +1,86 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "type", "notation", "prefLabel", "page", "source"],
+    "properties": {
+      "id": { "type": "string" },
+      "type": { "type": "string", "enum": ["Concept"] },
+      "notation": { "type": "string" },
+
+      "prefLabel": {
+        "type": "object",
+        "required": ["en"],
+        "properties": {
+          "en": { "type": "string" }
+        }
+      },
+
+      "altLabel": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+
+      "hierarchy": {
+        "type": "object",
+        "properties": {
+          "broader": { "type": "string", "nullable": true },
+          "narrower": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      },
+
+      "scope": {
+        "type": "object",
+        "properties": {
+          "classHere": { "type": "array", "items": { "type": "string" } },
+          "including": { "type": "array", "items": { "type": "string" } },
+          "seeAlso": { "type": "array", "items": { "type": "string" } },
+          "notes": { "type": "array", "items": { "type": "string" } },
+          "standardSubdivisions": { "type": "boolean" },
+          "variantNameLabel": { "type": "array", "items": { "type": "string" } },
+          "manualRefs": { "type": "array", "items": { "type": "string" } },
+          "tableRefs": { "type": "array", "items": { "type": "string" } },
+          "addToBaseRules": { "type": "array", "items": { "type": "string" } },
+          "relocations": { "type": "array", "items": { "type": "string" } }
+        }
+      },
+
+      "ranges": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["from", "to"],
+          "properties": {
+            "from": { "type": "string" },
+            "to":   { "type": "string" },
+            "label": { "type": "string" }
+          }
+        }
+      },
+
+      "examples": { "type": "array", "items": { "type": "string" } },
+
+      "page": { "type": "integer" },
+
+      "source": {
+        "type": "object",
+        "required": ["fileName"],
+        "properties": {
+          "fileName": { "type": "string" },
+          "span": { "type": "string", "nullable": true }
+        }
+      },
+
+      "skos": {
+        "type": "object",
+        "properties": {
+          "inScheme": { "type": "string" },
+          "topConceptOf": { "type": "string", "nullable": true }
+        }
+      }
+    }
+  }
+}
