@@ -24,6 +24,11 @@
       font-family: "Courier New", Courier, monospace;
     }
 
+    body.viewer-active {
+      align-items: stretch;
+      justify-content: flex-start;
+    }
+
     main {
       width: min(960px, 100%);
       padding: 2.5rem 1.5rem 3rem;
@@ -31,6 +36,16 @@
       flex-direction: column;
       align-items: center;
       gap: 2.5rem;
+    }
+
+    body.viewer-active main {
+      width: 100%;
+      min-height: 100vh;
+      padding: 0;
+      gap: 0;
+      align-items: stretch;
+      justify-content: flex-start;
+      flex: 1;
     }
 
     #menu {
@@ -102,6 +117,21 @@
       gap: 1.25rem;
     }
 
+    body.viewer-active #viewer {
+      flex: 1;
+      position: relative;
+      align-items: stretch;
+      justify-content: flex-start;
+      gap: 0;
+    }
+
+    .viewer-hints {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
     .current-label {
       text-transform: uppercase;
       letter-spacing: 0.22em;
@@ -121,8 +151,42 @@
       background: #111;
     }
 
+    body.viewer-active .viewer-frame {
+      flex: 1;
+      width: 100%;
+      height: auto;
+      border: none;
+      background: transparent;
+    }
+
+    body.viewer-active .viewer-hints {
+      position: absolute;
+      right: 1.5rem;
+      bottom: 1.5rem;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-end;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      padding: 0.45rem 0.75rem;
+      background: rgba(0, 0, 0, 0.65);
+      border-radius: 0.4rem;
+      pointer-events: none;
+      max-width: min(320px, 60vw);
+      text-align: right;
+    }
+
+    body.viewer-active .current-label,
+    body.viewer-active .back-tip {
+      font-size: 0.6rem;
+      letter-spacing: 0.18em;
+    }
+
     iframe {
+      width: 100%;
+      height: 100%;
       background: #111;
+      border: 0;
     }
   </style>
 </head>
@@ -145,8 +209,10 @@
       </div>
     </section>
     <section id="viewer" hidden>
-      <div class="current-label">Now Showing: <span id="current-view">Schedules</span></div>
-      <div class="back-tip">Press 0 to go back to menu</div>
+      <div class="viewer-hints">
+        <div class="current-label">Now Showing: <span id="current-view">Schedules</span></div>
+        <div class="back-tip">Press 0 to go back to menu</div>
+      </div>
       <iframe id="viewer-frame" class="viewer-frame" title="DDC Viewer" sandbox="allow-scripts allow-same-origin"></iframe>
     </section>
   </main>
@@ -172,12 +238,14 @@
         iframe.src = file;
         menu.hidden = true;
         viewer.hidden = false;
+        document.body.classList.add("viewer-active");
       }
 
       function backToMenu() {
         iframe.src = "";
         viewer.hidden = true;
         menu.hidden = false;
+        document.body.classList.remove("viewer-active");
       }
 
       document.getElementById("see-schedules").addEventListener("click", () => show("schedules"));
