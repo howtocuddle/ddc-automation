@@ -193,6 +193,63 @@
         font-size: 0.95rem;
       }
 
+      .resource-list {
+        list-style: none;
+        margin-top: 1.5rem;
+        padding: 0;
+        display: grid;
+        gap: 1.1rem;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      }
+
+      .resource-list li {
+        background: rgba(13, 17, 23, 0.7);
+        border: 1px solid rgba(139, 92, 246, 0.2);
+        border-radius: 16px;
+        padding: 1.15rem 1.35rem;
+        display: grid;
+        gap: 0.4rem;
+      }
+
+      .resource-list a {
+        color: var(--text-main);
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1.02rem;
+      }
+
+      .resource-list a:hover,
+      .resource-list a:focus {
+        text-decoration: underline;
+      }
+
+      .resource-list p {
+        color: var(--text-subtle);
+        font-size: 0.9rem;
+        margin: 0;
+      }
+
+      .resource-downloads {
+        margin-top: 1.5rem;
+        color: var(--text-subtle);
+        font-size: 0.9rem;
+      }
+
+      .resource-downloads a {
+        color: inherit;
+      }
+
+      .resource-intro {
+        color: var(--text-subtle);
+        margin-top: 1rem;
+        font-size: 0.95rem;
+      }
+
+      .resource-intro a {
+        color: inherit;
+        text-decoration: underline;
+      }
+
       .timeline {
         margin-top: 2.5rem;
       }
@@ -307,6 +364,8 @@
             <li><a href="#vision">Vision</a></li>
             <li><a href="#features">Features</a></li>
             <li><a href="#workflow">Workflow</a></li>
+            <li><a href="#data">Data</a></li>
+            <li><a href="tables/">Tables</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </nav>
@@ -329,6 +388,7 @@
           <div class="hero-actions">
             <a class="cta-primary" href="#contact">Request a demo</a>
             <a class="cta-secondary" href="#workflow">See how it works</a>
+            <a class="cta-secondary" href="tables/">Browse DDC tables</a>
           </div>
         </div>
         <div class="panel" role="presentation">
@@ -429,6 +489,75 @@
             </p>
           </li>
         </ol>
+      </section>
+
+      <section class="panel" id="data" aria-labelledby="data-heading">
+        <h2 id="data-heading">Access the Dewey reference tables</h2>
+        <p class="resource-intro">
+          Launch the <a href="tables/">interactive viewer</a> or jump straight
+          to a specific reference table below. Each link opens the data in
+          context so you can reuse it in catalogs, research, or automation
+          experiments.
+        </p>
+        <ul class="resource-list">
+          <li>
+            <a href="tables/index.html#table-1">Table 1. Standard subdivisions</a>
+            <p>
+              Extend any schedule number with shared topical, form, and format
+              notation drawn from the core Table&nbsp;1 set.
+            </p>
+          </li>
+          <li>
+            <a href="tables/index.html#table-2"
+              >Table 2. Geographic areas, historical periods, biography</a
+            >
+            <p>
+              Add precise places, time periods, or biographical focus using the
+              maintained location ranges from Table&nbsp;2.
+            </p>
+          </li>
+          <li>
+            <a href="tables/index.html#table-3"
+              >Table 3. Subdivisions for the arts and literatures</a
+            >
+            <p>
+              Combine art and literature subjects with detailed form-based
+              notation for drama, poetry, fiction, and more.
+            </p>
+          </li>
+          <li>
+            <a href="tables/index.html#table-4"
+              >Table 4. Subdivisions of individual languages and families</a
+            >
+            <p>
+              Describe grammar, usage, and linguistic traits for specific
+              languages using the dedicated Table&nbsp;4 structure.
+            </p>
+          </li>
+          <li>
+            <a href="tables/index.html#table-5">Table 5. Ethnic and national groups</a>
+            <p>
+              Reference people groups consistently across subjects with the
+              controlled notation maintained in Table&nbsp;5.
+            </p>
+          </li>
+          <li>
+            <a href="tables/index.html#table-6">Table 6. Languages</a>
+            <p>
+              Identify languages and dialect groupings when building numbers for
+              works about or in specific languages.
+            </p>
+          </li>
+        </ul>
+        <p class="resource-downloads">
+          Download raw JSON directly:
+          <a href="tables/data/table1.json" download>Table 1</a>,
+          <a href="tables/data/table2.json" download>Table 2</a>,
+          <a href="tables/data/table3.json" download>Table 3</a>,
+          <a href="tables/data/table4.json" download>Table 4</a>,
+          <a href="tables/data/table5.json" download>Table 5</a>,
+          <a href="tables/data/table6.json" download>Table 6</a>
+        </p>
       </section>
 
       <section class="cta-panel" id="contact">

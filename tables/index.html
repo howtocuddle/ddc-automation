@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DDC Automation Reference Tables</title>
+    <link
+      rel="preconnect"
+      href="https://fonts.googleapis.com"
+    />
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #0d1117;
+        --panel: rgba(13, 17, 23, 0.88);
+        --accent: #8b5cf6;
+        --accent-soft: rgba(139, 92, 246, 0.18);
+        --text-main: #f3f4f6;
+        --text-muted: #d1d5db;
+        --border: rgba(99, 102, 241, 0.3);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", sans-serif;
+        background: radial-gradient(
+              circle at 16% 18%,
+              rgba(99, 102, 241, 0.15),
+              rgba(99, 102, 241, 0)
+            )
+            no-repeat,
+          radial-gradient(
+              circle at 80% -10%,
+              rgba(168, 85, 247, 0.25),
+              rgba(13, 17, 23, 0)
+            )
+            no-repeat,
+          var(--bg);
+        color: var(--text-main);
+        min-height: 100vh;
+      }
+
+      header {
+        position: sticky;
+        top: 0;
+        backdrop-filter: blur(16px);
+        background: rgba(13, 17, 23, 0.78);
+        border-bottom: 1px solid var(--border);
+        z-index: 10;
+      }
+
+      .wrapper {
+        width: min(1100px, 92vw);
+        margin: 0 auto;
+        padding: 2.5rem 0 4rem;
+      }
+
+      .top-bar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1.5rem 0;
+        gap: 1.5rem;
+      }
+
+      .brand {
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+      }
+
+      .top-bar a.back-link {
+        color: var(--text-muted);
+        text-decoration: none;
+        font-size: 0.95rem;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        transition: color 0.2s ease;
+      }
+
+      .top-bar a.back-link:hover,
+      .top-bar a.back-link:focus {
+        color: var(--text-main);
+      }
+
+      main h1 {
+        font-size: clamp(2.3rem, 4vw, 3.2rem);
+        margin-bottom: 1rem;
+      }
+
+      main > p.lead {
+        font-size: 1.05rem;
+        color: var(--text-muted);
+        margin-bottom: 2.5rem;
+        max-width: 60ch;
+      }
+
+      .table-index {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        margin-bottom: 2.5rem;
+      }
+
+      .table-index a {
+        padding: 0.6rem 1.1rem;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: rgba(13, 17, 23, 0.65);
+        color: var(--text-muted);
+        text-decoration: none;
+        font-size: 0.9rem;
+        transition: border-color 0.2s ease, color 0.2s ease;
+      }
+
+      .table-index a:hover,
+      .table-index a:focus {
+        color: var(--text-main);
+        border-color: rgba(139, 92, 246, 0.6);
+      }
+
+      details[data-table] {
+        background: var(--panel);
+        border: 1px solid rgba(139, 92, 246, 0.28);
+        border-radius: 20px;
+        padding: 1.6rem 1.8rem;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 18px 32px rgba(13, 17, 23, 0.5);
+      }
+
+      summary {
+        cursor: pointer;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        gap: 0.75rem;
+        font-weight: 600;
+        font-size: 1.1rem;
+        color: var(--text-main);
+      }
+
+      summary::-webkit-details-marker {
+        display: none;
+      }
+
+      summary::before {
+        content: "";
+        width: 0.75rem;
+        height: 0.75rem;
+        border-radius: 50%;
+        background: var(--accent);
+        box-shadow: 0 0 0 6px var(--accent-soft);
+      }
+
+      .count {
+        color: var(--text-muted);
+        font-size: 0.95rem;
+      }
+
+      .download {
+        margin: 1.2rem 0 0.6rem;
+        font-size: 0.95rem;
+        color: var(--text-muted);
+      }
+
+      .download a {
+        color: inherit;
+      }
+
+      .table-container {
+        margin-top: 1rem;
+        overflow-x: auto;
+        border-radius: 16px;
+        border: 1px solid rgba(139, 92, 246, 0.2);
+      }
+
+      .error {
+        padding: 1rem 1.2rem;
+        background: rgba(190, 24, 93, 0.15);
+        border-radius: 12px;
+        border: 1px solid rgba(244, 63, 94, 0.28);
+        color: #fca5a5;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 720px;
+      }
+
+      caption {
+        caption-side: top;
+        text-align: left;
+        padding: 1rem 1.2rem 0;
+        font-weight: 600;
+      }
+
+      thead {
+        background: rgba(139, 92, 246, 0.14);
+      }
+
+      th,
+      td {
+        padding: 0.8rem 1.2rem;
+        border-bottom: 1px solid rgba(139, 92, 246, 0.2);
+        text-align: left;
+        vertical-align: top;
+      }
+
+      tbody tr:last-child td {
+        border-bottom: none;
+      }
+
+      th {
+        font-size: 0.9rem;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+      }
+
+      td {
+        font-size: 0.95rem;
+        color: rgba(243, 244, 246, 0.92);
+      }
+
+      td.notes {
+        white-space: pre-wrap;
+      }
+
+      .table-container:empty::before {
+        content: "Open this section to load the table.";
+        display: block;
+        padding: 1rem;
+        color: var(--text-muted);
+      }
+
+      footer {
+        margin-top: 4rem;
+        padding: 3rem 0 2rem;
+        font-size: 0.85rem;
+        color: var(--text-muted);
+      }
+
+      footer a {
+        color: inherit;
+      }
+
+      @media (max-width: 768px) {
+        table {
+          min-width: 100%;
+        }
+
+        th,
+        td {
+          padding: 0.75rem 0.9rem;
+        }
+
+        caption {
+          padding-left: 0.9rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrapper top-bar">
+        <span class="brand">DDC Automation</span>
+        <a class="back-link" href="../index.html">← Back to homepage</a>
+      </div>
+    </header>
+    <main class="wrapper">
+      <h1>DDC reference tables</h1>
+      <p class="lead">
+        Explore the cleaned Dewey Decimal Classification (DDC) auxiliary tables
+        captured for automation experiments. Each section below can be opened to
+        load the corresponding JSON table directly in the browser or download
+        the raw data for further analysis.
+      </p>
+      <nav class="table-index" aria-label="Table shortcuts">
+        <a href="#table-1">Table 1</a>
+        <a href="#table-2">Table 2</a>
+        <a href="#table-3">Table 3</a>
+        <a href="#table-4">Table 4</a>
+        <a href="#table-5">Table 5</a>
+        <a href="#table-6">Table 6</a>
+      </nav>
+      <section aria-label="DDC tables">
+        <details
+          id="table-1"
+          data-table="table1.json"
+          data-label="Table 1. Standard subdivisions"
+        >
+          <summary>
+            <span class="summary-text">Table 1. Standard subdivisions</span>
+            <span class="count" aria-live="polite"></span>
+          </summary>
+          <p class="download">
+            Raw JSON: <a href="data/table1.json" download>table1.json</a>
+          </p>
+          <div class="table-container" role="region" aria-live="polite"></div>
+        </details>
+        <details
+          id="table-2"
+          data-table="table2.json"
+          data-label="Table 2. Geographic areas, historical periods, biography"
+        >
+          <summary>
+            <span class="summary-text"
+              >Table 2. Geographic areas, historical periods, biography</span
+            >
+            <span class="count" aria-live="polite"></span>
+          </summary>
+          <p class="download">
+            Raw JSON: <a href="data/table2.json" download>table2.json</a>
+          </p>
+          <div class="table-container" role="region" aria-live="polite"></div>
+        </details>
+        <details
+          id="table-3"
+          data-table="table3.json"
+          data-label="Table 3. Subdivisions for the arts, for individual literatures, for specific literary forms"
+        >
+          <summary>
+            <span class="summary-text"
+              >Table 3. Subdivisions for the arts, for individual literatures,
+              for specific literary forms</span
+            >
+            <span class="count" aria-live="polite"></span>
+          </summary>
+          <p class="download">
+            Raw JSON: <a href="data/table3.json" download>table3.json</a>
+          </p>
+          <div class="table-container" role="region" aria-live="polite"></div>
+        </details>
+        <details
+          id="table-4"
+          data-table="table4.json"
+          data-label="Table 4. Subdivisions of individual languages and language families"
+        >
+          <summary>
+            <span class="summary-text"
+              >Table 4. Subdivisions of individual languages and language
+              families</span
+            >
+            <span class="count" aria-live="polite"></span>
+          </summary>
+          <p class="download">
+            Raw JSON: <a href="data/table4.json" download>table4.json</a>
+          </p>
+          <div class="table-container" role="region" aria-live="polite"></div>
+        </details>
+        <details
+          id="table-5"
+          data-table="table5.json"
+          data-label="Table 5. Ethnic and national groups"
+        >
+          <summary>
+            <span class="summary-text">Table 5. Ethnic and national groups</span>
+            <span class="count" aria-live="polite"></span>
+          </summary>
+          <p class="download">
+            Raw JSON: <a href="data/table5.json" download>table5.json</a>
+          </p>
+          <div class="table-container" role="region" aria-live="polite"></div>
+        </details>
+        <details
+          id="table-6"
+          data-table="table6.json"
+          data-label="Table 6. Languages"
+        >
+          <summary>
+            <span class="summary-text">Table 6. Languages</span>
+            <span class="count" aria-live="polite"></span>
+          </summary>
+          <p class="download">
+            Raw JSON: <a href="data/table6.json" download>table6.json</a>
+          </p>
+          <div class="table-container" role="region" aria-live="polite"></div>
+        </details>
+      </section>
+    </main>
+    <footer>
+      <div class="wrapper">
+        <p>
+          View the project source on
+          <a href="https://github.com/howtocuddle/ddc-automation">GitHub</a> or
+          return to the <a href="../index.html">main landing page</a>.
+        </p>
+      </div>
+    </footer>
+    <script>
+      const detailsBlocks = document.querySelectorAll('details[data-table]');
+
+      detailsBlocks.forEach((details) => {
+        details.addEventListener('toggle', async () => {
+          if (!details.open || details.dataset.loaded) {
+            return;
+          }
+
+          const container = details.querySelector('.table-container');
+          const countTarget = details.querySelector('.count');
+          const fileName = details.dataset.table;
+          const tableLabel = details.dataset.label;
+
+          container.textContent = 'Loading…';
+
+          try {
+            const response = await fetch(`data/${fileName}`);
+            if (!response.ok) {
+              throw new Error(`${response.status} ${response.statusText}`);
+            }
+
+            const payload = await response.json();
+            if (!Array.isArray(payload)) {
+              throw new Error('Unexpected JSON structure.');
+            }
+
+            renderTable(container, payload, tableLabel);
+            countTarget.textContent = `(${payload.length} entries)`;
+            details.dataset.loaded = 'true';
+          } catch (error) {
+            container.textContent = '';
+            const message = document.createElement('div');
+            message.className = 'error';
+            message.textContent = `Unable to load ${fileName}: ${error.message}`;
+            container.appendChild(message);
+          }
+        });
+      });
+
+      function renderTable(container, entries, label) {
+        const table = document.createElement('table');
+        const caption = document.createElement('caption');
+        caption.textContent = `${label} (${entries.length} entries)`;
+        table.appendChild(caption);
+
+        const thead = document.createElement('thead');
+        thead.innerHTML = `
+          <tr>
+            <th scope="col">Notation</th>
+            <th scope="col">Preferred label</th>
+            <th scope="col">Notes &amp; ranges</th>
+            <th scope="col">Source</th>
+          </tr>
+        `;
+        table.appendChild(thead);
+
+        const tbody = document.createElement('tbody');
+        const fragment = document.createDocumentFragment();
+
+        entries.forEach((entry) => {
+          const row = document.createElement('tr');
+          row.appendChild(createCell(entry.notation || entry.id || '—'));
+          row.appendChild(
+            createCell((entry.prefLabel && entry.prefLabel.en) || '—')
+          );
+          row.appendChild(createCell(collectNotes(entry), 'notes'));
+          row.appendChild(createCell(formatSource(entry)));
+          fragment.appendChild(row);
+        });
+
+        tbody.appendChild(fragment);
+        table.appendChild(tbody);
+
+        container.textContent = '';
+        container.appendChild(table);
+      }
+
+      function createCell(value, className) {
+        const cell = document.createElement('td');
+        if (className) {
+          cell.classList.add(className);
+        }
+        cell.textContent = value || '—';
+        return cell;
+      }
+
+      function collectNotes(entry) {
+        const notes = [];
+
+        if (entry.rowType) {
+          notes.push(`Row type: ${entry.rowType}`);
+        }
+
+        if (entry.table) {
+          notes.push(`Table: ${entry.table}`);
+        }
+
+        if (Array.isArray(entry.altLabel) && entry.altLabel.length) {
+          notes.push(`Alt labels: ${entry.altLabel.join('; ')}`);
+        }
+
+        if (Array.isArray(entry.examples) && entry.examples.length) {
+          notes.push(`Examples: ${entry.examples.join('; ')}`);
+        }
+
+        const ranges = formatRanges(entry.ranges);
+        if (ranges) {
+          notes.push(`Ranges: ${ranges}`);
+        }
+
+        const scopeNotes = formatScope(entry.scope);
+        if (scopeNotes) {
+          notes.push(scopeNotes);
+        }
+
+        if (entry.skos && entry.skos.topConceptOf) {
+          notes.push(`Top concept of: ${entry.skos.topConceptOf}`);
+        }
+
+        if (entry.id) {
+          notes.push(`ID: ${entry.id}`);
+        }
+
+        return notes.filter(Boolean).join('\n') || '—';
+      }
+
+      function formatRanges(ranges) {
+        if (!Array.isArray(ranges) || ranges.length === 0) {
+          return '';
+        }
+
+        return ranges
+          .map((range) => {
+            if (!range) {
+              return '';
+            }
+            const from = range.from || '';
+            const to = range.to || '';
+            const label = range.label ? ` (${range.label})` : '';
+            if (from && to) {
+              return `${from}–${to}${label}`;
+            }
+            if (from || to) {
+              return `${from || to}${label}`;
+            }
+            return range.label || '';
+          })
+          .filter(Boolean)
+          .join('; ');
+      }
+
+      function formatScope(scope) {
+        if (!scope) {
+          return '';
+        }
+
+        const labelMap = {
+          classHere: 'Class here',
+          including: 'Including',
+          seeAlso: 'See also',
+          manualRefs: 'Manual refs',
+          tableRefs: 'Table refs',
+          addToBaseRules: 'Add to base rules',
+          relocations: 'Relocations',
+          notes: 'Notes',
+          variantNameLabel: 'Variant name labels',
+          standardSubdivisions: 'Standard subdivisions',
+        };
+
+        const segments = [];
+
+        Object.entries(labelMap).forEach(([key, label]) => {
+          const value = scope[key];
+          if (Array.isArray(value) && value.length) {
+            segments.push(`${label}: ${value.join('; ')}`);
+          } else if (typeof value === 'boolean') {
+            segments.push(`${label}: ${value ? 'Yes' : 'No'}`);
+          } else if (typeof value === 'string' && value.trim()) {
+            segments.push(`${label}: ${value}`);
+          }
+        });
+
+        return segments.join('\n');
+      }
+
+      function formatSource(entry) {
+        const segments = [];
+        if (Number.isInteger(entry.page)) {
+          segments.push(`Page ${entry.page}`);
+        }
+        if (entry.source && entry.source.fileName) {
+          segments.push(entry.source.fileName);
+        }
+        return segments.join(' • ') || '—';
+      }
+    </script>
+  </body>
+</html>

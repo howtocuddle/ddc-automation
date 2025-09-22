@@ -1,0 +1,2154 @@
+[
+  {
+    "id": "T4:-01-09",
+    "type": "Concept",
+    "notation": "-01-09",
+    "prefLabel": {
+      "en": "Standard subdivisions and special topics of subdivisions of individual languages and language families"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-4_p00001.png"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Writing systems, phonology, phonetics of the standard form of the language",
+        "Etymology of the standard form of the language",
+        "Dictionaries of the standard form of the language",
+        "Grammar of the standard form of the language",
+        "Historical and geographic variations, modern nongeographic variations",
+        "Standard usage of the language (Prescriptive linguistics)"
+      ]
+    }
+  },
+  {
+    "id": "T4:-01",
+    "type": "Concept",
+    "notation": "-01",
+    "prefLabel": {
+      "en": "Philosophy and theory"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-4_p00001.png"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Do not use for schools and theories of linguistics; class in —018"
+      ],
+      "tableRefs": [
+        "Notation —01 from Table 1 as modified below"
+      ]
+    }
+  },
+  {
+    "id": "T4:--014",
+    "type": "Concept",
+    "notation": "--014",
+    "prefLabel": {
+      "en": "Communication; semantics, pragmatics, languages for special purposes"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-4_p00001.png"
+    },
+    "table": "T4",
+    "scope": {
+      "tableRefs": [
+        "Notation —014 from Table 1 as modified below"
+      ]
+    }
+  },
+  {
+    "id": "T4:--0141",
+    "type": "Concept",
+    "notation": "--0141",
+    "prefLabel": {
+      "en": "Discourse analysis"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-4_p00001.png"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Class discourse analysis of languages for special purposes in —0147",
+        "Use of this number for content analysis, semiotics discontinued; class in —014"
+      ],
+      "including": [
+        "pragmatics in discourse analysis"
+      ]
+    }
+  },
+  {
+    "id": "T4:--[014 2]",
+    "type": "Concept",
+    "notation": "--[014 2]",
+    "prefLabel": {
+      "en": "Etymology"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-4_p00001.png"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Do not use; class in —2"
+      ]
+    }
+  },
+  {
+    "id": "T4:-0143",
+    "type": "Concept",
+    "notation": "-0143",
+    "prefLabel": {
+      "en": "Semantics"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "manualRefs": [
+        "See Manual at 401.43 vs. 306.44, 401.45, 401.9, 412, 415"
+      ],
+      "seeAlso": [
+        "For history of word meanings, see —2"
+      ]
+    }
+  },
+  {
+    "id": "T4:-01430285",
+    "type": "Concept",
+    "notation": "-01430285",
+    "prefLabel": {
+      "en": "Computer applications"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-01430285635",
+    "type": "Concept",
+    "notation": "-01430285635",
+    "prefLabel": {
+      "en": "Natural language processing"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here word sense disambiguation"
+      ]
+    }
+  },
+  {
+    "id": "T4:-0145",
+    "type": "Concept",
+    "notation": "-0145",
+    "prefLabel": {
+      "en": "Pragmatics"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "For pragmatics in discourse analysis, see —0141; for pragmatics in psycholinguistics, see —019"
+      ]
+    }
+  },
+  {
+    "id": "T4:-01452",
+    "type": "Concept",
+    "notation": "-01452",
+    "prefLabel": {
+      "en": "Speech acts"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here illocutionary acts"
+      ]
+    }
+  },
+  {
+    "id": "T4:-01454",
+    "type": "Concept",
+    "notation": "-01454",
+    "prefLabel": {
+      "en": "Presupposition"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here implication, entailment"
+      ]
+    }
+  },
+  {
+    "id": "T4:-01456",
+    "type": "Concept",
+    "notation": "-01456",
+    "prefLabel": {
+      "en": "Reference"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here anaphora, deixis"
+      ]
+    }
+  },
+  {
+    "id": "T4:-0147",
+    "type": "Concept",
+    "notation": "-0147",
+    "prefLabel": {
+      "en": "Languages for special purposes"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here sublanguages, discourse analysis of languages for special purposes",
+        "Class teaching of languages for special purposes as second languages in —80071; class translation of languages for special purposes in —803.",
+        "Class dictionaries of languages for special purposes with the purpose, plus notation 03 from Table 1, e.g., medical dictionaries 610.3"
+      ]
+    }
+  },
+  {
+    "id": "T4:-0148",
+    "type": "Concept",
+    "notation": "-0148",
+    "prefLabel": {
+      "en": "Abbreviations, acronyms, symbols"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Do not use for abbreviations, acronyms, symbols as part of writing systems; class in —11. Do not use for dictionaries of abbreviations, acronyms, symbols; class in —315"
+      ]
+    }
+  },
+  {
+    "id": "T4:-018",
+    "type": "Concept",
+    "notation": "-018",
+    "prefLabel": {
+      "en": "Schools, theories, methodologies"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including functionalism, structural linguistics"
+      ],
+      "seeAlso": [
+        "For works on schools, theories, methodologies that stress syntax, or syntax and phonology, see —5018"
+      ]
+    }
+  },
+  {
+    "id": "T4:-0188",
+    "type": "Concept",
+    "notation": "-0188",
+    "prefLabel": {
+      "en": "Corpus linguistics"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-4_p00002.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class corpus linguistics applied to a specific topic in linguistics with the topic, e.g., corpus-based discourse analysis —0141, corpus-based analysis of noun phrases —55; class corpus linguistics applied to a specific work or the works of a specific author with the work or author, e.g., versions of the Bible 220.4, Shakespeare’s works 822.33"
+      ],
+      "including": [
+        "Including language data samples collected as corpora to support corpus-based analysis, corpus linguistics applied to texts in a specific subject"
+      ]
+    }
+  },
+  {
+    "id": "T4:-019",
+    "type": "Concept",
+    "notation": "-019",
+    "prefLabel": {
+      "en": "Psychological principles"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here psycholinguistics"
+      ],
+      "including": [
+        "Including language acquisition, speech errors"
+      ],
+      "manualRefs": [
+        "See Manual at 407.1, T1—071 vs. 401.93, T4—019, 410.71, 418.0071, T4—80071"
+      ],
+      "notes": [
+        "Class psychological principles of a specific topic with the topic, e.g., psycholinguistics of reading a specific language —84019"
+      ]
+    }
+  },
+  {
+    "id": "T4:-02",
+    "type": "Concept",
+    "notation": "-02",
+    "prefLabel": {
+      "en": "Miscellany"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-0285",
+    "type": "Concept",
+    "notation": "-0285",
+    "prefLabel": {
+      "en": "Computer applications"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class computer applications in corpus linguistics in —0188"
+      ]
+    }
+  },
+  {
+    "id": "T4:-0285635",
+    "type": "Concept",
+    "notation": "-0285635",
+    "prefLabel": {
+      "en": "Natural language processing"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here computational linguistics"
+      ]
+    }
+  },
+  {
+    "id": "T4:-03",
+    "type": "Concept",
+    "notation": "-03",
+    "prefLabel": {
+      "en": "Encyclopedias and concordances"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Do not use for dictionaries of standard form of language; class in —3. Do not use for dictionaries of historical and geographic variations of modern nongeographic variations in the language; class in —7"
+      ]
+    }
+  },
+  {
+    "id": "T4:-04",
+    "type": "Concept",
+    "notation": "-04",
+    "prefLabel": {
+      "en": "Special topics of subdivisions of individual languages and language families"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-042",
+    "type": "Concept",
+    "notation": "-042",
+    "prefLabel": {
+      "en": "Bilingualism"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —042 notation 2–9 from Table 6 for the language that is not dominant in the area in which the linguistic interaction occurs, e.g., works dealing with the dominant language and English —04221, works dealing with French as the dominant language and English 440.4221"
+      ],
+      "classHere": [
+        "Class here multilingualism"
+      ],
+      "seeAlso": [
+        "See also 306.446 for sociology of bilingualism and multilingualism"
+      ]
+    }
+  },
+  {
+    "id": "T4:-05-06",
+    "type": "Concept",
+    "notation": "-05-06",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-07",
+    "type": "Concept",
+    "notation": "-07",
+    "prefLabel": {
+      "en": "Education, research, related topics"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-071",
+    "type": "Concept",
+    "notation": "-071",
+    "prefLabel": {
+      "en": "Education"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "manualRefs": [
+        "See Manual at 407.1, T1—071 vs. 401.93, T4—019, 410.71, 418.0071, T4—80071"
+      ]
+    }
+  },
+  {
+    "id": "T4:-072",
+    "type": "Concept",
+    "notation": "-072",
+    "prefLabel": {
+      "en": "Research"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-0721",
+    "type": "Concept",
+    "notation": "-0721",
+    "prefLabel": {
+      "en": "Research methods"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class corpus-based research methods in —0188"
+      ]
+    }
+  },
+  {
+    "id": "T4:-08",
+    "type": "Concept",
+    "notation": "-08",
+    "prefLabel": {
+      "en": "Groups of people"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-09",
+    "type": "Concept",
+    "notation": "-09",
+    "prefLabel": {
+      "en": "History, geographic treatment, biography"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-4_p00003.png"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Do not use for works that stress distinctive characteristics of historical and geographic variations from the standard form of the language; class in —7"
+      ]
+    }
+  },
+  {
+    "id": "T4:-1-5",
+    "type": "Concept",
+    "notation": "-1-5",
+    "prefLabel": {
+      "en": "Description and analysis of the standard form of the language"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-4_p00004.png",
+      "span": "-1-5 Description and analysis of the standard form of\nthe language"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class writing systems, phonology, etymology, dictionaries, grammar of historical and geographic variations, of modern nongeographic variations of the language in -7; class standard usage, prescriptive and applied linguistics in-8; class comprehensive works in the base number for the language (adding 0 when required to make a three-figure number), e.g., comprehensive works on phonology, etymology, dictionaries, grammar of standard French 440"
+      ],
+      "manualRefs": [
+        "See Manual at T4-1-5, T4-8 vs. T4-7"
+      ]
+    }
+  },
+  {
+    "id": "T4:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "Writing systems, phonology, phonetics of the standard form of the language"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-4_p00004.png",
+      "span": "-1 Writing systems, phonology, phonetics of the standard form\nof the language"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class writing systems, phonology, phonetics of historical and geographic variations, of modern nongeographic variations of languages in -7"
+      ]
+    }
+  },
+  {
+    "id": "T4:-11",
+    "type": "Concept",
+    "notation": "-11",
+    "prefLabel": {
+      "en": "Writing systems"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-4_p00004.png",
+      "span": "-11 Writing systems"
+    },
+    "table": "T4",
+    "scope": {
+      "including": [
+        "Including alphabets, ideographs, syllabaries; braille; abbreviations, acronyms, symbols; capitalization, punctuation, transliteration"
+      ],
+      "notes": [
+        "Class dictionaries of abbreviations, acronyms, symbols in -315; class paleography covering all aspects of early writings in the base number for the language (adding 0 when required to make a three-digit number), e.g., Latin paleography 470; class paleography of historical and geographic variations, of modern nongeographic variations of the language in -7, e.g., paleography of postclassical Latin 477; class books meant to teach the alphabet in-813; class prescriptive works on punctuation in -823; class manual alphabets in -891"
+      ],
+      "seeAlso": [
+        "For spelling, see -152"
+      ],
+      "classHere": [
+        "paleography and epigraphy limited to study of ancient and medieval handwriting and inscriptions"
+      ]
+    }
+  },
+  {
+    "id": "T4:-15",
+    "type": "Concept",
+    "notation": "-15",
+    "prefLabel": {
+      "en": "Phonology, phonetics, spelling"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-4_p00004.png",
+      "span": "-15 Phonology, phonetics, spelling"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are added for phonology, phonetics, spelling together; for phonology and phonetics together; for phonology alone"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Class here consonants, vowels; morphophonology, morphophonemics, phonemics",
+        "Class comprehensive works on phonology, morphology, syntax; on phonology and morphology; on phonology and syntax in-5"
+      ]
+    }
+  },
+  {
+    "id": "T4:-16",
+    "type": "Concept",
+    "notation": "-16",
+    "prefLabel": {
+      "en": "For suprasegmental features, see"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-4_p00004.png",
+      "span": "See also -3 for dictionaries"
+    },
+    "table": "T4",
+    "scope": {
+      "seeAlso": [
+        "-3 for dictionaries"
+      ],
+      "tableRefs": [
+        "For suprasegmental features, see -16"
+      ]
+    }
+  },
+  {
+    "id": "T4:-152",
+    "type": "Concept",
+    "notation": "-152",
+    "prefLabel": {
+      "en": "Spelling (Orthography) and pronunciation"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-4_p00005.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are added for either or both topics in heading",
+        "Class specialized spelling and pronouncing dictionaries in -31; class training in standard spelling and pronunciation in -813; class fingerspelling in -891; class speech training for public speaking, debating, conversation in 808.5; class comprehensive works on writing systems in -11"
+      ],
+      "classHere": [
+        "description and analysis of the nature, history, and function of spelling and pronunciation"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T4:-158",
+    "type": "Concept",
+    "notation": "-158",
+    "prefLabel": {
+      "en": "Phonetics"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-4_p00005.png",
+      "span": "string"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-16",
+    "type": "Concept",
+    "notation": "-16",
+    "prefLabel": {
+      "en": "Suprasegmental features"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-4_p00005.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Phonology and phonetics of vocal effects extending over more than one sound segment"
+      ],
+      "seeAlso": [
+        "Including juncture (pauses), pitch, stress"
+      ],
+      "standardSubdivisions": false,
+      "tableRefs": [
+        "Class here intonation"
+      ]
+    }
+  },
+  {
+    "id": "T4:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "prefLabel": {
+      "en": "Etymology of the standard form of the language"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-4_p00005.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Class etymology of historical and geographic variations, of modern nongeographic variations of languages in -7"
+      ]
+    }
+  },
+  {
+    "id": "T4:-203",
+    "type": "Concept",
+    "notation": "-203",
+    "prefLabel": {
+      "en": "Dictionaries, encyclopedias, concordances"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-4_p00005.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "scope": {
+      "seeAlso": [
+        "Including dictionaries of eponyms [formerly -31]"
+      ],
+      "tableRefs": [
+        "Class dictionaries of foreign words and phrases in -2403; class bilingual dictionaries of etymology in -32-39"
+      ]
+    }
+  },
+  {
+    "id": "T4:-24",
+    "type": "Concept",
+    "notation": "-24",
+    "prefLabel": {
+      "en": "Elements from foreign languages"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-4_p00005.png",
+      "span": "string"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-2403",
+    "type": "Concept",
+    "notation": "-2403",
+    "prefLabel": {
+      "en": "Dictionaries, encyclopedias, concordances"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-4_p00005.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here dictionaries of foreign words and phrases"
+      ],
+      "tableRefs": [
+        "Class dictionaries of foreign words and phrases from a specific language with the language in -241-249, plus notation 03 from Table 1, e.g., dictionaries of foreign words and phrases from French-244103, dictionaries of foreign words and phrases from French in English 422.44103"
+      ]
+    }
+  },
+  {
+    "id": "T4:-241-249",
+    "type": "Concept",
+    "notation": "-241-249",
+    "prefLabel": {
+      "en": "Elements from specific foreign languages"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-4_p00005.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number ---24 notation 1-9 from Table 6, e.g., French words in the language-2441, French words in English 422.441, dictionary of French words in English 422.44103"
+      ]
+    }
+  },
+  {
+    "id": "T4:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "prefLabel": {
+      "en": "Dictionaries of the standard form of the language"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-4_p00005.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "scope": {
+      "including": [
+        "Including dictionaries with pictures of sign-language signs"
+      ],
+      "notes": [
+        "Class dictionaries of historical and geographic variations, of modern nongeographic variations of languages in -7"
+      ],
+      "seeAlso": [
+        "See Manual at T4-3 vs. T4-81"
+      ]
+    }
+  },
+  {
+    "id": "T4:-3028",
+    "type": "Concept",
+    "notation": "-3028",
+    "prefLabel": {
+      "en": "Auxiliary techniques and procedures; apparatus, equipment,\nmaterials"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-4_p00006.png"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here basic techniques and procedures; lexicography"
+      ]
+    }
+  },
+  {
+    "id": "T4:-31",
+    "type": "Concept",
+    "notation": "-31",
+    "prefLabel": {
+      "en": "Specialized dictionaries"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-4_p00006.png"
+    },
+    "table": "T4",
+    "scope": {
+      "including": [
+        "Including dictionaries of clichés, homonyms, paronyms; pronouncing\ndictionaries, reverse dictionaries (dictionaries with words clustered by themes\nor that allow searching by definitions or that arrange words in reverse order\nof spelling), rhyming dictionaries; speller-dividers (ready-reference lists of\nwords)"
+      ],
+      "seeAlso": [
+        "See also -813 for spellers (spelling books with exercises to teach how to\nspell)"
+      ],
+      "tableRefs": [
+        "Class etymological dictionaries in -203; class dictionaries of foreign\nwords and phrases in -2403; class reverse dictionaries (dictionaries of\nantonyms) in -312; class bilingual specialized dictionaries in -32-39; class\ncrossword-puzzle dictionaries in 793.73203. Class subject dictionaries with the\nsubject, plus notation 03 from Table 1, e.g., dictionary of medicine 610.3"
+      ]
+    }
+  },
+  {
+    "id": "T4:-312",
+    "type": "Concept",
+    "notation": "-312",
+    "prefLabel": {
+      "en": "Dictionaries of eponyms relocated to -203"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-4_p00006.png"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-312",
+    "type": "Concept",
+    "notation": "-312",
+    "prefLabel": {
+      "en": "Dictionaries of synonyms and antonyms"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-4_p00006.png"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here reverse dictionaries (dictionaries of antonyms)"
+      ],
+      "notes": [
+        "Standard subdivisions are added for either or both topics in heading"
+      ],
+      "tableRefs": [
+        "Class reverse dictionaries (dictionaries with words clustered by themes or\nthat allow searching by definitions or that arrange words in reverse order of\nspelling) in -31"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T4:-313",
+    "type": "Concept",
+    "notation": "-313",
+    "prefLabel": {
+      "en": "Dictionaries of idioms"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-4_p00006.png"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-315",
+    "type": "Concept",
+    "notation": "-315",
+    "prefLabel": {
+      "en": "Dictionaries of abbreviations, acronyms, symbols"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-4_p00006.png"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are added for any or all topics in heading"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T4:-317",
+    "type": "Concept",
+    "notation": "-317",
+    "prefLabel": {
+      "en": "Picture dictionaries"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-4_p00006.png"
+    },
+    "table": "T4",
+    "scope": {
+      "seeAlso": [
+        "See also -3 for dictionaries with pictures of sign-language signs"
+      ],
+      "tableRefs": [
+        "Limited to dictionaries with pictures of what words represent"
+      ]
+    }
+  },
+  {
+    "id": "T4:-32-39",
+    "type": "Concept",
+    "notation": "-32-39",
+    "prefLabel": {
+      "en": "Bilingual dictionaries"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-4_p00006.png"
+    },
+    "table": "T4",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -3 notation 2-9 from Table 6, e.g., dictionaries of the\nlanguage and English -321, dictionary of French and English 443.21"
+      ],
+      "notes": [
+        "A bilingual dictionary with entry words in only one language is classed\nwith that language, e.g., an English-French dictionary 423.41. A bilingual\ndictionary with entry words in both languages aimed at speakers of only\none of the languages is classed with the other language, e.g., a bilingual\ndictionary with entry words in French and English but with introduction and\nexplanatory apparatus only in French is classed with English in 423.41. A\nbilingual dictionary with entry words in both languages aimed at speakers of\nboth languages is classed with the language coming later in 420-490, e.g.,\nFrench-German, German-French dictionaries 443.31"
+      ]
+    }
+  },
+  {
+    "id": "T4:-5",
+    "type": "Concept",
+    "notation": "-5",
+    "prefLabel": {
+      "en": "Grammar of the standard form of the language"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here grammatical categories, sentences, syntax, topic and comment, word order; comprehensive works on phonology, morphology, syntax; on phonology and morphology; on phonology and syntax"
+      ],
+      "notes": [
+        "Class grammar of historical and geographic variations, of modern nongeographic variations of languages in -7",
+        "Unless other instructions are given, class a subject with aspects in two or more subdivisions of -5 in the number coming last, e.g., number expressed by verbs -56 (not-55)",
+        "For phonology, see-15; for prescriptive grammar, see -82"
+      ]
+    }
+  },
+  {
+    "id": "T4:-501",
+    "type": "Concept",
+    "notation": "-501",
+    "prefLabel": {
+      "en": "Philosophy and theory"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Do not use for schools and theories of grammar; class in-5018"
+      ],
+      "tableRefs": [
+        "Notation-01 from Table 1 as modified below"
+      ]
+    }
+  },
+  {
+    "id": "T4:-5018",
+    "type": "Concept",
+    "notation": "-5018",
+    "prefLabel": {
+      "en": "Schools, theories, methodologies"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including case, categorial, relational grammar"
+      ]
+    }
+  },
+  {
+    "id": "T4:-50182",
+    "type": "Concept",
+    "notation": "-50182",
+    "prefLabel": {
+      "en": "Generative grammar"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-50184",
+    "type": "Concept",
+    "notation": "-50184",
+    "prefLabel": {
+      "en": "Dependency grammar"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-50285",
+    "type": "Concept",
+    "notation": "-50285",
+    "prefLabel": {
+      "en": "Computer applications"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-50285635",
+    "type": "Concept",
+    "notation": "-50285635",
+    "prefLabel": {
+      "en": "Natural language processing"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here part-of-speech tagging, parsing"
+      ]
+    }
+  },
+  {
+    "id": "T4:-55-57",
+    "type": "Concept",
+    "notation": "-55-57",
+    "prefLabel": {
+      "en": "Word classes"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here parts of speech"
+      ],
+      "notes": [
+        "Class comprehensive works in -5"
+      ]
+    }
+  },
+  {
+    "id": "T4:-55",
+    "type": "Concept",
+    "notation": "-55",
+    "prefLabel": {
+      "en": "Nouns, pronouns, adjectives, articles"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including case, number, person"
+      ]
+    }
+  },
+  {
+    "id": "T4:-554",
+    "type": "Concept",
+    "notation": "-554",
+    "prefLabel": {
+      "en": "Class here noun phrases"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-555",
+    "type": "Concept",
+    "notation": "-555",
+    "prefLabel": {
+      "en": "Nouns"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-56",
+    "type": "Concept",
+    "notation": "-56",
+    "prefLabel": {
+      "en": "Pronouns"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-56",
+    "type": "Concept",
+    "notation": "-56",
+    "prefLabel": {
+      "en": "Verbs"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including modality, mood, voice; comprehensive works on words derived from verbs, on infinitives, on participles"
+      ],
+      "notes": [
+        "Class works that treat a specific function (other than the verb function) of words derived from verbs with the function, e.g., gerunds as nouns -554"
+      ],
+      "classHere": [
+        "verb phrases"
+      ]
+    }
+  },
+  {
+    "id": "T4:-562",
+    "type": "Concept",
+    "notation": "-562",
+    "prefLabel": {
+      "en": "Tense"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-4_p00007.png",
+      "span": "string"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-563",
+    "type": "Concept",
+    "notation": "-563",
+    "prefLabel": {
+      "en": "Aspect"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-4_p00008.png",
+      "span": "-563\nAspect"
+    },
+    "table": "T4",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T4:-57",
+    "type": "Concept",
+    "notation": "-57",
+    "prefLabel": {
+      "en": "Miscellaneous word classes"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-4_p00008.png",
+      "span": "-57\nMiscellaneous word classes"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including conjunctions, interjections, particles, prepositions, prepositional\nphrases"
+      ],
+      "notes": [
+        "Class clitics in -592"
+      ]
+    }
+  },
+  {
+    "id": "T4:-576",
+    "type": "Concept",
+    "notation": "-576",
+    "prefLabel": {
+      "en": "Adverbs"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-4_p00008.png",
+      "span": "-576\nAdverbs"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including adverbials"
+      ]
+    }
+  },
+  {
+    "id": "T4:-59",
+    "type": "Concept",
+    "notation": "-59",
+    "prefLabel": {
+      "en": "Morphology"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-4_p00008.png",
+      "span": "-59\nMorphology"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class morphophonology, morphophonemics in-15"
+      ],
+      "seeAlso": [
+        "For morphology of specific word classes, see-55-57"
+      ]
+    }
+  },
+  {
+    "id": "T4:-592",
+    "type": "Concept",
+    "notation": "-592",
+    "prefLabel": {
+      "en": "Word formation"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-4_p00008.png",
+      "span": "-592\nWord formation"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including affixes (infixes, prefixes, suffixes), clitics; formation of\ncompound words"
+      ],
+      "notes": [
+        "Class etymology in -2"
+      ],
+      "classHere": [
+        "derivational morphology"
+      ]
+    }
+  },
+  {
+    "id": "T4:-595",
+    "type": "Concept",
+    "notation": "-595",
+    "prefLabel": {
+      "en": "Inflection"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-4_p00008.png",
+      "span": "-595\nInflection"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "For inflectional schemata designed for use as aids in learning a\nlanguage, see -82"
+      ]
+    }
+  },
+  {
+    "id": "T4:-7",
+    "type": "Concept",
+    "notation": "-7",
+    "prefLabel": {
+      "en": "Historical and geographic variations, modern\nnongeographic variations"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-4_p00008.png",
+      "span": "-7\nHistorical and geographic variations, modern\nnongeographic variations"
+    },
+    "table": "T4",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here early forms; dialects, patois, provincialisms; pidgins, creoles, mixed\nlanguages; argot, cant, jargon, slang"
+      ],
+      "notes": [
+        "Subdivisions of -7 are given under some individual languages in 420-490",
+        "Use notation 7 only for works that stress differences among the forms of a\nlanguage",
+        "Works on writing systems, etymology, dictionaries, phonology, phonetics,\ngrammar, applied linguistics are classed here when applied to historical and\ngeographic variations, to modern nongeographic variations, e.g., paleography\nand epigraphy of an early form of the language, the distinctive grammatical\ncharacteristics of a particular dialect"
+      ],
+      "manualRefs": [
+        "T4-7; also at T4-1-5, T4-8 vs. T4-7"
+      ]
+    }
+  },
+  {
+    "id": "T4:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Standard usage of the language (Prescriptive linguistics)"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-4_p00009.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "General, formal, informal usage",
+        "for native speakers who are learning the acceptable patterns of their own language",
+        "Class purely descriptive linguistics in —1–5; class dictionaries in —3; class",
+        "prescriptive and applied linguistics applied to historical and geographic variations,",
+        "to modern nongeographic variations of the language in —7"
+      ],
+      "classHere": [
+        "applied linguistics, works for people learning a second language, works"
+      ],
+      "seeAlso": [
+        "808.04"
+      ],
+      "manualRefs": [
+        "T4—1–5, T4—8 vs. T4—7; also at 410"
+      ]
+    }
+  },
+  {
+    "id": "T4:-8001-8009",
+    "type": "Concept",
+    "notation": "-8001-8009",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-4_p00009.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "manualRefs": [
+        "See Manual at 407.1, T1—071 vs. 401.93, Т4-019, 410.71,",
+        "418.0071, T4—80071"
+      ]
+    }
+  },
+  {
+    "id": "T4:-80071",
+    "type": "Concept",
+    "notation": "-80071",
+    "prefLabel": {
+      "en": "Education"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-4_p00009.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here second language teaching"
+      ],
+      "manualRefs": [
+        "See Manual at 407.1, T1—071 vs. 401.93, T4-019, 410.71,",
+        "418.0071, T4—80071"
+      ]
+    }
+  },
+  {
+    "id": "T4:-802",
+    "type": "Concept",
+    "notation": "-802",
+    "prefLabel": {
+      "en": "Translating to and from other languages"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-4_p00009.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here interpreting"
+      ],
+      "notes": [
+        "Use the base number for the language being translated into, for works on",
+        "translating into a specific language. Use the base number coming later in",
+        "420-490 for works on translating in both directions between two languages.",
+        "Use the base number for the language being translated from, for works on",
+        "translating from one language into many languages",
+        "being translated from, e.g., translating from Chinese into a specific",
+        "language—802951, translating from Chinese into English 428.02951,",
+        "translating from Chinese into English and English into Chinese",
+        "495.180221, translating from Chinese into many languages 495.1802",
+        "Except for collections of texts intended for teaching the art of translating,",
+        "translations themselves are classed with the works translated"
+      ],
+      "addToBaseRules": [
+        "Add to base number —802 notation 2–9 from Table 6 for the language"
+      ],
+      "relocations": [
+        "Translating materials on specific subjects relocated to —803; translating",
+        "literature (belles-lettres) and rhetoric relocated to —804"
+      ]
+    }
+  },
+  {
+    "id": "T4:-8020285",
+    "type": "Concept",
+    "notation": "-8020285",
+    "prefLabel": {
+      "en": "Computer applications"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-4_p00009.png",
+      "span": "null"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:8020285635",
+    "type": "Concept",
+    "notation": "8020285635",
+    "prefLabel": {
+      "en": "Natural language processing"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-4_p00009.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here machine translation"
+      ]
+    }
+  },
+  {
+    "id": "T4:-803",
+    "type": "Concept",
+    "notation": "-803",
+    "prefLabel": {
+      "en": "Translating materials on specific subjects [formerly -802]"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-4_p00010.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here interpreting materials on specific subjects"
+      ],
+      "notes": [
+        "Use the base number for the language being translated into, for works on\ntranslating into a specific language. Use the base number coming later in\n420-490 for works on translating in both directions between two languages.\nUse the base number for the language being translated from, for works on\ntranslating from one language into many languages",
+        "Notation for language may be added for any topic, even if the subject of\nthe work does not approximate the whole"
+      ],
+      "seeAlso": [
+        "however, for translating literature (belles-lettres) and\nrhetoric, see-804"
+      ],
+      "tableRefs": [
+        "Add to base number-803 three-digit numbers 001-999 (but stop before\nany zero that follows a non-zero number), e.g., translating natural history\nmaterials -8035 (not-803508), translating medical materials -80361;\nthen, for translating from a specific language, add 0* and to the result\nadd notation 2-9 from Table 6, e.g., translating medical materials from\nGerman-80361031, translating medical materials from German into\nEnglish 428.0361031"
+      ]
+    }
+  },
+  {
+    "id": "T4:-804",
+    "type": "Concept",
+    "notation": "-804",
+    "prefLabel": {
+      "en": "Translating literature (belles-lettres) and rhetoric [formerly -802]"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-4_p00010.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here interpreting literature and rhetoric, translating works about\nliterature, rhetoric"
+      ],
+      "notes": [
+        "Standard subdivisions are added for translating literature (belles-lettres) and\nrhetoric together, for translating literature (belles-lettres) alone",
+        "Use the base number for the language being translated into, for works on\ntranslating into a specific language. Use the base number coming later in\n420-490 for works on translating in both directions between two languages.\nUse the base number for the language being translated from, for works on\ntranslating from one language into many languages"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T4:-804001-804009",
+    "type": "Concept",
+    "notation": "-804001-804009",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-4_p00010.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "tableRefs": [
+        "*Add 00 for standard subdivisions; see instructions at beginning of Table 1"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T4:-80402-80409",
+    "type": "Concept",
+    "notation": "-804 02-804 09",
+    "prefLabel": {
+      "en": "Translating literature from a specific language"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-4_p00011.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number-8040 notation 2-9 from Table 6, e.g., translating French literature -804041, translating French literature into English 428.04041"
+      ]
+    }
+  },
+  {
+    "id": "T4:-8041-8048",
+    "type": "Concept",
+    "notation": "-804 1-804 8",
+    "prefLabel": {
+      "en": "Translating specific forms of literature"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-4_p00011.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -804 one-digit notation 1-8 from Table 3B, e.g., translating poetry-8041, translating tragedy -8042 (not -80420512); then, for translating from a specific language, add 0* and to the result add notation 2-9 from Table 6, e.g., translating Spanish poetry-8041061, translating Spanish poetry into English 428.041061",
+        "Notation for language may be added for any topic, even if the subject of the work does not approximate the whole"
+      ],
+      "classHere": [
+        "Class translating a specific work or the works of a specific author with the work, translations of the work, or author, e.g., translating the Bible 220, translating the Bible into English 220.52, translating the works of Aristotle 185"
+      ]
+    }
+  },
+  {
+    "id": "T4:-81",
+    "type": "Concept",
+    "notation": "-81",
+    "prefLabel": {
+      "en": "Words"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-4_p00011.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here discursive works on terminology intended to teach vocabulary",
+        "Class formal presentation of vocabulary for those whose native language is different in -824; class audio-lingual presentation of vocabulary for those whose native language is different in -834; class comprehensive works on terminology in -014"
+      ],
+      "seeAlso": [
+        "See also -3 for dictionaries"
+      ],
+      "tableRefs": [
+        "See Manual at T4-3 vs. T4-81"
+      ]
+    }
+  },
+  {
+    "id": "T4:-813",
+    "type": "Concept",
+    "notation": "-813",
+    "prefLabel": {
+      "en": "Spelling (Orthography) and pronunciation"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-4_p00011.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "including": [
+        "Including books meant to teach the alphabet"
+      ],
+      "notes": [
+        "Standard subdivisions are added for either or both topics in heading"
+      ],
+      "seeAlso": [
+        "See also-152 for nonprescriptive treatment of spelling and pronunciation; also -31 for speller-dividers (ready-reference lists of words); also 783.043 for pronunciation for singing"
+      ],
+      "tableRefs": [
+        "Class here pronunciation of consonants, vowels; spellers (spelling books with exercises to teach how to spell)"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T4:-82",
+    "type": "Concept",
+    "notation": "-82",
+    "prefLabel": {
+      "en": "Structural approach to expression"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-4_p00011.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here prescriptive grammar, verb tables and inflectional schemata designed for use as aids in learning a language"
+      ],
+      "notes": [
+        "Formal (traditional) presentation of grammar, vocabulary, reading selections"
+      ],
+      "seeAlso": [
+        "For words, see-81; for reading, see -84"
+      ]
+    }
+  },
+  {
+    "id": "T4:-823",
+    "type": "Concept",
+    "notation": "-823",
+    "prefLabel": {
+      "en": "Punctuation"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-4_p00011.png",
+      "span": "null"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-824",
+    "type": "Concept",
+    "notation": "-824",
+    "prefLabel": {
+      "en": "Structural approach to expression for people whose native language is different"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-824\nStructural approach to expression for people whose native language is\ndifferent"
+    },
+    "table": "T4",
+    "scope": {
+      "addToBaseRules": [
+        "Add to -824 notation 2-9 from Table 6, e.g., the language for\nSpanish-speaking people-82461, English for Spanish-speaking people\n428.2461"
+      ]
+    }
+  },
+  {
+    "id": "T4:-83",
+    "type": "Concept",
+    "notation": "-83",
+    "prefLabel": {
+      "en": "Audio-lingual approach to expression"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-83\nAudio-lingual approach to expression"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here the \"hear-speak\" school of learning a language"
+      ],
+      "seeAlso": [
+        "For pronunciation, see -813"
+      ]
+    }
+  },
+  {
+    "id": "T4:-834",
+    "type": "Concept",
+    "notation": "-834",
+    "prefLabel": {
+      "en": "Audio-lingual approach to expression for people whose native language is different"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-834\nAudio-lingual approach to expression for people whose native\nlanguage is different"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here bilingual phrase books"
+      ],
+      "tableRefs": [
+        "Add to -834 notation 2-9 from Table 6, e.g., the language for\nSpanish-speaking people -83461, English for Spanish-speaking people\n428.3461"
+      ]
+    }
+  },
+  {
+    "id": "T4:-84",
+    "type": "Concept",
+    "notation": "-84",
+    "prefLabel": {
+      "en": "Reading"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-84\nReading"
+    },
+    "table": "T4",
+    "scope": {
+      "seeAlso": [
+        "For readers, see -86"
+      ]
+    }
+  },
+  {
+    "id": "T4:-842",
+    "type": "Concept",
+    "notation": "-842",
+    "prefLabel": {
+      "en": "Remedial reading"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-842\nRemedial reading"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Correcting faulty habits and increasing the proficiency of poor readers"
+      ]
+    }
+  },
+  {
+    "id": "T4:-843",
+    "type": "Concept",
+    "notation": "-843",
+    "prefLabel": {
+      "en": "Developmental reading"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-843\nDevelopmental reading"
+    },
+    "table": "T4",
+    "scope": {
+      "including": [
+        "Including reading power and efficiency of good readers"
+      ]
+    }
+  },
+  {
+    "id": "T4:-8432",
+    "type": "Concept",
+    "notation": "-8432",
+    "prefLabel": {
+      "en": "Rapid reading (Speed reading)"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-843 2\nRapid reading (Speed reading)"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-86",
+    "type": "Concept",
+    "notation": "-86",
+    "prefLabel": {
+      "en": "Readers"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-86\nReaders"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Graded selections with emphasis on structure and vocabulary as needed",
+        "Including readers compiled for training college students in reading\ncomprehension"
+      ],
+      "relocations": [
+        "Class here texts intended primarily for practice in reading a language",
+        "(Option: Class primary readers in 372.4122)"
+      ]
+    }
+  },
+  {
+    "id": "T4:-862",
+    "type": "Concept",
+    "notation": "-862",
+    "prefLabel": {
+      "en": "Readers for new literates"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-862\nReaders for new literates"
+    },
+    "table": "T4",
+    "scope": {
+      "notes": [
+        "Regardless of subject"
+      ]
+    }
+  },
+  {
+    "id": "T4:-864",
+    "type": "Concept",
+    "notation": "-864",
+    "prefLabel": {
+      "en": "Readers for people whose native language is different from the language of the reader"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-864\nReaders for people whose native language is different from the\nlanguage of the reader"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-864024",
+    "type": "Concept",
+    "notation": "-864024",
+    "prefLabel": {
+      "en": "Readers for people in specific occupations"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-4_p00012.png",
+      "span": "-864 024\nReaders for people in specific occupations"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here readers intended to instill a knowledge of the special\nvocabulary of a specific subject"
+      ],
+      "tableRefs": [
+        "Add to base number -864024 notation 001-999, e.g.,\nengineering readers for people whose native language is different\n-86402462, English-language engineering readers for people\nwhose native language is not English 428.6402462"
+      ]
+    }
+  },
+  {
+    "id": "T4:-8642-8649",
+    "type": "Concept",
+    "notation": "-8642-8649",
+    "prefLabel": {
+      "en": "Readers for speakers of specific native languages"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-4_p00013.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "tableRefs": [
+        "from Table 6"
+      ],
+      "addToBaseRules": [
+        "Add to base number -864 notation 2-9 from Table 6, e.g., readers (in language other than Spanish) for Spanish-speaking people -86461, English-language readers for Spanish-speaking people 428.6461; then add further as follows:"
+      ]
+    }
+  },
+  {
+    "id": "T4:024",
+    "type": "Concept",
+    "notation": "024",
+    "prefLabel": {
+      "en": "Readers for people in specific occupations"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-4_p00013.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here readers intended to instill a knowledge of the special vocabulary of a specific subject"
+      ],
+      "addToBaseRules": [
+        "Add to base number 024 notation 001-999,\ne.g., engineering readers (in language other\nthan Spanish) for Spanish-speaking people\n-8646102462, English-language engineering\nreaders for Spanish-speaking people 428.646102462"
+      ]
+    }
+  },
+  {
+    "id": "T4:-89",
+    "type": "Concept",
+    "notation": "-89",
+    "prefLabel": {
+      "en": "Use of a spoken language or a manually coded form of a spoken language for communication with and by deaf people"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-4_p00013.png",
+      "span": "null"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-891",
+    "type": "Concept",
+    "notation": "-891",
+    "prefLabel": {
+      "en": "Manually coded language"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-4_p00013.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "classHere": [
+        "Class here use of signs and fingerspelling to represent specific standard spoken languages",
+        "Class signs and fingerspelling used as part of sign languages in 419"
+      ],
+      "seeAlso": [
+        "-8955 for cued speech"
+      ]
+    }
+  },
+  {
+    "id": "T4:-8914-8919",
+    "type": "Concept",
+    "notation": "-8914-8919",
+    "prefLabel": {
+      "en": "Specific systems of manual coding"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-4_p00013.png",
+      "span": "null"
+    },
+    "table": "T4",
+    "scope": {
+      "tableRefs": [
+        "from Table 2"
+      ],
+      "addToBaseRules": [
+        "Add to base number -891 notation 4-9 from Table 2, e.g., British systems of signing and fingerspelling -89141"
+      ]
+    }
+  },
+  {
+    "id": "T4:-895",
+    "type": "Concept",
+    "notation": "-895",
+    "prefLabel": {
+      "en": "Lipreading, cued speech, oral interpretation (lipspeaking)"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-4_p00013.png",
+      "span": "null"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-8954",
+    "type": "Concept",
+    "notation": "-8954",
+    "prefLabel": {
+      "en": "Lipreading (Speechreading)"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-4_p00013.png",
+      "span": "null"
+    },
+    "table": "T4"
+  },
+  {
+    "id": "T4:-8955",
+    "type": "Concept",
+    "notation": "-8955",
+    "prefLabel": {
+      "en": "Cued speech"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-4_p00013.png",
+      "span": "null"
+    },
+    "table": "T4"
+  }
+]

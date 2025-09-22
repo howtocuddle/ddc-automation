@@ -1,0 +1,6362 @@
+[
+  {
+    "id": "T3A:--8",
+    "type": "Concept",
+    "notation": "--8",
+    "prefLabel": {
+      "en": "Miscellaneous writings"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "Add this to the base number, e.g., Swahili poetry 896.3921, Dutch poetry 893.311."
+      ]
+    }
+  },
+  {
+    "id": "T3A:--81",
+    "type": "Concept",
+    "notation": "--81",
+    "prefLabel": {
+      "en": "Poetry"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--82",
+    "type": "Concept",
+    "notation": "--82",
+    "prefLabel": {
+      "en": "Drama"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--83",
+    "type": "Concept",
+    "notation": "--83",
+    "prefLabel": {
+      "en": "Fiction"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--84",
+    "type": "Concept",
+    "notation": "--84",
+    "prefLabel": {
+      "en": "Essays"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--85",
+    "type": "Concept",
+    "notation": "--85",
+    "prefLabel": {
+      "en": "Letters"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--86",
+    "type": "Concept",
+    "notation": "--86",
+    "prefLabel": {
+      "en": "Speeches"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--87",
+    "type": "Concept",
+    "notation": "--87",
+    "prefLabel": {
+      "en": "Journals and diaries"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--88",
+    "type": "Concept",
+    "notation": "--88",
+    "prefLabel": {
+      "en": "Autobiographies and biographies"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--89",
+    "type": "Concept",
+    "notation": "--89",
+    "prefLabel": {
+      "en": "Collected works"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--891",
+    "type": "Concept",
+    "notation": "--891",
+    "prefLabel": {
+      "en": "Collected works of individual authors"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--892",
+    "type": "Concept",
+    "notation": "--892",
+    "prefLabel": {
+      "en": "Collected works of groups of authors"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--893",
+    "type": "Concept",
+    "notation": "--893",
+    "prefLabel": {
+      "en": "Collected works of unknown or unstated authorship"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--894",
+    "type": "Concept",
+    "notation": "--894",
+    "prefLabel": {
+      "en": "Collected works of authors of multiple works"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--895",
+    "type": "Concept",
+    "notation": "--895",
+    "prefLabel": {
+      "en": "Collected works of authors of single works"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--896",
+    "type": "Concept",
+    "notation": "--896",
+    "prefLabel": {
+      "en": "Collected works of authors of multiple works"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--897",
+    "type": "Concept",
+    "notation": "--897",
+    "prefLabel": {
+      "en": "Collected works of authors of single works"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--898",
+    "type": "Concept",
+    "notation": "--898",
+    "prefLabel": {
+      "en": "Collected works of authors of multiple works"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--899",
+    "type": "Concept",
+    "notation": "--899",
+    "prefLabel": {
+      "en": "Collected works of authors of single works"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:--9",
+    "type": "Concept",
+    "notation": "--9",
+    "prefLabel": {
+      "en": "History and criticism"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-3_p00001.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If the literary form appears as a subdivision of—8 Miscellaneous writings, go to the instructions under —8 in Table 3A; otherwise, go to step 3"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-1-8",
+    "type": "Concept",
+    "notation": "-1-8",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Specific forms"
+    },
+    "scope": {
+      "notes": [
+        "Unless other instructions are given, observe the following table of preference\nfor works combining two or more literary forms, e.g., drama written in verse\n-2.(not-1):"
+      ]
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Drama"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Poetry"
+    },
+    "scope": {
+      "classHere": [
+        "Class epigrams in verse in -8"
+      ]
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Fiction"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-4",
+    "type": "Concept",
+    "notation": "-4",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Essays"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-5",
+    "type": "Concept",
+    "notation": "-5",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Speeches"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-6",
+    "type": "Concept",
+    "notation": "-6",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Letters"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Miscellaneous writings"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Poetry"
+    },
+    "scope": {
+      "classHere": [
+        "Class epigrams in verse in -8"
+      ],
+      "seeAlso": [
+        "See Manual at T3A-2, T3B-2 vs. T3Ð-1, Ð¢ÐÐ-102"
+      ]
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-11-19",
+    "type": "Concept",
+    "notation": "-11-19",
+    "table": "T3A",
+    "rowType": "TableRow",
+    "prefLabel": {
+      "en": "Poetry of specific periods"
+    },
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number-1 notation from the period table for the specific\nliterature in 810-890, e.g., earliest period -11; do not add standard\nsubdivisions. If there is no applicable period table, add nothing to -1, e.g.,\nMongolian poetry by an author of the earliest period 894.231 (not 894.2311)\n(Option: Where two or more countries share the same language, follow\none of the options given after step 3 at beginning of Table 3A, e.g.,\npoetry in English by an Australian author of the earliest period A821.1 or\n828.993411)"
+      ]
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-3_p00002.png",
+      "span": null
+    }
+  },
+  {
+    "id": "T3A:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "prefLabel": {
+      "en": "Drama"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-3_p00003.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "classHere": [
+        "Class here closet drama, drama written in poetry"
+      ],
+      "manualRefs": [
+        "See Manual at T3A-2, T3B-2 vs. T3A-1, Т3B-102"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-21-29",
+    "type": "Concept",
+    "notation": "-21-29",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-3_p00003.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -2 notation from the period table for the specific\nliterature in 810-890, e.g., earliest period-21; do not add standard\nsubdivisions. If there is no applicable period table, add nothing to --2, e.g.,\nMongolian drama by an author of the earliest period 894.232 (not 894.2321)\n(Option: Where two or more countries share the same language, follow\none of the options given after step 3 at beginning of Table 3A, e.g., drama\nin English by a New Zealand author of the earliest period NZ822.1 or\n828.993321)"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "prefLabel": {
+      "en": "Fiction"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-3_p00003.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "classHere": [
+        "Class here novels, novelettes, short stories",
+        "Class graphic novels in 741.5"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-31-39",
+    "type": "Concept",
+    "notation": "-31-39",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-3_p00003.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -3 notation from the period table for the specific\nliterature in 810-890, e.g., earliest period -31; do not add standard\nsubdivisions. If there is no applicable period table, add nothing to -3, e.g.,\nMongolian fiction by an author of the earliest period 894.233 (not 894.2331)\n(Option: Where two or more countries share the same language, follow one\nof the options given after step 3 at beginning of Table 3A, e.g., fiction in\nFrench by a Canadian author of the colonial period C843.3 or 848.99233)"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-4",
+    "type": "Concept",
+    "notation": "-4",
+    "prefLabel": {
+      "en": "Essays"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-3_p00003.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "Texts, collections, discussions of works with literary value"
+      ],
+      "seeAlso": [
+        "See Manual at 800: Choice between literature and nonliterary subject"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-41-49",
+    "type": "Concept",
+    "notation": "-41-49",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-3_p00003.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -4 notation from the period table for the specific\nliterature in 810-890, e.g., earliest period -41; do not add standard\nsubdivisions. If there is no applicable period table, add nothing to -4,\ne.g., Macedonian essays by an author of the earliest period 891.8194 (not\n891.81941)\n(Option: Where two or more countries share the same language, follow one\nof the options given after step 3 at beginning of Table 3A, e.g., essays in\nSpanish by a 19th-century Mexican author M864.2 or 868.992142)"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-5",
+    "type": "Concept",
+    "notation": "-5",
+    "prefLabel": {
+      "en": "Speeches"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-3_p00003.png"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "Texts, collections, discussions of works with literary value"
+      ],
+      "seeAlso": [
+        "See Manual at 800: Choice between literature and nonliterary subject"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-51-59",
+    "type": "Concept",
+    "notation": "-51-59",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-3_p00004.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -5 notation from the period table for the specific\nliterature in 810-890, e.g., earliest period-51; do not add standard\nsubdivisions. If there is no applicable period table, add nothing to -5, e.g.,\nMongolian speeches by an author of the earliest period 894.235 (not 894.2351)\n(Option: Where two or more countries share the same language, follow one\nof the options given after step 3 at beginning of Table 3A, e.g., speeches in\nSpanish by a 19th-century Chilean author Ch865.2 or 868.993352)"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-6",
+    "type": "Concept",
+    "notation": "-6",
+    "prefLabel": {
+      "en": "Letters"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-3_p00004.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "Texts, collections, discussions of works with literary value",
+        "Class collections of the letters of an individual author as biography with the form\nwith which the author is chiefly identified, e.g., letters of a mid-19th-century\nAmerican known primarily as a novelist 813.3"
+      ],
+      "seeAlso": [
+        "See Manual at 800: Choice between literature and nonliterary subject"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-61-69",
+    "type": "Concept",
+    "notation": "-61-69",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-3_p00004.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -6 notation from the period table for the specific\nliterature in 810-890, e.g., earliest period -61; do not add standard\nsubdivisions. If there is no applicable period table, add nothing to -6, e.g.,\nTibetan letters by an author of the earliest period 895.46 (not 895.461)\n(Option: Where two or more countries share the same language, follow one\nof the options given after step 3 at beginning of Table 3A, e.g., letters in\nPortuguese by a 20th-century Brazilian author B869.64 or 869.899264)"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Miscellaneous writings"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-3_p00004.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "Procedures for building numbers:",
+        "1. To the base number add notation 8, e.g., miscellaneous writings in English\n828. Go to step 2",
+        "2. Turn back to the appropriate number in the schedule 810-890 to see whether\nthere is an applicable period table. If there is one, go to step 3; if not, complete the\nclass number by inserting a decimal point between the third and fourth digits, e.g.,\nmiscellaneous writings in Khmer (Cambodian) by a 20th-century writer 895.9328\n(Option: Where optional period tables are available for countries that share\nthe same language, either [1] use initial letters to distinguish the separate\ncountries, or [2] use the special number designated for literature of those\ncountries that are not preferred. Then use the optional period tables, e.g.,\nmiscellaneous writings in English by a 20th-century New Zealand author\nNZ828.2 or 828.993382. Full instructions for optional period tables appear\nunder 811-818, 819, 821-828, 828.99, 841-848, 848.99, 861-868, 868.99,\n869, 869.899. If the option is used, go to step 3)",
+        "(Option: Where optional period tables are not available for countries that share\nthe same language, use initial letters to distinguish the separate countries. Then\nuse the standard period table for the language if one is available. If a period\ntable is available, go to step 3)",
+        "3. Select the appropriate period number, e.g., the Victorian period in the English\nliterature of Great Britain 8. Then follow the instructions under-81-89",
+        "(Option: Class here description, critical appraisal, biography, single and collected\nworks of all individual authors regardless of form; prefer-1-8)"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-81-89",
+    "type": "Concept",
+    "notation": "-81-89",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-3_p00005.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "literature in 810-890, e.g., earliest period-81; then add further as follows,",
+        "but in no case add standard subdivisions:"
+      ],
+      "addToBaseRules": [
+        "Add to base number -8 notation from the period table for the specific"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T3A:02",
+    "type": "Concept",
+    "notation": "02",
+    "prefLabel": {
+      "en": "Anecdotes, epigrams, graffiti, jokes, jests, quotations, riddles,\ntongue twisters"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-3_p00005.png",
+      "span": "null"
+    },
+    "table": "T3A"
+  },
+  {
+    "id": "T3A:02",
+    "type": "Concept",
+    "notation": "02",
+    "prefLabel": {
+      "en": "Anecdotes, epigrams, graffiti, jokes, jests, quotations, riddles,\ntongue twisters"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-3_p00005.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "classHere": [
+        "Class anonymous riddles from the oral tradition in 398.6; class",
+        "anonymous jokes and jests from the oral tradition in 398.7;",
+        "class anonymous tongue twisters from the oral tradition in",
+        "398.8"
+      ],
+      "seeAlso": [
+        "See Manual at T1-0207 vs. T3B-7, T3A-8 + 02,",
+        "T3B-802, T3B-8 + 02, T3A-8+07, T3B-807,",
+        "T3B-8+07; also at T3A-8+ 02, T3B-802,",
+        "T3B-8 + 02 vs. 398.6, 793.735"
+      ]
+    }
+  },
+  {
+    "id": "T3A:03",
+    "type": "Concept",
+    "notation": "03",
+    "prefLabel": {
+      "en": "Diaries, journals, notebooks, reminiscences"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-3_p00005.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "seeAlso": [
+        "See Manual at T3A-8+03 and T3B-803, T3B-8+03"
+      ]
+    }
+  },
+  {
+    "id": "T3A:07",
+    "type": "Concept",
+    "notation": "07",
+    "prefLabel": {
+      "en": "Works without identifiable literary form"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-3_p00005.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "classHere": [
+        "Class here experimental and nonformalized works, works",
+        "that mimic nonliterary forms and genres for literary purposes,",
+        "not conveying useful information (e.g., humorous or fantasy",
+        "works in the form of dictionaries, self-help books, travel",
+        "guides)"
+      ]
+    }
+  },
+  {
+    "id": "T3A:07",
+    "type": "Concept",
+    "notation": "07",
+    "prefLabel": {
+      "en": "Works without identifiable literary form"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-3_p00005.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "classHere": [
+        "Class experimental works with an identifiable literary form",
+        "with the form, e.g., experimental novels -3; class works",
+        "without identifiable literary form that are linked with a",
+        "specific literary work with the work, e.g., a history of an",
+        "imaginary game associated with a specific novel with the",
+        "novel in-3; class works that convey useful information",
+        "on a nonliterary topic with the topic even if linked with a",
+        "specific literary work, e.g., literary cookbooks with real",
+        "recipes inspired by or derived from literary sources 641.5"
+      ],
+      "seeAlso": [
+        "See Manual at T1-0207 vs. T3B-7, T3A-8+02,",
+        "T3B-802, T3B-8 + 02, T3A-807, T3B-807,",
+        "T3B-8+07"
+      ]
+    }
+  },
+  {
+    "id": "T3A:08",
+    "type": "Concept",
+    "notation": "08",
+    "prefLabel": {
+      "en": "Prose literature"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-3_p00005.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "Collections or discussions of works in more than one prose",
+        "form"
+      ],
+      "seeAlso": [
+        "See Manual at T1-0207 vs. T3B-7, T3A-8+02,",
+        "T3B-802, T3B-8 + 02, T3A-8+07, T3B-807,",
+        "T3B-8+07"
+      ]
+    }
+  },
+  {
+    "id": "T3A:08",
+    "type": "Concept",
+    "notation": "08",
+    "prefLabel": {
+      "en": "Prose literature"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-3_p00005.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "classHere": [
+        "Class here collections and criticism of selected prose works",
+        "of an individual author that do not include the author's main",
+        "literary form, e.g., a collection of the prose works of an",
+        "English Victorian poet 828.808, a collection of the stories and",
+        "plays of an English essayist of the romantic period 828.708",
+        "Class prose without identifiable literary form in 07. Class a",
+        "specific form of prose literature with the form, e.g., essays",
+        "-4; class comprehensive collections or criticisms of an",
+        "author's work with the the author's main literary number,",
+        "either with the predominant literary form or in 09 for",
+        "individual authors not limited to or chiefly identifiable with",
+        "one specific form, e.g., a comprehensive collection of the",
+        "works of an English Victorian writer known primarily as a",
+        "novelist 823.8"
+      ]
+    }
+  },
+  {
+    "id": "T3A:09",
+    "type": "Concept",
+    "notation": "09",
+    "prefLabel": {
+      "en": "Individual authors not limited to or chiefly identifiable with one\nspecific form"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-3_p00005.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "classHere": [
+        "Class here description, critical appraisal, biography, collected",
+        "works"
+      ]
+    }
+  },
+  {
+    "id": "T3A:-81-89",
+    "type": "Concept",
+    "notation": "-81-89",
+    "prefLabel": {
+      "en": "Specific periods (continued)"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-3_p00006.png",
+      "span": "null"
+    },
+    "table": "T3A",
+    "scope": {
+      "notes": [
+        "If there is no applicable period table, add nothing to -8, e.g., Mongolian prose literature by an author of the later 20th century 894.238 (not 894.23808)",
+        "(Option: Where two or more countries share the same language, follow one of the options given after step 2 under-8, e.g., prose literature in English by an Indian author of the later 20th century In828.308 or 828.99358308)"
+      ]
+    }
+  },
+  {
+    "id": "T3B:--8",
+    "type": "Concept",
+    "notation": "--8",
+    "prefLabel": {
+      "en": "Miscellaneous writings"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-3_p00007.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "go to step 4"
+      ]
+    }
+  },
+  {
+    "id": "T3B:--1042",
+    "type": "Concept",
+    "notation": "--1042",
+    "prefLabel": {
+      "en": "sonnets"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-3_p00007.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "go to step 4"
+      ]
+    }
+  },
+  {
+    "id": "T3B:--01-09",
+    "type": "Concept",
+    "notation": "--01-09",
+    "prefLabel": {
+      "en": "[Standard subdivisions; collections of literary texts in more than one form; history, description, critical appraisal of works in more than one form]"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-3_p00009.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Subdivisions for works by or about More than One Author (continued)"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "Poetry"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-3_p00009.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "prefLabel": {
+      "en": "Drama"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-3_p00009.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "prefLabel": {
+      "en": "Fiction"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-3_p00009.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-4",
+    "type": "Concept",
+    "notation": "-4",
+    "prefLabel": {
+      "en": "Essays"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-3_p00009.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-5",
+    "type": "Concept",
+    "notation": "-5",
+    "prefLabel": {
+      "en": "Speeches"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-3_p00009.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-6",
+    "type": "Concept",
+    "notation": "-6",
+    "prefLabel": {
+      "en": "Letters"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-3_p00009.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-7",
+    "type": "Concept",
+    "notation": "-7",
+    "prefLabel": {
+      "en": "Humor and satire"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-3_p00009.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Miscellaneous writings"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-3_p00009.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-01-07",
+    "type": "Concept",
+    "notation": "-01-07",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-3_p00010.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are used for general works consisting equally of literary\ntexts and history, description, critical appraisal, e.g., a serial consisting equally\nof literary texts and history, description, critical appraisal of a variety of\nliterature in English 820.5. Works limited to specific topics found in Table 3C\nare classed in -08, plus notation from Table 3C",
+        "Class collections of literary texts in -08; class history, description, critical\nappraisal in -09"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T3B:-08",
+    "type": "Concept",
+    "notation": "-08",
+    "prefLabel": {
+      "en": "Collections of literary texts in more than one form"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-3_p00010.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for groups of people; class in -0808-0809",
+        "Class history, description, critical appraisal of a specific literature in -09"
+      ],
+      "seeAlso": [
+        "See Manual at T3B-08 and T3B-09"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-080001-080008",
+    "type": "Concept",
+    "notation": "-080001-080008",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-3_p00010.png",
+      "span": "null"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-080009",
+    "type": "Concept",
+    "notation": "-080009",
+    "prefLabel": {
+      "en": "History and geographic treatment"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-3_p00010.png",
+      "span": "null"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-08000901-08000905",
+    "type": "Concept",
+    "notation": "-08000901-08000905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-3_p00010.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for literature of a specific language; class in\n-08001-08009"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-08001-080009",
+    "type": "Concept",
+    "notation": "-08001-080009",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-3_p00010.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Works consisting equally of literary texts and history, description,\ncritical appraisal of a specific literature are classed here if limited\nto specific periods, e.g., texts and criticisın of 19th-century\nEnglish-language literary works 820.8008"
+      ],
+      "addToBaseRules": [
+        "Add to base number -080 notation from the period table for\nthe specific literature, e.g., earliest period -08001. If there is no\napplicable period table, this provision for indicating period cannot\nbe used, e.g., collection of 20th-century literary works in Amharic\n892.8708"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-0801-0809",
+    "type": "Concept",
+    "notation": "-0801-0809",
+    "prefLabel": {
+      "en": "Literature displaying specific features, or emphasizing subjects, or\nfor and by groups of people"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-3_p00010.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -080 notation 1-9 from Table 3C, e.g., collections\nof literary texts about holidays-080334"
+      ],
+      "notes": [
+        "Works consisting equally of literary texts and history, description,\ncritical appraisal of a specific literature are classed here if limited\nto specific topics found in Table 3C, e.g., texts and criticism of\nEnglish-language literary works about war 820.803581"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-09",
+    "type": "Concept",
+    "notation": "-09",
+    "prefLabel": {
+      "en": "History, description, critical appraisal of works in more than one\nform"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-3_p00010.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for geographic treatment; class in -090009"
+      ],
+      "seeAlso": [
+        "See Manual at T3B-08 and T3B-09"
+      ],
+      "tableRefs": [
+        "Notation-09 from Table 1 as modified below"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-090001-090008",
+    "type": "Concept",
+    "notation": "-090001-090008",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-3_p00011.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-090009",
+    "type": "Concept",
+    "notation": "-090009",
+    "prefLabel": {
+      "en": "Geographic treatment"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-3_p00011.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for history without subdivision, biography; class in —09. Do not use for historical periods; class in —09001–09009"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-0900093-0900099",
+    "type": "Concept",
+    "notation": "-0900093-0900099",
+    "prefLabel": {
+      "en": "Specific continents, countries, localities"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-3_p00011.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for literature for and by residents of specific continents countries, localities; class in —0993–0999"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-09001-09009",
+    "type": "Concept",
+    "notation": "-09001-09009",
+    "prefLabel": {
+      "en": "Literature from specific periods"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-3_p00011.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —0900 notation from the period table for the specific literature, e.g., earliest period —09001. If there is no applicable period table, this provision for indicating period cannot be used, e.g., history of early Cornish literature 891.6709"
+      ],
+      "notes": [
+        "(Option: Use notation from an optional period table, e.g., history of literature in Spanish by Chilean authors of early 20th century Ch860.90042 or 868.9933090042; prefer —0993–0999, e.g., history of literature in Spanish by Chilean authors 860.9983, history of literature in Spanish by Chilean authors of early 20th century 860.998309041. Full instructions appear under 811–818, 819, 821–828, 828.99, 841–848, 848.99, 861–868, 868.99, 869, and 869.899)"
+      ],
+      "seeAlso": [
+        "See Manual at T3B—091–099 vs. T3B—09001–09009"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-[0901-0909]",
+    "type": "Concept",
+    "notation": "-[0901-0909]",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-3_p00011.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use; class in —09001–09009"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-091-099",
+    "type": "Concept",
+    "notation": "-091-099",
+    "prefLabel": {
+      "en": "Literature displaying specific features or emphasizing subjects, and for and by groups of people"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-3_p00011.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —09 notation 1–9 from Table 3C, e.g., history and description of literature on Faust —09351, history of literature in Spanish by Chilean authors 860.9983, history of literature in Spanish by Chilean authors of early 20th century 860.998309041"
+      ],
+      "seeAlso": [
+        "See Manual at T3B—091–099 vs. T3B—09001–09009"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "from Table 3C"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-1-8",
+    "type": "Concept",
+    "notation": "-1-8",
+    "prefLabel": {
+      "en": "Specific forms"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Unless other instructions are given, observe the following table of preference for works combining two or more literary forms, e.g., poetic drama —2 (not —1):"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-1-8:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "prefLabel": {
+      "en": "Drama"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1-8:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "Poetry"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1-8:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Class epigrams in verse"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1-8:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "prefLabel": {
+      "en": "Fiction"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1-8:-4",
+    "type": "Concept",
+    "notation": "-4",
+    "prefLabel": {
+      "en": "Essays"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1-8:-5",
+    "type": "Concept",
+    "notation": "-5",
+    "prefLabel": {
+      "en": "Speeches"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1-8:-6",
+    "type": "Concept",
+    "notation": "-6",
+    "prefLabel": {
+      "en": "Letters"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1-8:-7",
+    "type": "Concept",
+    "notation": "-7",
+    "prefLabel": {
+      "en": "Miscellaneous writings"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1-8:-9",
+    "type": "Concept",
+    "notation": "-9",
+    "prefLabel": {
+      "en": "Humor and satire"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "Poetry"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Class comprehensive works on prose literature in —808. Class comprehensive works on two or more forms with the base number for the individual literature, plus notation 01–09 from Table 3B if applicable, adding 0 when required to make a three-figure number, e.g., comprehensive works on English poetry and fiction 820"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-1:1",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "Including greeting card verse"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1:2",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "Class here folk poetry, prose poems"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1:3",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "Class anonymous nursery rhymes and related rhymes and rhyming games from the oral tradition in 398.8"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1:4",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "See Manual at T3B—1"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1001-1007",
+    "type": "Concept",
+    "notation": "-1001-1007",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are used for general works consisting equally of literary texts and history, description, critical appraisal, e.g., a serial consisting equally of literary texts and history, description, critical appraisal of poetry in English 821.005. Works limited to specific topics found in Table 3C are classed in —100801–100809"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T3B:-1008",
+    "type": "Concept",
+    "notation": "-1008",
+    "prefLabel": {
+      "en": "Collections of literary texts"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Class collections of literary texts in —1008; class history, description, critical appraisal in —1009"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-1008:1",
+    "type": "Concept",
+    "notation": "-1008",
+    "prefLabel": {
+      "en": "Do not use for groups of people; class in —100808–100809"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1008:2",
+    "type": "Concept",
+    "notation": "-1008",
+    "prefLabel": {
+      "en": "General works consisting equally of literary texts and history, description, critical appraisal are classed in —1001–1007, in the number for the specific form, or the specific form plus literary period. Works limited to specific topics found in Table 3C are classed in —100801–100809"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1008001-1008007",
+    "type": "Concept",
+    "notation": "-1008001-1008007",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1008008",
+    "type": "Concept",
+    "notation": "-1008008",
+    "prefLabel": {
+      "en": "Groups of people"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-1008008:1",
+    "type": "Concept",
+    "notation": "-1008008",
+    "prefLabel": {
+      "en": "Do not use; class in —100808–100809"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-3_p00012.png"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-100 800 9",
+    "type": "Concept",
+    "notation": "-1008009",
+    "prefLabel": {
+      "en": "History, geographic treatment, biography"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-3_p00013.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for collections by and for persons resident in specific areas; class in —100809. Do not use for history, description, critical appraisal; class in —1009"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-100 801-100 809",
+    "type": "Concept",
+    "notation": "-100801-100809",
+    "prefLabel": {
+      "en": "Collections of literary texts displaying specific features or emphasizing specific subjects, for and by specific groups of people"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-3_p00013.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Works consisting equally of literary texts and history, description, critical appraisal are classed here if limited to specific topics found in Table 3C"
+      ],
+      "addToBaseRules": [
+        "Add to base number —10080 notation 1–9 from Table 3C, e.g., collections of poetry dealing with travel —1008032"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-100 9",
+    "type": "Concept",
+    "notation": "-1009",
+    "prefLabel": {
+      "en": "History, description, critical appraisal"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-3_p00013.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for geographic treatment; class in —10099",
+        "Follow the instructions under —1008 for works consisting equally of literary texts and history, description, critical appraisal"
+      ],
+      "tableRefs": [
+        "Notation —09 from Table 1 as modified below"
+      ],
+      "classHere": [
+        "collected biography of authors, individual and collected biography of critics"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-100 901-100 907",
+    "type": "Concept",
+    "notation": "-100901-100907",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-3_p00013.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-[100 908]",
+    "type": "Concept",
+    "notation": "-[100908]",
+    "prefLabel": {
+      "en": "Groups of people"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-3_p00013.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use; class in —10098–10099"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-[100 909]",
+    "type": "Concept",
+    "notation": "-[100909]",
+    "prefLabel": {
+      "en": "History, geographic treatment, biography"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-3_p00013.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for history, biography; class in —1009. Do not use for geographic treatment; class in —10099"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-100 91-100 99",
+    "type": "Concept",
+    "notation": "-10091-10099",
+    "prefLabel": {
+      "en": "History, description, critical appraisal of poetry displaying specific features or emphasizing specific subjects, for and by specific groups of people"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-3_p00013.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —1009 notation 1–9 from Table 3C, e.g., critical appraisal of poetry by children —10099282"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-102-107",
+    "type": "Concept",
+    "notation": "-102-107",
+    "prefLabel": {
+      "en": "Specific kinds of poetry"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "-102-107 Specific kinds of poetry"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Limited to the kinds provided for below",
+        "Except for modifications shown under specific entries, add to each subdivision identified by * as follows:"
+      ]
+    }
+  },
+  {
+    "id": "T3B:01-07",
+    "type": "Concept",
+    "notation": "01-07",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "01-07 Standard subdivisions"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are used for general works consisting equally of literary texts and history, description, critical appraisal, e.g., a serial consisting equally of literary texts and history, description, critical appraisal of narrative poetry in English -10305. Works limited to specific topics found in Table 3C are classed in 08, plus notation from Table 3C",
+        "Class collections of literary texts in 08; class history, description, critical appraisal in 09"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T3B:08",
+    "type": "Concept",
+    "notation": "08",
+    "prefLabel": {
+      "en": "Collections of literary texts"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "08 Collections of literary texts"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:08001-08008",
+    "type": "Concept",
+    "notation": "08001-08008",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "08001-08008 Standard subdivisions"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:08009",
+    "type": "Concept",
+    "notation": "08009",
+    "prefLabel": {
+      "en": "History and geographic treatment"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "08009 History and geographic treatment"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:0800901-0800905",
+    "type": "Concept",
+    "notation": "0800901-0800905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "0800901-0800905 Historical periods"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for literature of a specific language; class in 0801-0809"
+      ]
+    }
+  },
+  {
+    "id": "T3B:0801-0809",
+    "type": "Concept",
+    "notation": "0801-0809",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "0801-0809 Specific periods"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Add to 080 notation from the period table for the specific literature, e.g., Elizabethan period of English literature 0803, collections of English sonnets of the Elizabethan period 821.0420803. If there is no applicable period table, this provision for indicating period cannot be used, e.g., collection of 20th-century Slovak narrative poetry 891.8710308",
+        "Works consisting equally of literary texts and history, description, critical appraisal of a specific literature are classed here if limited to specific periods, e.g., texts and criticism of English sonnets of the Elizabethan period 821.0420803"
+      ]
+    }
+  },
+  {
+    "id": "T3B:081-089",
+    "type": "Concept",
+    "notation": "081-089",
+    "prefLabel": {
+      "en": "Literature displaying specific features, or emphasizing subjects, or for and by groups of people"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "081-089 Literature displaying specific features, or emphasizing subjects, or for and by groups of people"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Add to 08 notation 1–9 from Table 3C, e.g., collections dealing with love 083543, collections of English sonnets dealing with love 821.042083543",
+        "Works consisting equally of literary texts and history, description, critical appraisal of the form in a specific kind are classed here if limited to specific topics found in Table 3C, e.g., texts and criticism of narrative poems about war -103083581"
+      ]
+    }
+  },
+  {
+    "id": "T3B:09",
+    "type": "Concept",
+    "notation": "09",
+    "prefLabel": {
+      "en": "History, description, critical appraisal"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "09 History, description, critical appraisal"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class here collected biography"
+      ]
+    }
+  },
+  {
+    "id": "T3B:09001-09008",
+    "type": "Concept",
+    "notation": "09001-09008",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "09001-09008 Standard subdivisions"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:09009",
+    "type": "Concept",
+    "notation": "09009",
+    "prefLabel": {
+      "en": "History and geographic treatment"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "09009 History and geographic treatment"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:0900901-0900905",
+    "type": "Concept",
+    "notation": "0900901-0900905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-3_p00014.png",
+      "span": "0900901-0900905 Historical periods"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Do not use for literature of a specific language; class in 0901-0909"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-102-107",
+    "type": "Concept",
+    "notation": "-102-107",
+    "prefLabel": {
+      "en": "Specific kinds of poetry (continued)"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-3_p00015.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "*Add as instructed under —102–107"
+      ]
+    }
+  },
+  {
+    "id": "T3B:0901-0909",
+    "type": "Concept",
+    "notation": "0901-0909",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-3_p00015.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to 090 notation from the period table for the specific literature, e.g., Elizabethan period of English literature 0903, collections of English sonnets of the Elizabethan period 821.0420903. If there is no applicable period table, this provision for indicating period cannot be used, e.g., history and criticism of 20th-century Pashto (Afghan) lyric poetry 891.59310409"
+      ],
+      "notes": [
+        "Follow the instructions under 0801–0809 for works consisting equally of literary texts and history, description, critical appraisal"
+      ]
+    }
+  },
+  {
+    "id": "T3B:091-099",
+    "type": "Concept",
+    "notation": "091-099",
+    "prefLabel": {
+      "en": "Literature displaying specific features, or emphasizing subjects, or for and by groups of people"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-3_p00015.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to 09 notation 1–9 from Table 3C, e.g., critical appraisal of works about seasons 0933, critical appraisal of French lyric poetry about seasons 841.040933"
+      ],
+      "notes": [
+        "Follow the instructions under 081–089 for works consisting equally of literary texts and history, description, critical appraisal"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-102",
+    "type": "Concept",
+    "notation": "-102",
+    "prefLabel": {
+      "en": "*Dramatic poetry"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-3_p00015.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class epigrams in verse in —8; class comprehensive works in —1"
+      ],
+      "manualRefs": [
+        "See Manual at T3B—102–107, T3B—205, T3B—308 vs. T3C—1, T3C—3"
+      ],
+      "seeAlso": [
+        "—2 for poetic plays"
+      ],
+      "including": [
+        "dramatic monologues"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-103",
+    "type": "Concept",
+    "notation": "-103",
+    "prefLabel": {
+      "en": "*Narrative poetry"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-3_p00015.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "seeAlso": [
+        "—1044 for ballads, see"
+      ],
+      "including": [
+        "fabliaux"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-103 2",
+    "type": "Concept",
+    "notation": "-1032",
+    "prefLabel": {
+      "en": "*Epic poetry"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-3_p00015.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-103 3",
+    "type": "Concept",
+    "notation": "-1033",
+    "prefLabel": {
+      "en": "*Medieval metrical romances"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-3_p00015.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "seeAlso": [
+        "—3 for prose versions of medieval romances"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-104",
+    "type": "Concept",
+    "notation": "-104",
+    "prefLabel": {
+      "en": "*Lyric and ballad poetry"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-3_p00015.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class here poetry of minnesingers and troubadours",
+        "Subdivisions are added for lyric and ballad poetry together, for lyric poetry alone",
+        "Class dramatic lyric poems in —102"
+      ],
+      "including": [
+        "concrete poetry"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-1041",
+    "type": "Concept",
+    "notation": "-1041",
+    "prefLabel": {
+      "en": "*Haiku"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-1042",
+    "type": "Concept",
+    "notation": "-1042",
+    "prefLabel": {
+      "en": "*Sonnets"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-1043",
+    "type": "Concept",
+    "notation": "-1043",
+    "prefLabel": {
+      "en": "*Odes"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-1044",
+    "type": "Concept",
+    "notation": "-1044",
+    "prefLabel": {
+      "en": "*Ballads"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-105",
+    "type": "Concept",
+    "notation": "-105",
+    "prefLabel": {
+      "en": "*Didactic poetry"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-107",
+    "type": "Concept",
+    "notation": "-107",
+    "prefLabel": {
+      "en": "*Humorous and satirical poetry"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for either or both topics in heading",
+        "Class humor and satire in two or more literary forms, including both verse and prose, in —7"
+      ],
+      "including": [
+        "clerihews"
+      ],
+      "classHere": [
+        "light verse"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-1075",
+    "type": "Concept",
+    "notation": "-1075",
+    "prefLabel": {
+      "en": "*Limericks"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-11-19",
+    "type": "Concept",
+    "notation": "-11-19",
+    "prefLabel": {
+      "en": "Poetry of specific periods"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —1 notation from the period table for the specific literature in 810–890, e.g., earliest period —11; then add the numbers following —10 in notation 1001–1009 of this table, e.g., collections from the earliest period dealing with travel —1108032"
+      ],
+      "notes": [
+        "If there is no applicable period table, add nothing to —1, e.g., collections of Mongolian poetry by authors of the earliest period 894.231 (not 894.231108)"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "prefLabel": {
+      "en": "Drama"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class here closet drama, drama written in poetry, folk drama"
+      ],
+      "manualRefs": [
+        "See Manual at T3B—2; also at T3A—2, T3B—2 vs. T3A—1, T3B—102"
+      ],
+      "notes": [
+        "Standard subdivisions; collections; history; description; critical appraisal"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T3B:-2001-2009",
+    "type": "Concept",
+    "notation": "-2001-2009",
+    "prefLabel": {
+      "en": "Standard subdivisions; collections; history; description; critical appraisal"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —200 the numbers following —100 in notation 1001–1009 of this table, e.g., collections of drama dealing with travel —2008032"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-202-205",
+    "type": "Concept",
+    "notation": "-202-205",
+    "prefLabel": {
+      "en": "Drama of specific media, scope, kinds"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to each subdivision identified by * as instructed under —102–107, e.g., collections of comedies dealing with travel —205230832"
+      ],
+      "notes": [
+        "Class comprehensive works in —2"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-102-107",
+    "type": "Concept",
+    "notation": "-102-107",
+    "prefLabel": {
+      "en": "*Add as instructed under —102–107"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-3_p00016.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-202-203",
+    "type": "Concept",
+    "notation": "-202-203",
+    "prefLabel": {
+      "en": "Drama for mass media"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-202",
+    "type": "Concept",
+    "notation": "-202",
+    "prefLabel": {
+      "en": "Drama for radio and television"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-202 2",
+    "type": "Concept",
+    "notation": "-2022",
+    "prefLabel": {
+      "en": "*Drama for radio"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-202 5",
+    "type": "Concept",
+    "notation": "-2025",
+    "prefLabel": {
+      "en": "*Drama for television"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-203",
+    "type": "Concept",
+    "notation": "-203",
+    "prefLabel": {
+      "en": "*Drama for motion pictures"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-204",
+    "type": "Concept",
+    "notation": "-204",
+    "prefLabel": {
+      "en": "Drama of restricted scope"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-204 1",
+    "type": "Concept",
+    "notation": "-2041",
+    "prefLabel": {
+      "en": "*One-act plays"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-204 5",
+    "type": "Concept",
+    "notation": "-2045",
+    "prefLabel": {
+      "en": "*Monologues"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-205",
+    "type": "Concept",
+    "notation": "-205",
+    "prefLabel": {
+      "en": "Specific kinds of drama"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-205 1",
+    "type": "Concept",
+    "notation": "-2051",
+    "prefLabel": {
+      "en": "*Serious drama"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-205 12",
+    "type": "Concept",
+    "notation": "-20512",
+    "prefLabel": {
+      "en": "*Tragedy"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-205 14",
+    "type": "Concept",
+    "notation": "-20514",
+    "prefLabel": {
+      "en": "*Historical drama"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-205 16",
+    "type": "Concept",
+    "notation": "-20516",
+    "prefLabel": {
+      "en": "*Religious and morality plays"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-205 2",
+    "type": "Concept",
+    "notation": "-2052",
+    "prefLabel": {
+      "en": "*Comedy and melodrama"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-205 23",
+    "type": "Concept",
+    "notation": "-20523",
+    "prefLabel": {
+      "en": "*Comedy"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-3_p00017.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-205232",
+    "type": "Concept",
+    "notation": "-205232",
+    "prefLabel": {
+      "en": "*Farce"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-3_p00018.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-20527",
+    "type": "Concept",
+    "notation": "-20527",
+    "prefLabel": {
+      "en": "*Melodrama"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-3_p00018.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "including": [
+        "modern detective and mystery (suspense) drama"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-2057",
+    "type": "Concept",
+    "notation": "-2057",
+    "prefLabel": {
+      "en": "*Variety drama"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-3_p00018.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-21-29",
+    "type": "Concept",
+    "notation": "-21-29",
+    "prefLabel": {
+      "en": "Drama of specific periods"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-3_p00018.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —2 notation from the period table for the specific literature in 810–890, e.g., earliest period —21; then add the numbers following —10 in notation 1001–1009 of this table, e.g., critical appraisal of drama of earliest period —2109"
+      ],
+      "notes": [
+        "If there is no applicable period table, add nothing to —2, e.g., collections of Mongolian drama by authors of the earliest period 894.232 (not 894.232108)",
+        "Class drama of specific media, scope, kinds from specific periods in —202–205",
+        "(Option: Where two or more countries share the same language, follow one of the options given after step 4 at beginning of Table 3B, e.g., collections of drama in English by New Zealand authors of the earliest period NZ822.108 or 828.99332108)"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "prefLabel": {
+      "en": "Fiction"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-3_p00018.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class here novelettes and novels"
+      ],
+      "notes": [
+        "Class graphic novels in 741.5"
+      ],
+      "tableRefs": [
+        "See Manual at T3B—3"
+      ]
+    }
+  },
+  {
+    "id": "T3B:--3001-3009",
+    "type": "Concept",
+    "notation": "--3001-3009",
+    "prefLabel": {
+      "en": "Standard subdivisions; collections; history, description, critical appraisal"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-3_p00018.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —300 the numbers following —100 in notation 1001–1009 of this table, e.g., collections of fiction dealing with travel —3008032"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-301-308",
+    "type": "Concept",
+    "notation": "-301-308",
+    "prefLabel": {
+      "en": "Fiction of specific scope and kinds"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-3_p00018.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to each subdivision identified by * as instructed under —102–107, e.g., collections of short stories dealing with travel —3010832"
+      ],
+      "notes": [
+        "Class comprehensive works in —3"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-301",
+    "type": "Concept",
+    "notation": "-301",
+    "prefLabel": {
+      "en": "*Short stories"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-3_p00018.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Class short stories of specific kinds in —308"
+      ]
+    }
+  },
+  {
+    "id": "T3B:__CONT__",
+    "type": "Concept",
+    "notation": "__CONT__",
+    "prefLabel": {
+      "en": ""
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-3_p00018.png",
+      "span": "Add as instructed under —102–107"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "*Add as instructed under —102–107"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-308",
+    "type": "Concept",
+    "notation": "-308",
+    "prefLabel": {
+      "en": "Specific kinds of fiction"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-3_p00019.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Limited to the kinds provided for below",
+        "Unless other instructions are given, observe the following table of preference, e.g., historical adventure fiction—3081 (not—3087):"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-3081",
+    "type": "Concept",
+    "notation": "-3081",
+    "prefLabel": {
+      "en": "*Historical and period fiction"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-3_p00019.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for either or both topics in heading",
+        "Class alternative histories in —308768"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-3082",
+    "type": "Concept",
+    "notation": "-3082",
+    "prefLabel": {
+      "en": "*Autobiographical and biographical fiction"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-3_p00019.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for either or both topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-3083",
+    "type": "Concept",
+    "notation": "-3083",
+    "prefLabel": {
+      "en": "*Psychological, realistic, sociological fiction"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-3_p00019.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for any or all topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-3085",
+    "type": "Concept",
+    "notation": "-3085",
+    "prefLabel": {
+      "en": "*Love and romance"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-3_p00019.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Modern romantic fiction",
+        "Subdivisions are added for either or both topics in heading",
+        "Class medieval prose romances in —3"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-3087",
+    "type": "Concept",
+    "notation": "-3087",
+    "prefLabel": {
+      "en": "*Adventure fiction"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-3_p00019.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Unless other instructions are given, observe the following table of preference, e.g., Gothic horror fiction —308729 (not —308738):"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-30872",
+    "type": "Concept",
+    "notation": "-30872",
+    "prefLabel": {
+      "en": "*Detective, mystery, suspense, spy, Gothic fiction"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-3_p00019.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for a combination of two or more topics in heading, for detective fiction alone, for mystery fiction alone, for suspense fiction alone, for spy fiction alone"
+      ]
+    }
+  },
+  {
+    "id": "T3B:__CONT__",
+    "type": "Concept",
+    "notation": "__CONT__",
+    "prefLabel": {
+      "en": ""
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-3_p00019.png",
+      "span": "19-19"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "*Add as instructed under —102–107"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-308729",
+    "type": "Concept",
+    "notation": "-308729",
+    "prefLabel": {
+      "en": "*Gothic fiction"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Class modern romantic fiction in which the supernatural has little or no role in —3085"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-30873",
+    "type": "Concept",
+    "notation": "-30873",
+    "prefLabel": {
+      "en": "*Ghost and horror fiction"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-308733",
+    "type": "Concept",
+    "notation": "-308733",
+    "prefLabel": {
+      "en": "*Ghost fiction"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-308738",
+    "type": "Concept",
+    "notation": "-308738",
+    "prefLabel": {
+      "en": "*Horror fiction"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-30874",
+    "type": "Concept",
+    "notation": "-30874",
+    "prefLabel": {
+      "en": "*Western fiction"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-30876",
+    "type": "Concept",
+    "notation": "-30876",
+    "prefLabel": {
+      "en": "*Science and fantasy fiction, alternative histories"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-308762",
+    "type": "Concept",
+    "notation": "-308762",
+    "prefLabel": {
+      "en": "*Science fiction"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-308766",
+    "type": "Concept",
+    "notation": "-308766",
+    "prefLabel": {
+      "en": "*Fantasy fiction"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-308768",
+    "type": "Concept",
+    "notation": "-308768",
+    "prefLabel": {
+      "en": "*Alternative histories"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Class historical and period fiction in —3081"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-30877",
+    "type": "Concept",
+    "notation": "-30877",
+    "prefLabel": {
+      "en": "*Picaresque fiction"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-31-39",
+    "type": "Concept",
+    "notation": "-31-39",
+    "prefLabel": {
+      "en": "Fiction of specific periods"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —3 notation from the period table for the specific literature in 810–890, e.g., earliest period —31; then add the numbers following —10 in notation 1001–1009 of this table, e.g., critical appraisal of fiction of earliest period —3109"
+      ],
+      "notes": [
+        "If there is no applicable period table, add nothing to —3, e.g., collections of Mongolian fiction by authors of the earliest period 894.233 (not 894.233108)",
+        "Class specific scope and kinds from specific periods in —301–308",
+        "(Option: Where two or more countries share the same language, follow one of the options given after step 4 at beginning of Table 3B, e.g., collections of fiction in French by Canadian authors of the earliest period C843.108 or 848.9923108)"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-4",
+    "type": "Concept",
+    "notation": "-4",
+    "prefLabel": {
+      "en": "Essays"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Collections or discussions of works with literary value"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-4001-4009",
+    "type": "Concept",
+    "notation": "-4001-4009",
+    "prefLabel": {
+      "en": "Standard subdivisions; collections; history; description; critical appraisal"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-3_p00020.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "manualRefs": [
+        "See Manual at 800: Choice between literature and nonliterary subject"
+      ],
+      "addToBaseRules": [
+        "Add to base number —400 the numbers following —100 in notation 1001–1009 of this table, e.g., collections of essays dealing with travel —4008032"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-41-49",
+    "type": "Concept",
+    "notation": "-41-49",
+    "prefLabel": {
+      "en": "Essays of specific periods"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-3_p00021.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number 4 notation from the period table for the specific literature in 810-890, e.g., earliest period 41; then add the numbers following -10 in notation 1001-1009 of this table, e.g., critical appraisal of essays of the earliest period 4109",
+        "If there is no applicable period table, add nothing to -4, e.g., collections of Mongolian essays by authors of the earliest period 894.234 (not 894.234108)",
+        "(Option: Where two or more countries share the same language, follow one of the options given after step 4 at beginning of Table 3B, e.g., collections of essays in Spanish by Mexican authors of the 19th century M864.208 or 868.99214208)"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-5",
+    "type": "Concept",
+    "notation": "-5",
+    "prefLabel": {
+      "en": "Speeches"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-3_p00021.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Collections or discussions of works with literary value"
+      ],
+      "seeAlso": [
+        "See Manual at 800: Choice between literature and nonliterary subject"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-5001-5009",
+    "type": "Concept",
+    "notation": "-5001-5009",
+    "prefLabel": {
+      "en": "Standard subdivisions; collections; history, description, critical appraisal"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-3_p00021.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -500 the numbers following -100 in notation 1001-1009 of this table, e.g., collections of speeches dealing with travel -5008032"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-501-506",
+    "type": "Concept",
+    "notation": "-501-506",
+    "prefLabel": {
+      "en": "Specific kinds of speeches"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-3_p00021.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Limited to the kinds provided for below"
+      ],
+      "tableRefs": [
+        "Add to each subdivision identified by * as instructed under-102-107, e.g., collections of recitations dealing with travel-5040832",
+        "Class comprehensive works in -5"
+      ]
+    }
+  },
+  {
+    "id": "T3B:--501",
+    "type": "Concept",
+    "notation": "--501",
+    "prefLabel": {
+      "en": "*Public speeches (Oratory)"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-3_p00021.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "seeAlso": [
+        "For debates, see -503"
+      ],
+      "including": [
+        "after-dinner, platform, television speeches; speeches and toasts for special occasions"
+      ]
+    }
+  },
+  {
+    "id": "T3B:--503",
+    "type": "Concept",
+    "notation": "--503",
+    "prefLabel": {
+      "en": "*Debates"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-3_p00021.png"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class here public discussion of opposing views"
+      ]
+    }
+  },
+  {
+    "id": "T3B:--504",
+    "type": "Concept",
+    "notation": "--504",
+    "prefLabel": {
+      "en": "*Recitations"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-3_p00021.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:--505",
+    "type": "Concept",
+    "notation": "--505",
+    "prefLabel": {
+      "en": "*Texts for choral speaking"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-3_p00021.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:--506",
+    "type": "Concept",
+    "notation": "--506",
+    "prefLabel": {
+      "en": "*Conversations"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-3_p00021.png"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:-51-59",
+    "type": "Concept",
+    "notation": "-51-59",
+    "prefLabel": {
+      "en": "Speeches of specific periods"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-3_p00022.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -5 notation from the period table for the specific literature in 810-890, e.g., earliest period -51; then add the numbers following-10 in notation 1001-1009 of this table, e.g., critical appraisal of speeches of the earliest period-5109",
+        "If there is no applicable period table, add nothing to -5, e.g., collections of Mongolian speeches by authors of the earliest period 894.235 (not 894.235108)"
+      ],
+      "classHere": [
+        "Class specific kinds from specific periods in-501-506"
+      ],
+      "notes": [
+        "(Option: Where two or more countries share the same language, follow one of the options given after step 4 at beginning of Table 3B, e.g., collections of speeches in Spanish by Chilean authors of the 19th century Ch865.208 or 868.99335208)"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-6",
+    "type": "Concept",
+    "notation": "-6",
+    "prefLabel": {
+      "en": "Letters"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-3_p00022.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "Collections or discussions of works with literary value"
+      ],
+      "seeAlso": [
+        "See Manual at 800: Choice between literature and nonliterary subject"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-600",
+    "type": "Concept",
+    "notation": "-600",
+    "prefLabel": {
+      "en": "Standard subdivisions; collections; history, description, critical appraisal"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-3_p00022.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "altLabel": [
+      "1-600 9"
+    ],
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number-600 the numbers following -100 in notation 1001-1009 of this table, e.g., collections of letters dealing with travel -6008032"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-61-69",
+    "type": "Concept",
+    "notation": "-61-69",
+    "prefLabel": {
+      "en": "Letters of specific periods"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-3_p00022.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -6 notation from the period table for the specific literature in 810-890, e.g., earliest period-61; then add the numbers following-10 in notation 1001-1009 of this table, e.g., critical appraisal of letters of the earliest period-6109",
+        "If there is no applicable period table, add nothing to -6, e.g., collections of Tibetan letters by authors of the earliest period 895.46 (not 895.46108)"
+      ],
+      "notes": [
+        "(Option: Where two or more countries share the same language, follow one of the options given after step 4 at beginning of Table 3B, e.g., collections of letters in Portuguese by Brazilian authors of the 20th century B869.6408 or 869.89926408)"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-7",
+    "type": "Concept",
+    "notation": "-7",
+    "prefLabel": {
+      "en": "Humor and satire"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-3_p00022.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class here parody"
+      ],
+      "notes": [
+        "Limited to collections and criticism of works in two or more literary forms including both verse and prose",
+        "Subdivisions are added for either or both topics in heading",
+        "(Option: Give precedence to humor and satire over all other literary forms)"
+      ],
+      "seeAlso": [
+        "See also-808 for humor and satire in two or more prose forms",
+        "See Manual at T1-0207 vs. T3B-7, T3A-802, T3B-802, T3B-8+02, T3A8+07, T3B-807, T3B-8 + 07"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-7001-7009",
+    "type": "Concept",
+    "notation": "-7001-7009",
+    "prefLabel": {
+      "en": "Standard subdivisions; collections; history, description, critical appraisal"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-3_p00023.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -700 the numbers following--100 in notation 1001-1009 of this table, e.g., collections of humor and satire dealing with travel-7008032"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-71-79",
+    "type": "Concept",
+    "notation": "-71-79",
+    "prefLabel": {
+      "en": "Humor and satire of specific periods"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-3_p00023.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "notes": [
+        "If there is no applicable period table, add nothing to -7, e.g., collections of Turkmen humor and satire by authors of the earliest period 894.3647 (not 894.3647108)",
+        "(Option: Where two or more countries share the same language, follow one of the options given after step 4 at beginning of Table 3B, e.g., collections of humor and satire in English by Australian authors of the earliest period A827.108 or 828.99347108)"
+      ],
+      "addToBaseRules": [
+        "Add to base number -7 notation from the period table for the specific literature in 810-890, e.g., earliest period -71; then add the numbers following -10 in notation 1001-1009 of this table, e.g., critical appraisal of humor and satire of the earliest period -7109"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Miscellaneous writings"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-3_p00024.png",
+      "span": "string"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:-8001-8009",
+    "type": "Concept",
+    "notation": "-8001-8009",
+    "prefLabel": {
+      "en": "Standard subdivisions; collections; history, description, critical appraisal"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-3_p00024.png",
+      "span": "string"
+    },
+    "table": "T3B",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number --800 the numbers following -100 in notation 1001-1009 of this table, e.g., critical appraisal of miscellaneous writings from more than one period -8009"
+      ]
+    }
+  },
+  {
+    "id": "T3B:--802-808",
+    "type": "Concept",
+    "notation": "--802-808",
+    "prefLabel": {
+      "en": "Specific kinds of miscellaneous writings"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-3_p00024.png",
+      "span": "string"
+    },
+    "table": "T3B",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Limited to kinds provided for below",
+        "Class in each number without further subdivision history, description, critical appraisal, biography, collections of works of authors from more than one period",
+        "Class comprehensive works in -8"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-802",
+    "type": "Concept",
+    "notation": "-802",
+    "prefLabel": {
+      "en": "Anecdotes, epigrams, graffiti, jokes, jests, quotations, riddles, tongue\ntwisters"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-3_p00025.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "See Manual at T1-0207 vs. T3B-7, T3A-8 + 02, T3B-802,\nT3B-802, T3A-8+07, T3B-807, T3B-8+07; also at\nT3A-802, T3B-802, T3B-8 + 02 vs. 398.6, 793.735"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-803",
+    "type": "Concept",
+    "notation": "-803",
+    "prefLabel": {
+      "en": "Diaries, journals, notebooks, reminiscences"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-3_p00025.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "See Manual at T3A-8+03 and T3B-803, T3B-8+03"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-807",
+    "type": "Concept",
+    "notation": "-807",
+    "prefLabel": {
+      "en": "Works without identifiable literary form"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-3_p00025.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class here experimental and nonformalized works, works that mimic\nnonliterary forms and genres for literary purposes, not conveying useful\ninformation (e.g., humorous or fantasy works in the form of dictionaries,\nself-help books, travel guides)",
+        "Class experimental works with an identifiable literary form with the form,\ne.g., experimental novels -3; class works that convey useful information\non a nonliterary topic with the topic, e.g., literary cookbooks with real\nrecipes inspired by or derived from literary sources 641.5"
+      ],
+      "tableRefs": [
+        "See Manual at T1-0207 vs. T3B-7, T3A-8+ 02, T3B-802,\nT3B-802, T3A-807, T3B-807, T3B-8 +07"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-808",
+    "type": "Concept",
+    "notation": "-808",
+    "prefLabel": {
+      "en": "Prose literature"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-3_p00025.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class prose without identifiable literary form in -807. Class a specific\nform of prose literature with the form, e.g., essays -4"
+      ],
+      "notes": [
+        "Collections and discussions of works in more than one literary form"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-81-89",
+    "type": "Concept",
+    "notation": "-81-89",
+    "prefLabel": {
+      "en": "Miscellaneous writings of specific periods"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-3_p00026.png",
+      "span": "null"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:001-009",
+    "type": "Concept",
+    "notation": "001-009",
+    "prefLabel": {
+      "en": "Standard subdivisions; collections; history, description,\ncritical appraisal"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-3_p00026.png",
+      "span": "null"
+    },
+    "table": "T3B"
+  },
+  {
+    "id": "T3B:02",
+    "type": "Concept",
+    "notation": "02",
+    "prefLabel": {
+      "en": "Anecdotes, epigrams, graffiti, jokes, jests, quotations, riddles,\ntongue twisters"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-3_p00026.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to 00 the numbers following -100 in notation\n1001-1009 from Table 3B, e.g., collections 008"
+      ]
+    }
+  },
+  {
+    "id": "T3B:03",
+    "type": "Concept",
+    "notation": "03",
+    "prefLabel": {
+      "en": "Diaries, journals, notebooks, reminiscences"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-3_p00026.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "addToBaseRules": [
+        "Add to 03 the numbers following -10 in notation 1001-1009\nfrom Table 3B, e.g., collections 0308"
+      ],
+      "classHere": [
+        "Class diaries, journals, notebooks, reminiscences from\nspecific periods in-803 if there is no applicable period table"
+      ],
+      "manualRefs": [
+        "See Manual at T3A-8+03 and T3B-803, T3B-8+03"
+      ]
+    }
+  },
+  {
+    "id": "T3B:07",
+    "type": "Concept",
+    "notation": "07",
+    "prefLabel": {
+      "en": "Works without identifiable literary form"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-3_p00026.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "scope": {
+      "classHere": [
+        "Class here experimental and nonformalized works, works\nthat mimic nonliterary forms and genres for literary purposes,\nnot conveying useful information (e.g., humorous or fantasy\nworks in the form of dictionaries, self-help books, travel\nguides)",
+        "Class works without identifiable literary form from specific\nperiods in-807 if there is no applicable period table. Class\nexperimental works with an identifiable literary form with the\nform, e.g., experimental novels -3; class works that convey\nuseful information on a nonliterary topic with the topic, e.g.,\nliterary cookbooks with real recipes inspired by or derived\nfrom literary sources 641.5"
+      ],
+      "manualRefs": [
+        "See Manual at T1-0207 vs. T3B-7, T3A-8 + 02,\nT3B-802, T3B-8+ 02, T3A-8+07, T3B-807,\nT3B-8+07"
+      ],
+      "notes": [
+        "Add to 07 the numbers following -10 in notation 1001-1009\nfrom Table 3B, e.g., collections of stream of consciousness\nwritings 0708025"
+      ]
+    }
+  },
+  {
+    "id": "T3B:-81-89",
+    "type": "Concept",
+    "notation": "-81-89",
+    "prefLabel": {
+      "en": "Miscellaneous writings of specific periods (continued)"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-3_p00027.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3B:08",
+    "type": "Concept",
+    "notation": "08",
+    "prefLabel": {
+      "en": "Prose literature"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-3_p00027.png",
+      "span": "null"
+    },
+    "table": "T3B",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Collections and discussions of works in more than one literary form",
+        "Add to 08 the numbers following -10 in notation 1001-1009 from Table 3B, e.g., collections 0808",
+        "Class prose without identifiable literary form in 07. Class a specific form of prose literature with the form, e.g., essays — 4",
+        "Class prose literature from specific periods in -808, e.g., collections of 20th-century Albanian prose literature 891.991808",
+        "(Option: Use the notation from an optional period table with either option given after step 2 under-8 in Table 3B, e.g., prose literature in English by Australian authors of early 20th century A828.20808 or 828.9934820808)"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-001-009",
+    "type": "Concept",
+    "notation": "-001-009",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-001-009Standard subdivisions"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-01-09",
+    "type": "Concept",
+    "notation": "-01-09",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-01-09Specific periods"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "Arts and literature displaying specific qualities of style, mood, viewpoint"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-1Arts and literature displaying specific qualities of style, mood, viewpoint"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "prefLabel": {
+      "en": "Literature displaying specific elements"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-2Literature displaying specific elements"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "prefLabel": {
+      "en": "Arts and literature dealing with specific themes and subjects"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-3Arts and literature dealing with specific themes and subjects"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:4",
+    "type": "Concept",
+    "notation": "4",
+    "prefLabel": {
+      "en": "Literature emphasizing subjects"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "4Literature emphasizing subjects"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Literature for and by ethnic and national groups"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-8Literature for and by ethnic and national groups"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-9",
+    "type": "Concept",
+    "notation": "-9",
+    "prefLabel": {
+      "en": "Literature for and by groups of people with specific attributes, residents of specific areas"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-9Literature for and by groups of people with specific attributes, residents of\nspecific areas"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-001-007",
+    "type": "Concept",
+    "notation": "-001-007",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-001-007Standard subdivisions"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:--008",
+    "type": "Concept",
+    "notation": "-[008]",
+    "prefLabel": {
+      "en": "Groups of people"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-[008]Groups of people"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Do not use; class in-8-9"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-009",
+    "type": "Concept",
+    "notation": "-009",
+    "prefLabel": {
+      "en": "History and geographic treatment"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-009History and geographic treatment"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Do not use for biography; class in base number. Do not use for literature for\nand by persons resident in specific areas; class in -9"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-00901-00905",
+    "type": "Concept",
+    "notation": "-00901-00905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-009 01-009 05Historical periods"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Do not use for literature of a specific language; class in -01-09"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-01-09",
+    "type": "Concept",
+    "notation": "-01-09",
+    "prefLabel": {
+      "en": "Specific periods"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-01-09Specific periods"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -0 notation from the period table for the specific\nliterature, e.g., earliest period-01"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "Arts and literature displaying specific qualities of style,\nmood, viewpoint"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-3_p00028.png",
+      "span": "-1Arts and literature displaying specific qualities of style,\nmood, viewpoint"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Do not use if redundant, e.g., horror (164) in horror fiction (308738 in Table\n3B)",
+        "Class literature displaying specific elements and specific qualities in -2; class\narts and literature dealing with specific themes and subjects and displaying\nspecific qualities in -3"
+      ],
+      "seeAlso": [
+        "See Manual at T3B-102-107, T3B-205, T3B-308 vs. T3C-1, T3C-3"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-11",
+    "type": "Concept",
+    "notation": "-11",
+    "prefLabel": {
+      "en": "Nontraditional viewpoints"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including impressionism"
+      ],
+      "seeAlso": [
+        "For a specific type of avant-garde or experimental approach not provided for here, see the type, e.g., experimental literary works without identifiable literary form-807 in Table 3B"
+      ],
+      "classHere": [
+        "avant-garde, experimental approaches in the arts"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-112",
+    "type": "Concept",
+    "notation": "-112",
+    "prefLabel": {
+      "en": "Modernism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-113",
+    "type": "Concept",
+    "notation": "-113",
+    "prefLabel": {
+      "en": "Postmodernism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-114",
+    "type": "Concept",
+    "notation": "-114",
+    "prefLabel": {
+      "en": "Futurism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-115",
+    "type": "Concept",
+    "notation": "-115",
+    "prefLabel": {
+      "en": "Expressionism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-116",
+    "type": "Concept",
+    "notation": "-116",
+    "prefLabel": {
+      "en": "Dadaism and surrealism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-1162",
+    "type": "Concept",
+    "notation": "-1162",
+    "prefLabel": {
+      "en": "Dadaism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-1163",
+    "type": "Concept",
+    "notation": "-1163",
+    "prefLabel": {
+      "en": "Surrealism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-12",
+    "type": "Concept",
+    "notation": "-12",
+    "prefLabel": {
+      "en": "Realism and naturalism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including determinism"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-13",
+    "type": "Concept",
+    "notation": "-13",
+    "prefLabel": {
+      "en": "Idealism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-14",
+    "type": "Concept",
+    "notation": "-14",
+    "prefLabel": {
+      "en": "Classicism and romanticism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Class pastoral arts and literature in -358209734"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-142",
+    "type": "Concept",
+    "notation": "-142",
+    "prefLabel": {
+      "en": "Classicism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-145",
+    "type": "Concept",
+    "notation": "-145",
+    "prefLabel": {
+      "en": "Romanticism"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including primitivism"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-15",
+    "type": "Concept",
+    "notation": "-15",
+    "prefLabel": {
+      "en": "Symbolism, allegory, fantasy, myth"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are added for any or all topics in heading",
+        "Class symbolism, allegory, fantasy, myth associated with a specific style or viewpoint with the style or viewpoint, e.g., surrealism -1163"
+      ],
+      "seeAlso": [
+        "For science fiction as a type of fiction, see -308762 in Table 3B"
+      ],
+      "tableRefs": [
+        "See Manual at T3C-37 vs. T3C-15"
+      ],
+      "including": [
+        "the grotesque, science fiction in the arts"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T3C:-16",
+    "type": "Concept",
+    "notation": "-16",
+    "prefLabel": {
+      "en": "Tragedy and horror"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-162",
+    "type": "Concept",
+    "notation": "-162",
+    "prefLabel": {
+      "en": "Tragedy"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C",
+    "scope": {
+      "seeAlso": [
+        "For tragedy as a kind of drama, see -20512 in Table 3B"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-164",
+    "type": "Concept",
+    "notation": "-164",
+    "prefLabel": {
+      "en": "Horror"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-3_p00029.png"
+    },
+    "table": "T3C",
+    "scope": {
+      "seeAlso": [
+        "For horror fiction, see -308738 in Table 3B"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-17",
+    "type": "Concept",
+    "notation": "-17",
+    "prefLabel": {
+      "en": "Comedy"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-17"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Comic style or viewpoint",
+        "Class collections and criticism of humor and satire in two or more literary",
+        "forms in --7 in Table 3B; class jokes in-802 in Table 3B",
+        "For comedy as a kind of drama, see-20523 in Table 3B"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-18",
+    "type": "Concept",
+    "notation": "-18",
+    "prefLabel": {
+      "en": "Irony"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-18"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "prefLabel": {
+      "en": "Literature displaying specific elements"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-2"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Class literature dealing with specific themes and subjects and displaying specific",
+        "elements in -3"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-22",
+    "type": "Concept",
+    "notation": "-22",
+    "prefLabel": {
+      "en": "Description"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-22"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including setting"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-23",
+    "type": "Concept",
+    "notation": "-23",
+    "prefLabel": {
+      "en": "Narrative"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-23"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-24",
+    "type": "Concept",
+    "notation": "-24",
+    "prefLabel": {
+      "en": "Plot"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-24"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-25",
+    "type": "Concept",
+    "notation": "-25",
+    "prefLabel": {
+      "en": "Stream of consciousness"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-25"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-26",
+    "type": "Concept",
+    "notation": "-26",
+    "prefLabel": {
+      "en": "Dialogue"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-26"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-27",
+    "type": "Concept",
+    "notation": "-27",
+    "prefLabel": {
+      "en": "Characters"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-27"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including the “double” (Doppelgänger) in literature"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "prefLabel": {
+      "en": "Arts and literature dealing with specific themes and subjects"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-3"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Personifications of a specific theme or subject are classed with the theme or",
+        "subject, e.g., personifications of death -3548",
+        "Do not use if redundant, e.g., historical themes (-358) in historical fiction",
+        "(-3081 in Table 3B)"
+      ],
+      "manualRefs": [
+        "T3B-102-107, T3B-205, T3B-308 vs. T3C-1, T3C-3"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-32",
+    "type": "Concept",
+    "notation": "-32",
+    "prefLabel": {
+      "en": "Travel and geography"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-3_p00030.png",
+      "span": "-32"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are added for either or both topics in heading"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Add to base number -32 notation 1-9 from Table 2, e.g., ocean travel",
+        "--32162, ancient geography -323, travel in California -32794",
+        "Class specific persons associated with travel and geography in -351; class",
+        "historical and political themes in -358; class supernatural, mythological,",
+        "legendary places in -372. Class religious aspects of travel and geography",
+        "with the topic, e.g., travel on pilgrimages-3820351, geography in the Bible",
+        "-3822091",
+        "Civilization of places, comprehensive works on places relocated to -358;",
+        "landscapes relocated to -36"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-33",
+    "type": "Concept",
+    "notation": "-33",
+    "prefLabel": {
+      "en": "Times"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including seasons; parts of day, e.g., dawn"
+      ],
+      "seeAlso": [
+        "See also-384 for time (philosophic concept)"
+      ],
+      "tableRefs": [
+        "Class specific persons associated with times in -351; class times (historical\nperiods) in -3582-3589"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-334",
+    "type": "Concept",
+    "notation": "-334",
+    "prefLabel": {
+      "en": "Holidays"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including religious holidays, e.g., Christmas"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-34",
+    "type": "Concept",
+    "notation": "-34",
+    "prefLabel": {
+      "en": "Language"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on language and literature"
+      ],
+      "seeAlso": [
+        "For literature, see -357. For the language of a specific subject, see the\nsubject, e.g., language of science -36"
+      ],
+      "tableRefs": [
+        "Class specific persons associated with language in -351"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-35",
+    "type": "Concept",
+    "notation": "-35",
+    "prefLabel": {
+      "en": "Humanity"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class here autobiography, biography, human existence, works dealing with\ncontemporary viewpoints"
+      ],
+      "notes": [
+        "Unless other instructions are given, observe the following table of preference,\ne.g., women-3522 (not-3552):"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-351",
+    "type": "Concept",
+    "notation": "-351",
+    "prefLabel": {
+      "en": "Specific persons"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-352",
+    "type": "Concept",
+    "notation": "-352",
+    "prefLabel": {
+      "en": "Specific groups of people"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-358",
+    "type": "Concept",
+    "notation": "-358",
+    "prefLabel": {
+      "en": "Historical, political, military themes"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-354",
+    "type": "Concept",
+    "notation": "-354",
+    "prefLabel": {
+      "en": "Life cycle"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-355",
+    "type": "Concept",
+    "notation": "-355",
+    "prefLabel": {
+      "en": "Social themes"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-357",
+    "type": "Concept",
+    "notation": "-357",
+    "prefLabel": {
+      "en": "Artistic, recreational, literary themes"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-356",
+    "type": "Concept",
+    "notation": "-356",
+    "prefLabel": {
+      "en": "Technical themes"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-353",
+    "type": "Concept",
+    "notation": "-353",
+    "prefLabel": {
+      "en": "Human characteristics and activities"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-351",
+    "type": "Concept",
+    "notation": "-351",
+    "prefLabel": {
+      "en": "Specific persons"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including Count Dracula, Don Juan, Faust, Joan of Arc, Job, Julius Caesar,\nKing Arthur, Odysseus, Pierrot"
+      ],
+      "seeAlso": [
+        "See also-382 for specific gods and goddesses"
+      ],
+      "tableRefs": [
+        "Individual real, fictional, legendary, mythological persons"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-352",
+    "type": "Concept",
+    "notation": "-352",
+    "prefLabel": {
+      "en": "Specific groups of people"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including heroes"
+      ],
+      "seeAlso": [
+        "See also-375 for paranatural beings of human and semihuman form;\nalso-8-9 for literature for and by groups of people"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3521-3527",
+    "type": "Concept",
+    "notation": "-3521-3527",
+    "prefLabel": {
+      "en": "Groups of people by miscellaneous attributes"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-3_p00031.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -352 the numbers following-08 in notation\n081-087 from Table 1, e.g., women -3522"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-[3528]",
+    "type": "Concept",
+    "notation": "-[3528]",
+    "prefLabel": {
+      "en": "Occupational and religious groups"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "relocations": [
+        "A specific occupational group relocated to the group in -3, e.g.,\nlawyers -3554; a specific religious group relocated to the group in\n-382, e.g., Buddhists-382943"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3529",
+    "type": "Concept",
+    "notation": "-3529",
+    "prefLabel": {
+      "en": "Ethnic and national groups"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-352905-352909",
+    "type": "Concept",
+    "notation": "-352905-352909",
+    "prefLabel": {
+      "en": "Ethnic and national groups with ethnic origins from more than one\ncontinent, of European descent"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -3529 notation 05-09 from Table 5,\ne.g., people of mixed African, Asian, and European ancestry\n-352905"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-35291-352999",
+    "type": "Concept",
+    "notation": "-35291-352999",
+    "prefLabel": {
+      "en": "Specific ethnic and national groups"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -3529 notation 1-9 from Table 5, e.g., Chinese\n-3529951"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-353-358",
+    "type": "Concept",
+    "notation": "-353-358",
+    "prefLabel": {
+      "en": "Specific human, social, technical, artistic, recreational,\nliterary, historical, political, military themes"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class comprehensive works in -35"
+      ],
+      "notes": [
+        "Specific human, social, technical, artistic, recreational, literary, historical,\npolitical, military themes related to a specific group of people, other than\npeople associated with a specific occupational or religious group, relocated to\nthe group of people in -352, e.g., people with disabilities -3527"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-353",
+    "type": "Concept",
+    "notation": "-353",
+    "prefLabel": {
+      "en": "Human characteristics and activities"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including alienation, chivalry, dreams, fear, friendship, happiness, heroism,\njustice, melancholy, personal beauty and ugliness, pride, snobbishness,\nsuccess, vices, virtues"
+      ],
+      "classHere": [
+        "ethical and psychological themes"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3538",
+    "type": "Concept",
+    "notation": "-3538",
+    "prefLabel": {
+      "en": "Sex"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class here erotica, sexuality",
+        "Class sexual orientation in -353"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-354",
+    "type": "Concept",
+    "notation": "-354",
+    "prefLabel": {
+      "en": "Life cycle"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including birth, adolescence, aging"
+      ],
+      "notes": [
+        "Class a specific social group associated with life cycle with the social group\nin-352, e.g., adolescents 35235"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3543",
+    "type": "Concept",
+    "notation": "-3543",
+    "prefLabel": {
+      "en": "Love and marriage"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are added for either or both topics in heading"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T3C:-3548",
+    "type": "Concept",
+    "notation": "-3548",
+    "prefLabel": {
+      "en": "Death"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-3_p00032.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-355",
+    "type": "Concept",
+    "notation": "-355",
+    "prefLabel": {
+      "en": "Social themes"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class here everyday life"
+      ],
+      "seeAlso": [
+        "For political themes, see-3581. For a specific aspect of everyday life,\nsee the aspect, e.g., home and family management -3564, recreation\n-3579"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3552",
+    "type": "Concept",
+    "notation": "-3552",
+    "prefLabel": {
+      "en": "Sociology and anthropology"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "relocations": [
+        "Military science relocated to -3581; comprehensive works on adventure\nrelocated to -3582"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Standard subdivisions are added for either or both topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3552",
+    "type": "Concept",
+    "notation": "-3552",
+    "prefLabel": {
+      "en": "Sociology and anthropology"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including exile, violence"
+      ],
+      "notes": [
+        "Class sex in -3538; class social problems and services in -3556;\nclass war and peace in -3581. Class themes associated with a specific\nsocial group with the social group in -352, e.g., feminism -3522,\nhomophobia --352664; class themes associated with life cycle with the\ntheme in-354, e.g., birth, adolescence, aging -354, love and marriage\n-3543, death-3548"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3553",
+    "type": "Concept",
+    "notation": "-3553",
+    "prefLabel": {
+      "en": "Economics"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including commerce, environment, industry, labor; accounting,\nmanagement, public relations"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3554",
+    "type": "Concept",
+    "notation": "-3554",
+    "prefLabel": {
+      "en": "Law"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-3556",
+    "type": "Concept",
+    "notation": "-3556",
+    "prefLabel": {
+      "en": "Social problems and services"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Standard subdivisions are added for either or both topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3556",
+    "type": "Concept",
+    "notation": "-3556",
+    "prefLabel": {
+      "en": "Social problems and services"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including crime, poverty"
+      ],
+      "seeAlso": [
+        "For social welfare problems of and services for people with physical\nillness, mental illness, substance abuse, mental retardation, physical\ndisabilities, see -3561"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3557",
+    "type": "Concept",
+    "notation": "-3557",
+    "prefLabel": {
+      "en": "Education"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-3558",
+    "type": "Concept",
+    "notation": "-3558",
+    "prefLabel": {
+      "en": "Communications and transportation"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "seeAlso": [
+        "For communications and transportation engineering, see -356",
+        "See also-3553 for commerce"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3559",
+    "type": "Concept",
+    "notation": "-3559",
+    "prefLabel": {
+      "en": "Customs, etiquette, folklore"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-3_p00033.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "seeAlso": [
+        "For holidays, see --334. For customs of specific subjects, see the\nsubject, e.g., customs of life cycle -354, customs of peace and war,\n-3581; for specific themes in folklore, see the theme, e.g., real\nanimals -362, legendary animals -374"
+      ],
+      "tableRefs": [
+        "Customs of costume, dwellings, food relocated to -3564"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-356",
+    "type": "Concept",
+    "notation": "-356",
+    "prefLabel": {
+      "en": "Technical themes"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-3_p00034.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including communications, computer, military, transportation engineering"
+      ],
+      "notes": [
+        "Class accounting, management, public relations in -3553; class",
+        "comprehensive works on communications and transportation in -3558;",
+        "class scientific themes, comprehensive works on scientific and technical",
+        "themes in -36; class comprehensive works on computer science in -39"
+      ],
+      "seeAlso": [
+        "For agriculture, see -36"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3561",
+    "type": "Concept",
+    "notation": "-3561",
+    "prefLabel": {
+      "en": "Medicine, health, human body"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-3_p00034.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are added for any or all topics in heading"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Standard subdivisions are added for any or all topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3564",
+    "type": "Concept",
+    "notation": "-3564",
+    "prefLabel": {
+      "en": "Home and family management"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-3_p00034.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including customs of costume, dwellings, food [all formerly -3559];",
+        "beauty shops, restaurants"
+      ],
+      "notes": [
+        "Class hotels in -32; class personal beauty and ugliness in -353"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-357",
+    "type": "Concept",
+    "notation": "-357",
+    "prefLabel": {
+      "en": "Artistic, recreational, literary themes"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-3_p00034.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including architecture, painting"
+      ],
+      "notes": [
+        "Class comprehensive works on language and literature in -34; class",
+        "gardens in -364"
+      ],
+      "relocations": [
+        "Books relocated to -39"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3578",
+    "type": "Concept",
+    "notation": "-3578",
+    "prefLabel": {
+      "en": "Music"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-3_p00034.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-3579",
+    "type": "Concept",
+    "notation": "-3579",
+    "prefLabel": {
+      "en": "Recreational and performing arts"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-3_p00034.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including dancing, sports"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-358",
+    "type": "Concept",
+    "notation": "-358",
+    "prefLabel": {
+      "en": "Historical, political, military themes"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-3_p00034.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are added for historical, political, military themes",
+        "together; for historical themes alone",
+        "formerly -32], historical events",
+        "Class history with respect to ethnic and national groups in-3529; class",
+        "historical fiction in literature in -3081 in Table 3B. Class historical themes",
+        "in religion with religious themes in -382, e.g., history of Biblical events",
+        "-3822095"
+      ],
+      "seeAlso": [
+        "For geography of places, see-32"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Standard subdivisions are added for historical, political, military themes",
+        "together; for historical themes alone",
+        "in -3081 in Table 3B."
+      ],
+      "classHere": [
+        "civilization of places, comprehensive works on places [both"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3581",
+    "type": "Concept",
+    "notation": "-3581",
+    "prefLabel": {
+      "en": "Political and military themes"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-3_p00035.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including nationalism, peace, war"
+      ],
+      "notes": [
+        "Standard subdivisions are added for either or both topics in heading"
+      ],
+      "seeAlso": [
+        "For military engineering, see-356; for political and military\nthemes limited to general historical periods, see -358207-358208;\nfor political and military themes limited to areas, regions, places\nin general, see -358209; for political and military themes limited\nto specific historical periods, see -35821-35828; for political and\nmilitary themes limited to ancient world, to specific continents,\ncountries, localities, to extraterrestrial worlds, see -3583-3589"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Class here military science [formerly -355]"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3582",
+    "type": "Concept",
+    "notation": "-3582",
+    "prefLabel": {
+      "en": "World historical themes"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-3_p00035.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including comprehensive works on adventure [formerly -355]"
+      ],
+      "notes": [
+        "Civilization and events not limited by continent, country, locality"
+      ],
+      "tableRefs": [
+        "Class here military themes, political themes not limited by continent,\ncountry, locality",
+        "Class adventure fiction in literature in-3087 in Table 3B; class\nhistorical, military, political themes limited by continent, country,\nlocality in -3583-3589; class comprehensive works on political\nthemes, on military themes in -3581"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3582001–3582009",
+    "type": "Concept",
+    "notation": "-3582001–3582009",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-3_p00035.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Do not use; class in -35801-35809"
+      ],
+      "seeAlso": [
+        "For specific kinds of adventure, see the kind, e.g., detective\nadventures-3556, Westerns -35878"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T3C:-358207-358208",
+    "type": "Concept",
+    "notation": "-358207-358208",
+    "prefLabel": {
+      "en": "General historical periods"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-3_p00035.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Class here general historical themes covering three or more continents (or\nthree or more countries if not on the same continent)",
+        "Class specific historical periods in-35821-35828; class comprehensive\nworks in-3582"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-358207",
+    "type": "Concept",
+    "notation": "-358207",
+    "prefLabel": {
+      "en": "Ca. 500-1450/1500"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-3_p00035.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including comprehensive works on Crusades"
+      ],
+      "notes": [
+        "Class history of a place during the period of the Crusades with the\nhistory of the place, e.g., history of Europe during the period of\nCrusades-3584018"
+      ],
+      "seeAlso": [
+        "For ancient history, see-3583",
+        "For comprehensive works on a specific Crusade, see the\nhistory of the country or region in which most of the fighting\ntook place, e.g., First Crusade-35856014, Fourth Crusade\n-35849503"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-358208",
+    "type": "Concept",
+    "notation": "-358208",
+    "prefLabel": {
+      "en": "Modern history, 1450/1500-"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-3_p00035.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-358209",
+    "type": "Concept",
+    "notation": "-358 209",
+    "prefLabel": {
+      "en": "Areas, regions, places in general"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-3_p00036.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Not limited by continent, country, locality"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-35820901-35820909",
+    "type": "Concept",
+    "notation": "-358 209 01-358 209 09",
+    "prefLabel": {
+      "en": "Standard subdivisions"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-3_p00036.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-3582091-3582099",
+    "type": "Concept",
+    "notation": "-358 209 1-358 209 9",
+    "prefLabel": {
+      "en": "Specific areas, regions, places in general"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-3_p00036.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number --358209 the numbers following -1 in notation 11-19 from Table 2, e.g., urban civilization -358209732, pastoral themes -358209734"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-35821-35828",
+    "type": "Concept",
+    "notation": "-358 21-358 28",
+    "prefLabel": {
+      "en": "Specific historical periods"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-3_p00036.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -3582 the numbers following 909 in 909.1-909.8, e.g., 19th century -358281"
+      ],
+      "classHere": [
+        "Class general historical periods in -358207-358208"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-3583-3589",
+    "type": "Concept",
+    "notation": "-358 3-358 9",
+    "prefLabel": {
+      "en": "Historical themes of ancient world; of specific continents, countries, localities; of extraterrestrial worlds"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-3_p00036.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class here military themes, political themes limited geographically"
+      ],
+      "notes": [
+        "Class western fiction as a type of fiction in -30874 in Table 3B"
+      ],
+      "addToBaseRules": [
+        "Add to base number -358 the numbers following 9 in 930-990, e.g., World War II-3584053, history and civilization of U.S. West -35878"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-36",
+    "type": "Concept",
+    "notation": "-36",
+    "prefLabel": {
+      "en": "Natural and physical phenomena; mathematics"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-3_p00036.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Standard subdivisions are added for natural and physical phenomena, mathematics together; for natural and physical phenomena together; for natural phenomena alone"
+      ],
+      "seeAlso": [
+        "Including fire, weather"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Class here landscapes [formerly -32], agriculture, nature, scientific themes, comprehensive works on scientific and technical themes",
+        "Class science fiction in literature in -308762 in Table 3B; class science fiction in the arts in -15; class times (e.g., seasons, times of day) in -33; class specific persons associated with natural and physical phenomena, with mathematics in -351. Class animals or plants for a specific purpose with the purpose, e.g., medicinal plants-3561, meat-3564",
+        "For human anatomy, physiology, diseases, see -3561"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-362",
+    "type": "Concept",
+    "notation": "-362",
+    "prefLabel": {
+      "en": "Animals"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-3_p00036.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class here pets"
+      ],
+      "notes": [
+        "Class supernatural, mythological, legendary animals in -374"
+      ],
+      "addToBaseRules": [
+        "Add to base number -362 the numbers following 59 in 592-599, e.g., cats -3629752"
+      ],
+      "manualRefs": [
+        "800, T3C-362 vs. 398.245, 590, 636"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-364",
+    "type": "Concept",
+    "notation": "-364",
+    "prefLabel": {
+      "en": "Plants"
+    },
+    "page": 37,
+    "source": {
+      "fileName": "Table-3_p00037.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class here gardens"
+      ],
+      "addToBaseRules": [
+        "Add to base number -364 the numbers following 58 in 582-588, e.g.,\ntrees -364216, roses -3643734"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-37",
+    "type": "Concept",
+    "notation": "-37",
+    "prefLabel": {
+      "en": "The supernatural, mythological, legendary"
+    },
+    "page": 37,
+    "source": {
+      "fileName": "Table-3_p00037.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Class supernatural, mythological, legendary plants in -37"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Standard subdivisions are added for any or all topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-37",
+    "type": "Concept",
+    "notation": "-37",
+    "prefLabel": {
+      "en": "The supernatural, mythological, legendary"
+    },
+    "page": 37,
+    "source": {
+      "fileName": "Table-3_p00037.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including spiritualism"
+      ],
+      "notes": [
+        "Class specific legendary and mythological persons in -351; class specific\ngroups of legendary and mythological people in -352; class religious\nmythology in -382013"
+      ],
+      "seeAlso": [
+        "See Manual at T3C-37 vs. T3C-15"
+      ],
+      "classHere": [
+        "monsters"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-372",
+    "type": "Concept",
+    "notation": "-372",
+    "prefLabel": {
+      "en": "Places"
+    },
+    "page": 37,
+    "source": {
+      "fileName": "Table-3_p00037.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including Atlantis, dystopias, utopias"
+      ],
+      "notes": [
+        "Class religious treatment of places associated with life after death in\n-382023"
+      ],
+      "seeAlso": [
+        "See also-382035 for religious treatment of sacred places"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-374",
+    "type": "Concept",
+    "notation": "-374",
+    "prefLabel": {
+      "en": "Animals"
+    },
+    "page": 37,
+    "source": {
+      "fileName": "Table-3_p00037.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including dragons, werewolves"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-375",
+    "type": "Concept",
+    "notation": "-375",
+    "prefLabel": {
+      "en": "Paranatural beings of human and semihuman form"
+    },
+    "page": 37,
+    "source": {
+      "fileName": "Table-3_p00037.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including centaurs, fairies, ghosts, vampires"
+      ],
+      "notes": [
+        "Class gods, goddesses, other objects of worship and veneration in -382",
+        "For ghost fiction as a kind of fiction, see -308733 in Table 3B; for\nspecific paranatural beings of human and semihuman form, see -351;\nfor werewolves, see --374"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-377",
+    "type": "Concept",
+    "notation": "-377",
+    "prefLabel": {
+      "en": "Magic and witchcraft"
+    },
+    "page": 37,
+    "source": {
+      "fileName": "Table-3_p00037.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Class wicca in 3829994"
+      ],
+      "standardSubdivisions": true,
+      "tableRefs": [
+        "Standard subdivisions are added for either or both topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-38",
+    "type": "Concept",
+    "notation": "-38",
+    "prefLabel": {
+      "en": "Philosophic and abstract themes"
+    },
+    "page": 37,
+    "source": {
+      "fileName": "Table-3_p00037.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-382",
+    "type": "Concept",
+    "notation": "-382",
+    "prefLabel": {
+      "en": "Religious themes"
+    },
+    "page": 37,
+    "source": {
+      "fileName": "Table-3_p00037.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "seeAlso": [
+        "See also-42 for religious works not basically belletristic but discussed\nas literature"
+      ],
+      "addToBaseRules": [
+        "Add to base number -382 the numbers following 2 in 201-299, e.g.,\nBuddhism -382943; however, for religious holidays, see -334; for\nspecific natural persons connected with religion, see -351"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-384",
+    "type": "Concept",
+    "notation": "-384",
+    "prefLabel": {
+      "en": "Philosophic themes"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including existentialism, humanism, nihilism, time, transcendentalism"
+      ],
+      "seeAlso": [
+        "For ethical themes, see-353",
+        "See also -33 for times (e.g., seasons, times of day)"
+      ],
+      "tableRefs": [
+        "Class specific persons associated with philosophic themes in-351"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-39",
+    "type": "Concept",
+    "notation": "-39",
+    "prefLabel": {
+      "en": "Computer science, information, general works"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "including": [
+        "Including books [formerly -357], journalism, library and information sciences, museology"
+      ],
+      "seeAlso": [
+        "For computer engineering, see -356"
+      ],
+      "tableRefs": [
+        "Class specific persons associated with computer science, information, or general works in -351; class supernatural, mythological, legendary phenomena in -37. Class computer applications in a specific subject with the subject, e.g., computer applications in economics -3553"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-4",
+    "type": "Concept",
+    "notation": "-4",
+    "prefLabel": {
+      "en": "Literature emphasizing subjects"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number 4 notation 001-999, e.g., religious works as literature -42, biography as literature 492"
+      ],
+      "notes": [
+        "Works not basically belletristic discussed as literature, where the real interest is in the literary quality of the text rather than the subject of the text",
+        "Class literary examination of a text in order to reach conclusions about its meaning, structure, authorship, date, where the real interest is in the subject of the text with the text, e.g., literary criticism of Bible 220.66"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-8-9",
+    "type": "Concept",
+    "notation": "-8-9",
+    "prefLabel": {
+      "en": "Literature for and by groups of people"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Do not use if redundant, e.g., collections of English-language poetry for and by the English 821.008 (not 821.0080821)",
+        "Unless other instructions are given, observe the following table of preference, e.g., literature for or by Roman Catholic girls -92827088282 (not -921282083 or-9287):"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-9282-9285",
+    "type": "Concept",
+    "notation": "-9282-9285",
+    "prefLabel": {
+      "en": "People by age group"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-9286-9287",
+    "type": "Concept",
+    "notation": "-9286-9287",
+    "prefLabel": {
+      "en": "People by gender or sex"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-9205-9207",
+    "type": "Concept",
+    "notation": "-9205-9207",
+    "prefLabel": {
+      "en": "People by relationships, people by miscellaneous social attributes, people with disabilities and illnesses, gifted people"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-921",
+    "type": "Concept",
+    "notation": "-921",
+    "prefLabel": {
+      "en": "Occupational and religious groups"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Ethnic and national groups"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-93-99",
+    "type": "Concept",
+    "notation": "-93-99",
+    "prefLabel": {
+      "en": "Residents of specific continents, countries, localities"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-91",
+    "type": "Concept",
+    "notation": "-91",
+    "prefLabel": {
+      "en": "Residents of specific regions"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-1-3",
+    "type": "Concept",
+    "notation": "-1-3",
+    "prefLabel": {
+      "en": "Class literature displaying specific features for and by groups of people in -1-3; class comprehensive works in the appropriate number in Table 3B"
+    },
+    "page": 38,
+    "source": {
+      "fileName": "Table-3_p00038.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Literature for and by ethnic and national groups"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class literature for and by ethnic and national groups in continents, countries, localities where the groups predominate in -93-99"
+      ],
+      "seeAlso": [
+        "See Manual at T3C-93-99, T3C-9174 vs. T3C-8"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-805-809",
+    "type": "Concept",
+    "notation": "-805-809",
+    "prefLabel": {
+      "en": "Ethnic and national groups with ethnic origins from more than one continent, of European descent"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -8 notation 05-09 from Table 5, e.g., literature by people of mixed African, native American, and Asian descent -805"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-81-89",
+    "type": "Concept",
+    "notation": "-81-89",
+    "prefLabel": {
+      "en": "Specific ethnic and national groups"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -8 notation 1-9 from Table 5, e.g., literature by Africans and people of African descent -896, literature by Africans and people of African descent in Brazil-896081"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-9",
+    "type": "Concept",
+    "notation": "-9",
+    "prefLabel": {
+      "en": "Literature for and by groups of people with specific attributes, residents of specific areas"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-91",
+    "type": "Concept",
+    "notation": "-91",
+    "prefLabel": {
+      "en": "Literature for and by residents of specific regions"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Not limited by continent, country, locality"
+      ],
+      "tableRefs": [
+        "Add to base number -91 the numbers following -1 in notation 11-19 from Table 2, e.g., literature by rural authors-91734"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-92",
+    "type": "Concept",
+    "notation": "-92",
+    "prefLabel": {
+      "en": "Literature for and by groups of people with specific attributes"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-9205-9207",
+    "type": "Concept",
+    "notation": "-9205-9207",
+    "prefLabel": {
+      "en": "People by relationships, people by miscellaneous social attributes, people with disabilities and illnesses, gifted people"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "notes": [
+        "Miscellaneous social attributes not provided for elsewhere"
+      ],
+      "tableRefs": [
+        "Add to base number --920 the numbers following-08 in notation 085-087 from Table 1, e.g., literature by mothers-92052, literature by convicts-9206927"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-921",
+    "type": "Concept",
+    "notation": "-921",
+    "prefLabel": {
+      "en": "Occupational and religious groups"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -921 notation 001-999, e.g., literature by Catholics -921282, literature by painters -92175"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-928",
+    "type": "Concept",
+    "notation": "-928",
+    "prefLabel": {
+      "en": "People by age group, gender, or sex"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:>-9282-9285",
+    "type": "Concept",
+    "notation": ">-9282-9285",
+    "prefLabel": {
+      "en": "Age groups"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "scope": {
+      "classHere": [
+        "Class comprehensive works in -928"
+      ]
+    }
+  },
+  {
+    "id": "T3C:-9282",
+    "type": "Concept",
+    "notation": "-9282",
+    "prefLabel": {
+      "en": "Children"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:--92826",
+    "type": "Concept",
+    "notation": "--92826",
+    "prefLabel": {
+      "en": "Boys"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-92827",
+    "type": "Concept",
+    "notation": "-92827",
+    "prefLabel": {
+      "en": "Girls"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-9283",
+    "type": "Concept",
+    "notation": "-9283",
+    "prefLabel": {
+      "en": "Young people twelve to twenty"
+    },
+    "page": 39,
+    "source": {
+      "fileName": "Table-3_p00039.png",
+      "span": "null"
+    },
+    "table": "T3C"
+  },
+  {
+    "id": "T3C:-92836",
+    "type": "Concept",
+    "notation": "-92836",
+    "prefLabel": {
+      "en": "Males twelve to twenty"
+    },
+    "page": 40,
+    "source": {
+      "fileName": "Table-3_p00040.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3C:-92837",
+    "type": "Concept",
+    "notation": "-92837",
+    "prefLabel": {
+      "en": "Females twelve to twenty"
+    },
+    "page": 40,
+    "source": {
+      "fileName": "Table-3_p00040.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3C:-9285",
+    "type": "Concept",
+    "notation": "-9285",
+    "prefLabel": {
+      "en": "People in late adulthood"
+    },
+    "page": 40,
+    "source": {
+      "fileName": "Table-3_p00040.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3C:-9286-9287",
+    "type": "Concept",
+    "notation": "-9286-9287",
+    "prefLabel": {
+      "en": "People by gender or sex"
+    },
+    "page": 40,
+    "source": {
+      "fileName": "Table-3_p00040.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3C:-9286",
+    "type": "Concept",
+    "notation": "-9286",
+    "prefLabel": {
+      "en": "Men"
+    },
+    "page": 40,
+    "source": {
+      "fileName": "Table-3_p00040.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3C:-9287",
+    "type": "Concept",
+    "notation": "-9287",
+    "prefLabel": {
+      "en": "Women"
+    },
+    "page": 40,
+    "source": {
+      "fileName": "Table-3_p00040.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T3C:-93-99",
+    "type": "Concept",
+    "notation": "-93-99",
+    "prefLabel": {
+      "en": "Literature for and by residents of specific continents, countries, localities"
+    },
+    "page": 40,
+    "source": {
+      "fileName": "Table-3_p00040.png",
+      "span": "null"
+    },
+    "table": "T3C",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here literature for and by ethnic and national groups in continents, countries, localities where the groups predominate"
+      ],
+      "tableRefs": [
+        "See Manual at T3C-93-99; also at T3C--93-99, T3C-9174 vs. T3C-8"
+      ],
+      "notes": [
+        "Table 3B. Subdivisions for Works by or about More\nthan One Author (continued)"
+      ]
+    }
+  }
+]

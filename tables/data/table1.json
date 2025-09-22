@@ -1,0 +1,5973 @@
+[
+  {
+    "id": "T1:-04",
+    "type": "Concept",
+    "notation": "-04",
+    "prefLabel": {
+      "en": "Special topics"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-092",
+    "type": "Concept",
+    "notation": "-092",
+    "prefLabel": {
+      "en": "Biography"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-028",
+    "type": "Concept",
+    "notation": "-028",
+    "prefLabel": {
+      "en": "Auxiliary techniques and procedures; apparatus, equipment, materials"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-07",
+    "type": "Concept",
+    "notation": "-07",
+    "prefLabel": {
+      "en": "Education, research, related topics"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "(except —074, —075)"
+      ]
+    }
+  },
+  {
+    "id": "T1:-068",
+    "type": "Concept",
+    "notation": "-068",
+    "prefLabel": {
+      "en": "Management"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-01",
+    "type": "Concept",
+    "notation": "-01",
+    "prefLabel": {
+      "en": "Philosophy and theory"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-023",
+    "type": "Concept",
+    "notation": "-023",
+    "prefLabel": {
+      "en": "The subject as a profession, occupation, hobby"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-024",
+    "type": "Concept",
+    "notation": "-024",
+    "prefLabel": {
+      "en": "The subject for people in specific occupations"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-025",
+    "type": "Concept",
+    "notation": "-025",
+    "prefLabel": {
+      "en": "Directories of persons and organizations"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-027",
+    "type": "Concept",
+    "notation": "-027",
+    "prefLabel": {
+      "en": "Patents and identification marks"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-029",
+    "type": "Concept",
+    "notation": "-029",
+    "prefLabel": {
+      "en": "Commercial miscellany"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0601-0609",
+    "type": "Concept",
+    "notation": "-0601-0609",
+    "prefLabel": {
+      "en": "Organizations"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-06",
+    "type": "Concept",
+    "notation": "-06",
+    "prefLabel": {
+      "en": "Organizations (without subdivision)"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-08",
+    "type": "Concept",
+    "notation": "-08",
+    "prefLabel": {
+      "en": "Groups of people"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-093-099",
+    "type": "Concept",
+    "notation": "-093-099",
+    "prefLabel": {
+      "en": "Specific continents, countries, localities; extraterrestrial worlds"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-091",
+    "type": "Concept",
+    "notation": "-091",
+    "prefLabel": {
+      "en": "Areas, regions, places in general"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0901-0905",
+    "type": "Concept",
+    "notation": "-0901-0905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-074",
+    "type": "Concept",
+    "notation": "-074",
+    "prefLabel": {
+      "en": "Museums, collections, exhibits"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-075",
+    "type": "Concept",
+    "notation": "-075",
+    "prefLabel": {
+      "en": "Museum activities and services"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-022",
+    "type": "Concept",
+    "notation": "-022",
+    "prefLabel": {
+      "en": "Illustrations, models, miniatures"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-021",
+    "type": "Concept",
+    "notation": "-021",
+    "prefLabel": {
+      "en": "Tabulated and related materials"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0202",
+    "type": "Concept",
+    "notation": "-0202",
+    "prefLabel": {
+      "en": "Synopses and outlines"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0207",
+    "type": "Concept",
+    "notation": "-0207",
+    "prefLabel": {
+      "en": "Humorous treatment"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0208",
+    "type": "Concept",
+    "notation": "-0208",
+    "prefLabel": {
+      "en": "Audiovisual treatment"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-03",
+    "type": "Concept",
+    "notation": "-03",
+    "prefLabel": {
+      "en": "Dictionaries, encyclopedias, concordances"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09",
+    "type": "Concept",
+    "notation": "-09",
+    "prefLabel": {
+      "en": "History and geographic treatment (without subdivision)"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-05",
+    "type": "Concept",
+    "notation": "-05",
+    "prefLabel": {
+      "en": "Serial publications"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-01",
+    "type": "Concept",
+    "notation": "-01",
+    "prefLabel": {
+      "en": "Philosophy and theory"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-02",
+    "type": "Concept",
+    "notation": "-02",
+    "prefLabel": {
+      "en": "Miscellany"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-03",
+    "type": "Concept",
+    "notation": "-03",
+    "prefLabel": {
+      "en": "Dictionaries, encyclopedias, concordances"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-04",
+    "type": "Concept",
+    "notation": "-04",
+    "prefLabel": {
+      "en": "Special topics"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-05",
+    "type": "Concept",
+    "notation": "-05",
+    "prefLabel": {
+      "en": "Serial publications"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-06",
+    "type": "Concept",
+    "notation": "-06",
+    "prefLabel": {
+      "en": "Organizations and management"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-07",
+    "type": "Concept",
+    "notation": "-07",
+    "prefLabel": {
+      "en": "Education, research, related topics"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-08",
+    "type": "Concept",
+    "notation": "-08",
+    "prefLabel": {
+      "en": "Groups of people"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09",
+    "type": "Concept",
+    "notation": "-09",
+    "prefLabel": {
+      "en": "History, geographic treatment, biography"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-01",
+    "type": "Concept",
+    "notation": "-01",
+    "prefLabel": {
+      "en": "Philosophy and theory"
+    },
+    "page": 1,
+    "source": {
+      "fileName": "Table-1_p00001.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including value"
+      ],
+      "notes": [
+        "Class interdisciplinary works on philosophy in 100"
+      ],
+      "tableRefs": [
+        "See Manual at T1—01"
+      ],
+      "classHere": [
+        "methodology, schools of thought"
+      ]
+    }
+  },
+  {
+    "id": "T1:-011",
+    "type": "Concept",
+    "notation": "-011",
+    "prefLabel": {
+      "en": "Systems"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-1_p00002.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -011 the numbers following 003 in 003.1-003.8, e.g., computer modeling and simulation -0113, forecasting and forecasts -0112; however, for forecasts concerning a specific group of people, see -081-089, plus notation 01 from table under -08, e.g., forecasts concerning retired people -0869601; for short term forecasts (ten years or less) in a specific historical period, see -0901-0905, plus notation 01 from table under -0901-0905, e.g., forecasts for 2010-2019 -09051201; for forecasts in a specific continent, country, locality, see -093-099, plus notation 01 from table under -093-099, e.g., forecasts for United States -097301"
+      ],
+      "classHere": [
+        "Class here models (simulations), operations research"
+      ],
+      "manualRefs": [
+        "See Manual at 510, T1-0151 vs. 003, T1-011"
+      ],
+      "notes": [
+        "Class models (simulations) in study and teaching in -078"
+      ]
+    }
+  },
+  {
+    "id": "T1:-012",
+    "type": "Concept",
+    "notation": "-012",
+    "prefLabel": {
+      "en": "Classification"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-1_p00002.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class classification of bibliographic material in 025.42; class classification of bibliographic material on a specific subject in 025.46; class interdisciplinary works on classification in 001.012"
+      ]
+    }
+  },
+  {
+    "id": "T1:-014",
+    "type": "Concept",
+    "notation": "-014",
+    "prefLabel": {
+      "en": "Communication"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-1_p00002.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here language, terminology, content analysis, semiotics"
+      ],
+      "including": [
+        "Including etymology, pronunciation, spelling"
+      ],
+      "notes": [
+        "Class subject headings and thesauri in information retrieval in 025.49001-025.49999; class interdisciplinary works on communication, semiotics in 302.2; class interdisciplinary works on language in 400; class interdisciplinary works on terminology in 401.4; class interdisciplinary works on etymology in 412. Class aspects of linguistics not provided for here with the aspect in 400, e.g., translating 418.02; class readers for nonnative speakers of a specific language intended to instill a knowledge of the special vocabulary of that language for a specific subject with the language in 400, plus notation 864 from Table 4, e.g., engineering readers for Spanish-speaking people 864.6102462, English-language engineering readers for Spanish-speaking people 428.646102462"
+      ],
+      "seeAlso": [
+        "For dictionaries, see -03"
+      ],
+      "tableRefs": [
+        "plus notation 864 from Table 4"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0141",
+    "type": "Concept",
+    "notation": "-0141",
+    "prefLabel": {
+      "en": "Discourse analysis"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-1_p00002.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0148",
+    "type": "Concept",
+    "notation": "-0148",
+    "prefLabel": {
+      "en": "Abbreviations, acronyms, symbols"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-1_p00002.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including dictionaries of abbreviations, acronyms, symbols"
+      ],
+      "notes": [
+        "Symbols classed here are limited to conventional or standard signs such as those used in mathematics, chemistry, flow charts, circuit diagrams, maps, road signs",
+        "Class interdisciplinary works on symbols in 302.223; class interdisciplinary works on abbreviations and acronyms in 411; class interdisciplinary dictionaries of abbreviations, acronyms, symbols in 413.15"
+      ]
+    }
+  },
+  {
+    "id": "T1:-015",
+    "type": "Concept",
+    "notation": "-015",
+    "prefLabel": {
+      "en": "Scientific principles"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -015 the numbers following 5 in 510-590, e.g., mathematics -0151, meteorology -015515"
+      ],
+      "classHere": [
+        "Class scientific method in -0721; class statistical methods in -0727; class interdisciplinary works on natural sciences and mathematics in 500"
+      ],
+      "manualRefs": [
+        "See Manual at T1-015 vs. T1-0245-0246; also at 510, T1-0151 vs. 003, T1-011; also at 510, T1-0151 vs. 004-006, T1-0285; also at 519.5, T1-015195 vs. 001.422, T1-0727"
+      ],
+      "notes": [
+        "Use of science to analyze and describe the subject, to support or attack its validity, to carry out operations in the subject, to provide information needed in a subject"
+      ],
+      "seeAlso": [
+        "For psychological principles, see -019"
+      ]
+    }
+  },
+  {
+    "id": "T1:-016",
+    "type": "Concept",
+    "notation": "-016",
+    "prefLabel": {
+      "en": "Bibliographies, catalogs, indexes"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "(Optional number; prefer 016)"
+      ]
+    }
+  },
+  {
+    "id": "T1:-019",
+    "type": "Concept",
+    "notation": "-019",
+    "prefLabel": {
+      "en": "Psychological principles"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class social psychology in 302; class psychology of learning a specific subject at primary level in 372.3-372.8; class interdisciplinary works on psychology in 150"
+      ],
+      "including": [
+        "Including psychology of learning specific subjects"
+      ],
+      "manualRefs": [
+        "See Manual at 302-307 vs. 150, T1-019"
+      ],
+      "notes": [
+        "Use for applications of individual psychology only, not for applications of social psychology"
+      ]
+    }
+  },
+  {
+    "id": "T1:-02",
+    "type": "Concept",
+    "notation": "-02",
+    "prefLabel": {
+      "en": "Miscellany"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0202",
+    "type": "Concept",
+    "notation": "-0202",
+    "prefLabel": {
+      "en": "[Synopses and outlines, humorous treatment, audiovisual treatment]"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-021",
+    "type": "Concept",
+    "notation": "-021",
+    "prefLabel": {
+      "en": "Tabulated and related materials"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-022",
+    "type": "Concept",
+    "notation": "-022",
+    "prefLabel": {
+      "en": "Illustrations, models, miniatures"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-023",
+    "type": "Concept",
+    "notation": "-023",
+    "prefLabel": {
+      "en": "The subject as a profession, occupation, hobby"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-024",
+    "type": "Concept",
+    "notation": "-024",
+    "prefLabel": {
+      "en": "The subject for people in specific occupations"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-025",
+    "type": "Concept",
+    "notation": "-025",
+    "prefLabel": {
+      "en": "Directories of persons and organizations"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-027",
+    "type": "Concept",
+    "notation": "-027",
+    "prefLabel": {
+      "en": "Patents and identification marks"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-028",
+    "type": "Concept",
+    "notation": "-028",
+    "prefLabel": {
+      "en": "Auxiliary techniques and procedures; apparatus, equipment, materials"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-029",
+    "type": "Concept",
+    "notation": "-029",
+    "prefLabel": {
+      "en": "Commercial miscellany"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0202_2",
+    "type": "Concept",
+    "notation": "-0202",
+    "prefLabel": {
+      "en": "Synopses and outlines"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class works called synopses and outlines that are regular treatises or introductions to a subject in 001-999 without use of notation 0202 from Table 1; class interdisciplinary chronologies in 902.02"
+      ],
+      "including": [
+        "Including chronologies"
+      ],
+      "tableRefs": [
+        "from Table 1"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0207",
+    "type": "Concept",
+    "notation": "-0207",
+    "prefLabel": {
+      "en": "Humorous treatment"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "manualRefs": [
+        "See Manual at T1-0207 vs. T3B-7, T3A-8 + 02, T3B-802, T3B-8 + 02, T3A-8 + 07, T3B-807, T3B-8 + 07"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0208",
+    "type": "Concept",
+    "notation": "-0208",
+    "prefLabel": {
+      "en": "Audiovisual treatment"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-1_p00003.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-021",
+    "type": "Concept",
+    "notation": "-021",
+    "prefLabel": {
+      "en": "Tabulated and related materials"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-1_p00004.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "statistics, statistical graphs"
+      ],
+      "notes": [
+        "Class interdisciplinary collections of statistics in 310"
+      ],
+      "seeAlso": [
+        "—0727 for analysis of statistical data; also —0728 for methods of presenting statistical data"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0212",
+    "type": "Concept",
+    "notation": "-0212",
+    "prefLabel": {
+      "en": "Formulas and specifications"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-1_p00004.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "tables of values for use in formulas and specifications"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0216",
+    "type": "Concept",
+    "notation": "-0216",
+    "prefLabel": {
+      "en": "Lists, inventories, catalogs"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-1_p00004.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Not provided for elsewhere",
+        "Class directories of persons and organizations in —025; class lists and catalogs of products and services offered for sale, lease, or free distribution in —029; class catalogs of collections and exhibits in —074; class price trends for collectors in —075; class bibliographic catalogs on specific subjects in 016; class directories of databases on specific subjects in 016.02506"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0218",
+    "type": "Concept",
+    "notation": "-0218",
+    "prefLabel": {
+      "en": "Standards"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-1_p00004.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —0218 notation 1–9 from Table 2, e.g., standards in Israel —02185694; however, for biography, see —092"
+      ],
+      "classHere": [
+        "standardization"
+      ],
+      "notes": [
+        "Class interdisciplinary works on standardization, standards in 389.6; class collections of technical standards in 602.18"
+      ],
+      "seeAlso": [
+        "For specifications, see —0212"
+      ]
+    }
+  },
+  {
+    "id": "T1:-022",
+    "type": "Concept",
+    "notation": "-022",
+    "prefLabel": {
+      "en": "Illustrations, models, miniatures"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-1_p00004.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "graphs"
+      ],
+      "notes": [
+        "Class statistical graphs in —021"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0222",
+    "type": "Concept",
+    "notation": "-0222",
+    "prefLabel": {
+      "en": "Pictures and related illustrations"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-1_p00004.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "cartoons, drawings, pictorial charts and designs, sketches"
+      ],
+      "notes": [
+        "Class interdisciplinary works on cartoons in 741.5"
+      ],
+      "seeAlso": [
+        "For humorous cartoons, see —0207",
+        "See Manual at T1—0222 vs. T1—0223"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0223",
+    "type": "Concept",
+    "notation": "-0223",
+    "prefLabel": {
+      "en": "Maps, plans, diagrams"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-1_p00004.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class comprehensive works on historical maps and atlases in 911; class interdisciplinary works on maps, plans, diagrams, on maps, plans, diagrams of geography, travel, and roads in general and in specific areas in 912"
+      ],
+      "seeAlso": [
+        "See Manual at T1—0222 vs. T1—0223"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0228",
+    "type": "Concept",
+    "notation": "-0228",
+    "prefLabel": {
+      "en": "Models and miniatures"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-1_p00004.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class simulation models in —011; class model and miniature educational exhibits in —074; class interdisciplinary works in 688.1"
+      ]
+    }
+  },
+  {
+    "id": "T1:-023",
+    "type": "Concept",
+    "notation": "-023",
+    "table": "T1",
+    "prefLabel": {
+      "en": "The subject as a profession, occupation, hobby"
+    },
+    "scope": {
+      "classHere": [
+        "Class here vocational guidance, choice of vocation, career opportunities, occupational specialties, professional relationships; the subject as a profession, occupation, hobby for specific groups of people"
+      ],
+      "addToBaseRules": [
+        "Add to base number —023 notation 1–9 from Table 2, e.g., the subject as a profession in Great Britain —02341; however, for biography, see —092"
+      ],
+      "notes": [
+        "Class interdisciplinary works on professional relationships in 331.7; class interdisciplinary works on vocational guidance, choice of vocation, career opportunities, occupational specialties in 331.702; class interdisciplinary works on hobbies in 790.13"
+      ]
+    },
+    "page": 5,
+    "source": {
+      "fileName": "table-1_p00005.png"
+    }
+  },
+  {
+    "id": "T1:-024",
+    "type": "Concept",
+    "notation": "-024",
+    "table": "T1",
+    "prefLabel": {
+      "en": "The subject for people in specific occupations"
+    },
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —024 notation 001–999, e.g., the subject for engineers —02462"
+      ],
+      "manualRefs": [
+        "See Manual at T1—024; also at T1—015 vs. T1—0245–0246"
+      ]
+    },
+    "page": 5,
+    "source": {
+      "fileName": "table-1_p00005.png"
+    }
+  },
+  {
+    "id": "T1:-025",
+    "type": "Concept",
+    "notation": "-025",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Directories of persons and organizations"
+    },
+    "scope": {
+      "classHere": [
+        "Class here directories of public officials and employees; membership lists containing directory information, e.g., employment and education"
+      ],
+      "addToBaseRules": [
+        "Add to base number —025 notation 1–9 from Table 2, e.g., directories of Ohio —025771; however, for biography, see —092"
+      ],
+      "seeAlso": [
+        "See also —029 for directories of products and services; also 016.02506 for directories of databases on specific subjects"
+      ],
+      "notes": [
+        "Class directories giving biographical information in —0922"
+      ],
+      "manualRefs": [
+        "See Manual at T1—025 vs. T1—029; also at T1—025 vs. T1—0601–0609"
+      ]
+    },
+    "page": 5,
+    "source": {
+      "fileName": "table-1_p00005.png"
+    }
+  },
+  {
+    "id": "T1:-(026)",
+    "type": "Concept",
+    "notation": "-(026)",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Law"
+    },
+    "scope": {
+      "notes": [
+        "(Optional number; prefer 341–347)"
+      ],
+      "addToBaseRules": [
+        "Add to base number —026 notation 1–9 from Table 2, e.g., law of Australia —02694; however, for biography, see —092"
+      ],
+      "seeAlso": [
+        "A special development of —026 covering treaties and cases in law of nations is given in centered entry 341–341.7; for use with subdivisions in 341.2–341.7, another special development of —026 covering laws, regulations, cases, procedures, courts in the rest of law is given in centered entry at 342–347 for use with subdivisions in 342–347"
+      ]
+    },
+    "page": 5,
+    "source": {
+      "fileName": "table-1_p00005.png"
+    }
+  },
+  {
+    "id": "T1:-027",
+    "type": "Concept",
+    "notation": "-027",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Patents and identification marks"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "table-1_p00005.png"
+    }
+  },
+  {
+    "id": "T1:-0272",
+    "type": "Concept",
+    "notation": "-0272",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Patents"
+    },
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —0272 notation 1–9 from Table 2, e.g., patents of Japan —027252; however, for biography, see —092"
+      ],
+      "notes": [
+        "Class interdisciplinary works on patents in 346.0486; class interdisciplinary collections of patents in 608",
+        "Class comprehensive works in —027"
+      ]
+    },
+    "page": 5,
+    "source": {
+      "fileName": "table-1_p00005.png"
+    }
+  },
+  {
+    "id": "T1:-0275",
+    "type": "Concept",
+    "notation": "-0275",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Trademarks and service marks"
+    },
+    "scope": {
+      "notes": [
+        "Class comprehensive works on trademarks generally found on products rather than identifying services in 602.75; class interdisciplinary works on trademarks and service marks in 929.95"
+      ]
+    },
+    "page": 6,
+    "source": {
+      "fileName": "table-1_p00006.png"
+    }
+  },
+  {
+    "id": "T1:-0277",
+    "type": "Concept",
+    "notation": "-0277",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Ownership marks"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "table-1_p00006.png"
+    }
+  },
+  {
+    "id": "T1:-0278",
+    "type": "Concept",
+    "notation": "-0278",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Artists' and craftsmen's marks"
+    },
+    "scope": {
+      "notes": [
+        "Class interdisciplinary works in 700.278"
+      ]
+    },
+    "page": 6,
+    "source": {
+      "fileName": "table-1_p00006.png"
+    }
+  },
+  {
+    "id": "T1:-028",
+    "type": "Concept",
+    "notation": "-028",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Auxiliary techniques and procedures; apparatus, equipment, materials"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "table-1_p00006.png"
+    }
+  },
+  {
+    "id": "T1:-0284",
+    "type": "Concept",
+    "notation": "-0284",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Apparatus, equipment, materials"
+    },
+    "scope": {
+      "classHere": [
+        "Class here instruments, instrumentation"
+      ],
+      "notes": [
+        "Limited to apparatus, equipment, materials used in a subject"
+      ],
+      "tableRefs": [
+        "Class apparatus, equipment, materials used in a specific auxiliary technique or procedure in —0285–0289; class collectibles, memorabilia in —075; class use of apparatus and equipment in study and teaching in —078; class products of a subject in 001–999 without adding notation —0284 from Table 1"
+      ]
+    },
+    "page": 6,
+    "source": {
+      "fileName": "table-1_p00006.png"
+    }
+  },
+  {
+    "id": "T1:-0285",
+    "type": "Concept",
+    "notation": "-0285",
+    "table": "T1",
+    "prefLabel": {
+      "en": "Computer applications"
+    },
+    "scope": {
+      "classHere": [
+        "Class here computer applications in research; data processing"
+      ],
+      "seeAlso": [
+        "For research methods, see —0721"
+      ],
+      "notes": [
+        "Unless it is redundant, add to base number —0285 the numbers following 00 in 004–006, e.g., digital personal computers —0285416, but digital computers as a whole —0285 (not —02854)",
+        "Class computer modeling and simulation in —0113; class interdisciplinary works on data processing in 004"
+      ],
+      "manualRefs": [
+        "See Manual at T1—0285; also at 510, T1—0151 vs. 004–006, T1—0285"
+      ]
+    },
+    "page": 6,
+    "source": {
+      "fileName": "table-1_p00006.png"
+    }
+  },
+  {
+    "id": "T1:-0286",
+    "type": "Concept",
+    "notation": "-0286",
+    "prefLabel": {
+      "en": "Green technology (Environmental technology)"
+    },
+    "scope": {
+      "notes": [
+        "Former heading: Waste technology"
+      ],
+      "including": [
+        "pollution control technology, waste technology"
+      ],
+      "classHere": [
+        "environmental engineering (environmental health engineering, environmental protection engineering), sustainable engineering"
+      ],
+      "tableRefs": [
+        "interdisciplinary works on environmental engineering, green technology, sustainable engineering in 628; class interdisciplinary works on waste technology in 628.4; class interdisciplinary works on pollution control technology in 628.5"
+      ],
+      "seeAlso": [
+        "621.042 for engineering of alternative and renewable energy resources"
+      ]
+    },
+    "page": 7,
+    "source": {
+      "fileName": "table-1_p00007.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-0287",
+    "type": "Concept",
+    "notation": "-0287",
+    "prefLabel": {
+      "en": "Testing and measurement"
+    },
+    "scope": {
+      "notes": [
+        "Use this subdivision only with numbers denoting fabrication, manufacture, construction, installation, not with numbers denoting use, operation, or application when these are different, e.g., testing and measurement of textile manufacturing machinery 681.76770287 (not 677.02850287), of tools 621.900287"
+      ],
+      "classHere": [
+        "laboratory manuals for testing, mensuration"
+      ],
+      "tableRefs": [
+        "aptitude tests in a specific field in 153.94; class technology of testing and measuring instruments in 681.2; class interdisciplinary works on measurement and mensuration in 530.8"
+      ],
+      "seeAlso": [
+        "For educational testing, see —076"
+      ]
+    },
+    "page": 7,
+    "source": {
+      "fileName": "table-1_p00007.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-0288",
+    "type": "Concept",
+    "notation": "-0288",
+    "prefLabel": {
+      "en": "Maintenance and repair"
+    },
+    "scope": {
+      "notes": [
+        "Use this subdivision only with numbers denoting fabrication, manufacture, construction, installation, not with numbers denoting use, operation, or application when These are different, e.g., maintenance and repair of textile manufacturing machinery 681.76770288 (not 677.02850288), of tools 621.900288"
+      ],
+      "classHere": [
+        "conservation, preservation, restoration"
+      ],
+      "tableRefs": [
+        "maintenance and repair in specific areas in —09; class interdisciplinary works on maintenance and repair in 620.0016; class interdisciplinary works on artistic conservation, preservation, restoration in 702.88"
+      ],
+      "seeAlso": [
+        "—0286 for green technology; also —0682 for management of maintenance"
+      ]
+    },
+    "page": 7,
+    "source": {
+      "fileName": "table-1_p00007.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-0289",
+    "type": "Concept",
+    "notation": "-0289",
+    "prefLabel": {
+      "en": "Safety measures"
+    },
+    "scope": {
+      "notes": [
+        "Use only for personal safety and safety engineering"
+      ],
+      "tableRefs": [
+        "interdisciplinary works on safety in 363.1; class interdisciplinary works on personal safety in 613.6; class interdisciplinary works on safety engineering in 620.86"
+      ],
+      "manualRefs": [
+        "See Manual at 363.1"
+      ]
+    },
+    "page": 7,
+    "source": {
+      "fileName": "table-1_p00007.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-029",
+    "type": "Concept",
+    "notation": "-029",
+    "prefLabel": {
+      "en": "Commercial miscellany"
+    },
+    "scope": {
+      "including": [
+        "estimates of labor, time, materials; price trends"
+      ],
+      "classHere": [
+        "listings of products and services offered for sale, lease, or free distribution"
+      ],
+      "addToBaseRules": [
+        "Add to base number —029 notation 1–9 from Table 2, e.g., commercial miscellany of Japan —02952; however, for biography, see —092"
+      ],
+      "tableRefs": [
+        "Class house organs in —05; class interdisciplinary commercial miscellany in 381.029; class noncurrent offers for sale used primarily to illustrate civilization and customs of an earlier period in 900"
+      ],
+      "seeAlso": [
+        "For price trends for collectors, see —075; for catalogs of bibliographic materials on specific subjects, see 016",
+        "—074 for listings of noncommercial collections and exhibits"
+      ],
+      "manualRefs": [
+        "See Manual at T1—025 vs. T1—029; also at T1—074 vs. T1—029"
+      ]
+    },
+    "page": 8,
+    "source": {
+      "fileName": "table-1_p00008.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-03",
+    "type": "Concept",
+    "notation": "-03",
+    "prefLabel": {
+      "en": "Dictionaries, encyclopedias, concordances"
+    },
+    "scope": {
+      "including": [
+        "thesauri (synonym dictionaries)"
+      ],
+      "tableRefs": [
+        "Class dictionaries of abbreviations, acronyms, symbols in —0148; class biographical dictionaries in —0922; class interdisciplinary encyclopedias in 030; class interdisciplinary dictionaries in 413"
+      ],
+      "seeAlso": [
+        "025.49 for thesauri (controlled vocabularies)"
+      ]
+    },
+    "page": 8,
+    "source": {
+      "fileName": "table-1_p00008.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-04",
+    "type": "Concept",
+    "notation": "-04",
+    "prefLabel": {
+      "en": "Special topics"
+    },
+    "scope": {
+      "notes": [
+        "Use this subdivision only when it is specifically set forth in the schedules. Add other standard subdivisions —01–09 to it and its subdivisions as required, e.g., participatory democracy in France 323.0420944"
+      ],
+      "standardSubdivisions": true
+    },
+    "page": 8,
+    "source": {
+      "fileName": "table-1_p00008.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-05",
+    "type": "Concept",
+    "notation": "-05",
+    "prefLabel": {
+      "en": "Serial publications"
+    },
+    "scope": {
+      "notes": [
+        "Regardless of form (print or electronic) or frequency"
+      ],
+      "classHere": [
+        "house organs, magazines, newspapers, yearbooks"
+      ],
+      "tableRefs": [
+        "Class monographic series in 001–999 without adding notation 05 from Table 1; class interdisciplinary serial publications in 050; class interdisciplinary newspapers in 071–079"
+      ],
+      "seeAlso": [
+        "For a special kind of serial publication, see the kind, e.g., directories in serial form —025, administrative reports of organizations —06"
+      ]
+    },
+    "page": 8,
+    "source": {
+      "fileName": "table-1_p00008.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-06",
+    "type": "Concept",
+    "notation": "-06",
+    "prefLabel": {
+      "en": "Organizations and management"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "table-1_p00008.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-0601-0609",
+    "type": "Concept",
+    "notation": "-0601-0609",
+    "prefLabel": {
+      "en": "Organizations"
+    },
+    "ranges": [
+      {
+        "from": "-0601",
+        "to": "-0609"
+      }
+    ],
+    "scope": {
+      "classHere": [
+        "Greek-letter societies, student organizations; history, charters, regulations, membership lists, administrative reports"
+      ],
+      "tableRefs": [
+        "Class directories of organizations, membership lists with directory informationin —025; class organizations engaged in education, research, related topics in —07; Class business enterprises in 338.7; class government administrative and military organizations in 35O; class nonadministrative proceedings and reports in 001–999 without adding notation O6 from Table 1; Class comprehensive works on organizations active in a subject in —06; class interdisciplinary works on organizations in O60"
+      ],
+      "manualRefs": [
+        "See Manual at T1—0601–0609; also at T1—025 vs. T1—0601–0609; also at T1—072 vs. T1—0601–0609"
+      ]
+    },
+    "page": 9,
+    "source": {
+      "fileName": "table-1_p00009.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-0601",
+    "type": "Concept",
+    "notation": "-0601",
+    "prefLabel": {
+      "en": "International organizations"
+    },
+    "scope": {
+      "tableRefs": [
+        "Class guides to national organizations of the world in —06"
+      ]
+    },
+    "page": 9,
+    "source": {
+      "fileName": "table-1_p00009.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-0603-0609",
+    "type": "Concept",
+    "notation": "-0603-0609",
+    "prefLabel": {
+      "en": "National, state, provincial, local organizations"
+    },
+    "ranges": [
+      {
+        "from": "-0603",
+        "to": "-0609"
+      }
+    ],
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —060 notation 3–9 from Table 2, e.g., national organizations in France —06044"
+      ]
+    },
+    "page": 9,
+    "source": {
+      "fileName": "table-1_p00009.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-068",
+    "type": "Concept",
+    "notation": "-068",
+    "prefLabel": {
+      "en": "Management"
+    },
+    "scope": {
+      "tableRefs": [
+        "Class a routine activity called management associated with a profession, occupation, hobby in 001–999 without adding notation 068 from Table 1, e.g., management of patients 616 (not 616.0068); class interdisciplinary works in 658"
+      ],
+      "manualRefs": [
+        "See Manual at T1—068; also at T1—068 vs. 353–354"
+      ],
+      "notes": [
+        "(Option: Class management of specific enterprises in 658.9)"
+      ]
+    },
+    "page": 9,
+    "source": {
+      "fileName": "table-1_p00009.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-0681",
+    "type": "Concept",
+    "notation": "-0681",
+    "prefLabel": {
+      "en": "Organization and financial management"
+    },
+    "scope": {
+      "including": [
+        "fund raising for festivals [formerly —079], fund raising, initiation of business enterprises"
+      ],
+      "seeAlso": [
+        "For internal organization, see —0684",
+        "—079 for fund raising for competitions, awards, financial support"
+      ]
+    },
+    "page": 9,
+    "source": {
+      "fileName": "table-1_p00009.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-0682",
+    "type": "Concept",
+    "notation": "-0682",
+    "prefLabel": {
+      "en": "Plant management"
+    },
+    "scope": {
+      "including": [
+        "equipment and utilities; maintenance"
+      ],
+      "classHere": [
+        "comprehensive works on energy management"
+      ],
+      "seeAlso": [
+        "For a specific aspect of energy management, see the aspect, e.g., energy conservation in production management —0685",
+        "—0288 for technology of maintenance"
+      ]
+    },
+    "page": 9,
+    "source": {
+      "fileName": "table-1_p00009.jpg"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:-0683",
+    "type": "Concept",
+    "notation": "-0683",
+    "prefLabel": {
+      "en": "Personnel management (Human resource management)"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "comprehensive works on in-service training and residency in -07155; class interdisciplinary works on labor relations in 331"
+      ],
+      "including": [
+        "management of employee benefits, of in-service training and residency, of wages and salaries"
+      ],
+      "seeAlso": [
+        "For management of executive personnel, see -0684",
+        "See also 331.21 for wages; also 331.255 for employee benefits"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0684",
+    "type": "Concept",
+    "notation": "-0684",
+    "prefLabel": {
+      "en": "Executive management"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "contracting out, internal organization, safety management"
+      ],
+      "seeAlso": [
+        "For contracting out a specific activity in management, see the specific activity, e.g., contracting out financial management -0681; for a specific aspect of safety management, see the aspect, e.g., personnel safety -0683"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0685",
+    "type": "Concept",
+    "notation": "-0685",
+    "prefLabel": {
+      "en": "Management of production"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "factory operations engineering in 670.42"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0687",
+    "type": "Concept",
+    "notation": "-0687",
+    "prefLabel": {
+      "en": "Management of materials"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "physical distribution, procurement of office equipment"
+      ],
+      "seeAlso": [
+        "See also -029 for evaluation and purchasing manuals"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0688",
+    "type": "Concept",
+    "notation": "-0688",
+    "prefLabel": {
+      "en": "Management of distribution (Marketing)"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "financial aspects of marketing management in -0681; class results of market research in 381"
+      ],
+      "including": [
+        "market research, personal selling"
+      ],
+      "seeAlso": [
+        "For physical distribution, see -0687; for advertising, see 659.1"
+      ]
+    }
+  },
+  {
+    "id": "T1:-07",
+    "type": "Concept",
+    "notation": "-07",
+    "prefLabel": {
+      "en": "Education, research, related topics"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "subject-oriented study programs; comprehensive works on education and research, on resources for education and research",
+        "psychology of learning specific subjects in -019"
+      ],
+      "including": [
+        "programmed texts"
+      ],
+      "manualRefs": [
+        "See Manual at 016 vs. 026, T1-07"
+      ],
+      "seeAlso": [
+        "For a specific resource not provided for here, see the resource, e.g., directories -025, bibliographies 016, libraries 026"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0701-0709",
+    "type": "Concept",
+    "notation": "-0701-0709",
+    "prefLabel": {
+      "en": "Geographic treatment"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-071",
+    "type": "Concept",
+    "notation": "-071",
+    "prefLabel": {
+      "en": "Education"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-072",
+    "type": "Concept",
+    "notation": "-072",
+    "prefLabel": {
+      "en": "Research"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-074",
+    "type": "Concept",
+    "notation": "-074",
+    "prefLabel": {
+      "en": "Museums, collections, exhibits"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-075",
+    "type": "Concept",
+    "notation": "-075",
+    "prefLabel": {
+      "en": "Museum activities and services"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-076",
+    "type": "Concept",
+    "notation": "-076",
+    "prefLabel": {
+      "en": "Review and exercise"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-078",
+    "type": "Concept",
+    "notation": "-078",
+    "prefLabel": {
+      "en": "Use of apparatus and equipment in study and teaching"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-079",
+    "type": "Concept",
+    "notation": "-079",
+    "prefLabel": {
+      "en": "Competitions, awards, financial support"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-1_p00010.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0701-0709",
+    "type": "Concept",
+    "notation": "-070 1-070 9",
+    "prefLabel": {
+      "en": "Geographic treatment"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-1_p00011.png",
+      "span": "null"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -070 notation 1-9 from Table 2, e.g., education and research in France -07044"
+      ]
+    }
+  },
+  {
+    "id": "T1:-071",
+    "type": "Concept",
+    "notation": "-071",
+    "prefLabel": {
+      "en": "Education"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-1_p00011.png",
+      "span": "null"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class here curricula, study (education), teaching, vocational education",
+        "Class student organizations in -0601-0609; class textbooks, school activities in a subject in 001-999 without adding notation 071 from Table 1; class comprehensive works on education and research in -07; class interdisciplinary works on education in 370; class interdisciplinary works on teaching in 371.102"
+      ],
+      "seeAlso": [
+        "For review and exercise, see -076; for use of apparatus and equipment in education, see -078; for competitions, awards, financial support in education, see -079; for special education in specific subjects, see 371.9",
+        "See Manual at 407.1, T1-071 vs. 401.93, Т4-019, 410.71, 418.0071, T4-80071"
+      ]
+    }
+  },
+  {
+    "id": "T1:-07101-07109",
+    "type": "Concept",
+    "notation": "-071 01-071 09",
+    "prefLabel": {
+      "en": "Geographic treatment"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-1_p00011.png",
+      "span": "null"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class here geographic treatment of any two levels of education, e.g., secondary and higher education"
+      ],
+      "tableRefs": [
+        "Add to base number -0710 notation 1-9 from Table 2, e.g., education in Argentina -071082"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0711-0715",
+    "type": "Concept",
+    "notation": "-071 1-071 5",
+    "prefLabel": {
+      "en": "Specific levels of education"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-1_p00011.png",
+      "span": "null"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class comprehensive works in -071"
+      ],
+      "seeAlso": [
+        "For education in specific subjects at primary level, see 372.3-372.8"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0711",
+    "type": "Concept",
+    "notation": "-071 1",
+    "prefLabel": {
+      "en": "Higher education (Tertiary education)"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-1_p00011.png",
+      "span": "null"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class here professional education"
+      ],
+      "tableRefs": [
+        "Add to base number -0711 notation 1-9 from Table 2, e.g., universities in Japan -071152; however, for biography, see -092"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0712",
+    "type": "Concept",
+    "notation": "-071 2",
+    "prefLabel": {
+      "en": "Secondary education"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-1_p00011.png",
+      "span": "null"
+    },
+    "table": "T1",
+    "scope": {
+      "tableRefs": [
+        "Add to base number -0712 notation 1-9 from Table 2, e.g., secondary schools in rural regions -07121734; however, for biography, see -092"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0715",
+    "type": "Concept",
+    "notation": "-071 5",
+    "prefLabel": {
+      "en": "Adult education and on-the-job training"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-1_p00011.png",
+      "span": "null"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class here continuing, further, lifelong, permanent, recurrent education; correspondence schools and courses, distance education; extension departments and services; institutes and workshops; occupational and vocational training; radio and television classes"
+      ]
+    }
+  },
+  {
+    "id": "T1:-07155",
+    "type": "Concept",
+    "notation": "-07155",
+    "prefLabel": {
+      "en": "On-the-job training"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-1_p00012.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "apprenticeship, in-service training, residency",
+        "management of on-the-job training by employers in \n-0683",
+        "interdisciplinary works in 331.2592"
+      ]
+    }
+  },
+  {
+    "id": "T1:-072",
+    "type": "Concept",
+    "notation": "-072",
+    "prefLabel": {
+      "en": "Research"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-1_p00012.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "action research, evaluation research",
+        "operations research in -011",
+        "financial support of research in\n-079",
+        "results of research in 001-999 without adding notation 072\nfrom Table 1",
+        "interdisciplinary works on research in 001.4"
+      ],
+      "manualRefs": [
+        "See Manual at T1-072 vs. T1-0601-0609"
+      ]
+    }
+  },
+  {
+    "id": "T1:-07201-07209",
+    "type": "Concept",
+    "notation": "-07201-07209",
+    "prefLabel": {
+      "en": "Geographic treatment"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-1_p00012.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -0720 notation 1-9 from Table 2, e.g.,\nresearch in England -072042"
+      ],
+      "manualRefs": [
+        "See Manual at T1-07201-07209 vs. T1-0721"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0721",
+    "type": "Concept",
+    "notation": "-0721",
+    "prefLabel": {
+      "en": "Research methods"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-1_p00012.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "laboratory manuals used in research",
+        "qualitative research,\nquantitative research, scientific method",
+        "research and scientific\ntechniques not provided for elsewhere in Table 1"
+      ],
+      "manualRefs": [
+        "See Manual at T1-07201-07209 vs. T1-0721"
+      ],
+      "notes": [
+        "Avoid notation for a specific research method when it is redundant, e.g.,\nhistorical research in history 907.2 (not 907.22)",
+        "For specific research methods, see -0722-0727; for scientific\nmethod used in systems analysis, see -011. For a specific research\nor scientific technique provided for elsewhere in Table 1, see the\ntechnique, e.g., mathematical techniques -0151, data processing\n-0285, testing -0287"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0722",
+    "type": "Concept",
+    "notation": "-0722",
+    "prefLabel": {
+      "en": "Historical research"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-1_p00012.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "historiography"
+      ],
+      "including": [
+        "oral history"
+      ],
+      "notes": [
+        "It is redundant to use the final digit of -0722 in history (900); stop at\n-072, e.g., historical research in European history 940.072",
+        "Class interdisciplinary works on historical research, on historiography in\n907.2"
+      ],
+      "relocations": [
+        "Case studies relocated to -0723"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0723",
+    "type": "Concept",
+    "notation": "-0723",
+    "prefLabel": {
+      "en": "Descriptive research"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-1_p00013.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here data collection"
+      ],
+      "including": [
+        "Including case studies [formerly —0722]; sampling techniques; surveys, questionnaires, field work, observation, interviews"
+      ],
+      "seeAlso": [
+        "For analysis of statistical data, see —0727; for presentation of statistical data, see —0728",
+        "See also —075 for collection of objects"
+      ],
+      "tableRefs": [
+        "Class management of information collection in —0684; class collection of operational data in 001–999 without adding notation 0723 from Table 1; class interdisciplinary works on data collection in research in 001.433"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0724",
+    "type": "Concept",
+    "notation": "-0724",
+    "prefLabel": {
+      "en": "Experimental research"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-1_p00013.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class models (simulations) in —011"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0727",
+    "type": "Concept",
+    "notation": "-0727",
+    "prefLabel": {
+      "en": "Statistical methods"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-1_p00013.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "manualRefs": [
+        "See Manual at 519.5, T1—015195 vs. 001.422, T1—0727"
+      ],
+      "notes": [
+        "Class statistical methods used in systems analysis in —011; class interdisciplinary works on statistical methods in 001.422"
+      ],
+      "seeAlso": [
+        "For data collection, see —0723; for presentation of statistical data, see —0728",
+        "See also —021 for works containing the statistics themselves"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0728",
+    "type": "Concept",
+    "notation": "-0728",
+    "prefLabel": {
+      "en": "Presentation of statistical data"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-1_p00013.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here graphic presentation"
+      ],
+      "notes": [
+        "Class the statistics themselves (no matter how presented) in —021"
+      ]
+    }
+  },
+  {
+    "id": "T1:-074",
+    "type": "Concept",
+    "notation": "-074",
+    "prefLabel": {
+      "en": "Museums, collections, exhibits"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-1_p00013.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —074 notation 1–9 from Table 2 for the area in which museums, collections, exhibits are found, e.g., museums in Pennsylvania —074748, festivals in New York City —0747471"
+      ],
+      "classHere": [
+        "Class here festivals [formerly —079], exhibitions, fairs; catalogs, lists regardless of whether or not articles are offered for sale; guidebooks, history and description"
+      ],
+      "manualRefs": [
+        "See Manual at T1—074 vs. T1—029"
+      ],
+      "notes": [
+        "Class comprehensive works on museology of a subject in —075; class interdisciplinary works on museums, collections, exhibits in 069; class interdisciplinary works on festivals in 394.26; class interdisciplinary works on exhibitions, fairs in 907.4"
+      ],
+      "seeAlso": [
+        "For collections of books and related informational materials in specific subjects, see 016"
+      ]
+    }
+  },
+  {
+    "id": "T1:-075",
+    "type": "Concept",
+    "notation": "-075",
+    "prefLabel": {
+      "en": "Museum activities and services"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-1_p00014.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here museology, collecting, collectibles, memorabilia, price trends for collectors"
+      ],
+      "notes": [
+        "Class interdisciplinary works on museum activities and services in 069; class interdisciplinary works on museum collecting in 069.4; class interdisciplinary works on recreational collecting in 790.132"
+      ],
+      "seeAlso": [
+        "For activities and services of or relating to specific museums, collections, exhibits, see —074. For a specific museological technique not provided for here, see the technique in —028, e.g., maintenance and repair of collected objects —0288"
+      ]
+    }
+  },
+  {
+    "id": "T1:-076",
+    "type": "Concept",
+    "notation": "-076",
+    "prefLabel": {
+      "en": "Review and exercise"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-1_p00014.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including workbooks with problems, questions, answers; civil service examinations; testing, test construction and evaluation"
+      ],
+      "notes": [
+        "Class programmed texts with problems, questions, answers in —07; class interdisciplinary works on civil service examinations in 351.076; class interdisciplinary works on examinations and tests in 371.26",
+        "(Option: Class civil service examinations in specific subjects in 351.076)"
+      ],
+      "seeAlso": [
+        "For review and exercise using apparatus and equipment, see —078",
+        "153.94 for aptitude tests in a specific field"
+      ]
+    }
+  },
+  {
+    "id": "T1:-078",
+    "type": "Concept",
+    "notation": "-078",
+    "prefLabel": {
+      "en": "Use of apparatus and equipment in study and teaching"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-1_p00014.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here laboratory manuals, student projects and experiments"
+      ],
+      "notes": [
+        "Class interdisciplinary works on teaching aids in 371.33"
+      ],
+      "seeAlso": [
+        "For laboratory manuals used in testing, see —0287; for laboratory manuals used in research, see —0721"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0785",
+    "type": "Concept",
+    "notation": "-0785",
+    "prefLabel": {
+      "en": "Computer-assisted instruction"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-1_p00014.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Unless it is redundant, add to base number —0785 the numbers following 00 in 004–006, e.g., use of digital personal computers —0785416, but digital computers —0785 (not —07854); interactive video —078567"
+      ],
+      "notes": [
+        "Class interdisciplinary works on computer-assisted instruction in 371.334"
+      ]
+    }
+  },
+  {
+    "id": "T1:-079",
+    "type": "Concept",
+    "notation": "-079",
+    "prefLabel": {
+      "en": "Competitions, awards, financial support"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -079 notation 4-9 from Table 2 for geographic eligibility only, e.g., competitions open to contestants from Italy -07945, awards open to entrants from the United States -07973, fellowships limited to residents of California -079794"
+      ],
+      "classHere": [
+        "Class here bursaries, certificates, contests, fellowships and scholarships, grants, honors, medals, prizes"
+      ],
+      "including": [
+        "Including fund raising to support such activities; judging competitions"
+      ],
+      "notes": [
+        "Subdivisions are added for any or all topics in heading"
+      ],
+      "relocations": [
+        "Fund raising for festivals relocated to -0681; festivals relocated to -074"
+      ],
+      "seeAlso": [
+        "See also -0681 for financial management aspects of fund raising"
+      ],
+      "tableRefs": [
+        "Class description of works that are entered into competitions, that receive awards, or that are the results of financial support in 001-999 without adding notation 079 from Table 1; class interdisciplinary works on orders and decorations in 929.81"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08",
+    "type": "Concept",
+    "notation": "-08",
+    "prefLabel": {
+      "en": "Groups of people"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here discrimination, group identity, minorities"
+      ],
+      "notes": [
+        "The subdivisions listed in the add table below are special notation, not standard subdivisions",
+        "Unless other instructions are given in the add table below, observe the following table of preference, e.g., a periodical of statistics -021 (not -025):"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T1:-01",
+    "type": "Concept",
+    "notation": "-01",
+    "prefLabel": {
+      "en": "Forecasting and forecasts"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-093-099",
+    "type": "Concept",
+    "notation": "-093-099",
+    "prefLabel": {
+      "en": "Specific continents, countries, localities"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-091",
+    "type": "Concept",
+    "notation": "-091",
+    "prefLabel": {
+      "en": "Areas, regions, places in general"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0901-0905",
+    "type": "Concept",
+    "notation": "-0901-0905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-074",
+    "type": "Concept",
+    "notation": "-074",
+    "prefLabel": {
+      "en": "Museums, collections, exhibits"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-075",
+    "type": "Concept",
+    "notation": "-075",
+    "prefLabel": {
+      "en": "Collecting objects"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-022",
+    "type": "Concept",
+    "notation": "-022",
+    "prefLabel": {
+      "en": "Illustrations"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-021",
+    "type": "Concept",
+    "notation": "-021",
+    "prefLabel": {
+      "en": "Statistics"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-03",
+    "type": "Concept",
+    "notation": "-03",
+    "prefLabel": {
+      "en": "Dictionaries, encyclopedias, concordances"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09",
+    "type": "Concept",
+    "notation": "-09",
+    "prefLabel": {
+      "en": "History and geographic treatment (without subdivision)"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-05",
+    "type": "Concept",
+    "notation": "-05",
+    "prefLabel": {
+      "en": "Serial publications"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-1_p00015.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-08",
+    "type": "Concept",
+    "notation": "-08",
+    "prefLabel": {
+      "en": "Groups of people (continued)"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1",
+    "scope": {
+      "manualRefs": [
+        "See Manual at T1—08 and 306.2–306.6"
+      ],
+      "notes": [
+        "Add to each subdivision identified by * as follows:",
+        "Class ethnic and national minorities in —089; class biography in —092"
+      ]
+    }
+  },
+  {
+    "id": "T1:01",
+    "type": "Concept",
+    "notation": "01",
+    "prefLabel": {
+      "en": "Forecasting and forecasts"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:02",
+    "type": "Concept",
+    "notation": "02",
+    "prefLabel": {
+      "en": "Statistics and illustrations"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:021",
+    "type": "Concept",
+    "notation": "021",
+    "prefLabel": {
+      "en": "Statistics"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:022",
+    "type": "Concept",
+    "notation": "022",
+    "prefLabel": {
+      "en": "Illustrations"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class statistical graphs in 021; class humorous cartoons in —08 without adding from this table"
+      ],
+      "including": [
+        "Including cartoons, drawings, pictures, pictorial charts and designs, sketches; graphs, maps, plans, diagrams"
+      ]
+    }
+  },
+  {
+    "id": "T1:03",
+    "type": "Concept",
+    "notation": "03",
+    "prefLabel": {
+      "en": "Dictionaries, encyclopedias, concordances"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class here thesauri (synonym dictionaries)"
+      ]
+    }
+  },
+  {
+    "id": "T1:05",
+    "type": "Concept",
+    "notation": "05",
+    "prefLabel": {
+      "en": "Serial publications"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class here house organs, magazines, newspapers, yearbooks"
+      ],
+      "notes": [
+        "Regardless of form (print or electronic) or frequency"
+      ]
+    }
+  },
+  {
+    "id": "T1:07",
+    "type": "Concept",
+    "notation": "07",
+    "prefLabel": {
+      "en": "Museums, collections, exhibits"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:074",
+    "type": "Concept",
+    "notation": "074",
+    "prefLabel": {
+      "en": "Museums, collections, exhibits"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to 074 notation 4–9 from Table 2, e.g., collections in Pennsylvania 074748"
+      ],
+      "classHere": [
+        "Class here exhibitions, fairs, festivals; catalogs, lists regardless of whether or not articles are offered for sale; guidebooks, history and description"
+      ],
+      "tableRefs": [
+        "Add to 074 notation 4–9 from Table 2, e.g., collections in Pennsylvania 074748"
+      ]
+    }
+  },
+  {
+    "id": "T1:075",
+    "type": "Concept",
+    "notation": "075",
+    "prefLabel": {
+      "en": "Collecting objects"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class here collectibles, memorabilia, price trends for collectors"
+      ]
+    }
+  },
+  {
+    "id": "T1:09",
+    "type": "Concept",
+    "notation": "09",
+    "prefLabel": {
+      "en": "History and geographic treatment"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:0901-0905",
+    "type": "Concept",
+    "notation": "0901-0905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to 090 the numbers following —090 in notation 0901–0905 from Table 1, e.g., the group in the 20th century 0904"
+      ],
+      "tableRefs": [
+        "Add to 090 the numbers following —090 in notation 0901–0905 from Table 1, e.g., the group in the 20th century 0904"
+      ]
+    }
+  },
+  {
+    "id": "T1:091",
+    "type": "Concept",
+    "notation": "091",
+    "prefLabel": {
+      "en": "Areas, regions, places in general"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to 091 the numbers following —1 in notation 11–18 from Table 2, e.g., the group in urban regions 091732"
+      ],
+      "tableRefs": [
+        "Add to 091 the numbers following —1 in notation 11–18 from Table 2, e.g., the group in urban regions 091732"
+      ]
+    }
+  },
+  {
+    "id": "T1:093-099",
+    "type": "Concept",
+    "notation": "093-099",
+    "prefLabel": {
+      "en": "Specific continents, countries, localities"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to 09 notation 3–9 from Table 2, e.g., the group in Japan 0952"
+      ],
+      "tableRefs": [
+        "Add to 09 notation 3–9 from Table 2, e.g., the group in Japan 0952"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0801-0809",
+    "type": "Concept",
+    "notation": "-0801-0809",
+    "prefLabel": {
+      "en": "Forecasting, statistics, illustrations, dictionaries, encyclopedias, concordances, serials, museums and collecting, history and geographic treatment"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-081",
+    "type": "Concept",
+    "notation": "-081",
+    "prefLabel": {
+      "en": "People by gender or sex"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-082",
+    "type": "Concept",
+    "notation": "-082",
+    "prefLabel": {
+      "en": "Women"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-083",
+    "type": "Concept",
+    "notation": "-083",
+    "prefLabel": {
+      "en": "Young people"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-084",
+    "type": "Concept",
+    "notation": "-084",
+    "prefLabel": {
+      "en": "People in specific stages of adulthood"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-085",
+    "type": "Concept",
+    "notation": "-085",
+    "prefLabel": {
+      "en": "Relatives"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-086",
+    "type": "Concept",
+    "notation": "-086",
+    "prefLabel": {
+      "en": "People by miscellaneous social attributes"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-087",
+    "type": "Concept",
+    "notation": "-087",
+    "prefLabel": {
+      "en": "People with disabilities and illnesses, gifted people"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-088",
+    "type": "Concept",
+    "notation": "-088",
+    "prefLabel": {
+      "en": "Occupational and religious groups"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-089",
+    "type": "Concept",
+    "notation": "-089",
+    "prefLabel": {
+      "en": "Ethnic and national groups"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-1_p00016.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-0801-0809",
+    "type": "Concept",
+    "notation": "-0801-0809",
+    "prefLabel": {
+      "en": "Forecasting, statistics, illustrations, dictionaries, encyclopedias, concordances, serials, museums and collecting, history and geographic treatment"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-1_p00017.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -080 the numbers following 0 in notation 01-09 from table under -08, e.g., statistics -08021"
+      ]
+    }
+  },
+  {
+    "id": "T1:-081-088",
+    "type": "Concept",
+    "notation": "-081-088",
+    "prefLabel": {
+      "en": "Groups of people by specific attributes"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-1_p00017.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class comprehensive works on ethnic and national groups in -089. Class members of an ethnic or national group with a specific attribute, other than people with status defined by change in residence, with the attribute in -081-088, e.g., Chinese women -082"
+      ],
+      "notes": [
+        "Unless other instructions are given, class a subject with aspects in two or more subdivisions of -081-088 in the number coming last, e.g., children with disabilities -087 (not -083)"
+      ]
+    }
+  },
+  {
+    "id": "T1:-081",
+    "type": "Concept",
+    "notation": "-081",
+    "prefLabel": {
+      "en": "*People by gender or sex"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-1_p00017.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here gender identity, gender role, sex role"
+      ],
+      "manualRefs": [
+        "See Manual at T1-081 and T1-08351, T1-08352, T1-08421, T1-08422"
+      ],
+      "notes": [
+        "Subdivisions are added for either or both topics in heading",
+        "*Add as instructed under -08"
+      ],
+      "seeAlso": [
+        "For women, see -082; for transgender and intersex people, see -0867"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0811",
+    "type": "Concept",
+    "notation": "-0811",
+    "prefLabel": {
+      "en": "*Men"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-1_p00017.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here males"
+      ],
+      "manualRefs": [
+        "See Manual at T1-081 and T1-08351, T1-08352, T1-08421, T1-08422"
+      ],
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-082",
+    "type": "Concept",
+    "notation": "-082",
+    "prefLabel": {
+      "en": "*Women"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-1_p00017.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here females; feminist views of a subject, e.g., feminist Christian theology 230.082"
+      ],
+      "manualRefs": [
+        "See Manual at T1-081 and T1-08351, T1-08352, T1-08421, T1-08422"
+      ],
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-083",
+    "type": "Concept",
+    "notation": "-083",
+    "prefLabel": {
+      "en": "*Young people"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-1_p00017.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here children"
+      ],
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0832",
+    "type": "Concept",
+    "notation": "-0832",
+    "prefLabel": {
+      "en": "*Infants"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-1_p00017.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Children from birth through age two",
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0833",
+    "type": "Concept",
+    "notation": "-0833",
+    "prefLabel": {
+      "en": "*Children three to five"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-1_p00017.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here preschool children"
+      ],
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0834",
+    "type": "Concept",
+    "notation": "-0834",
+    "prefLabel": {
+      "en": "*Children six to eleven"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here school children"
+      ],
+      "seeAlso": [
+        "For school children over eleven, see -0835"
+      ],
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08341",
+    "type": "Concept",
+    "notation": "-08341",
+    "prefLabel": {
+      "en": "*Boys six to eleven"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08342",
+    "type": "Concept",
+    "notation": "-08342",
+    "prefLabel": {
+      "en": "*Girls six to eleven"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0835",
+    "type": "Concept",
+    "notation": "-0835",
+    "prefLabel": {
+      "en": "*Young people twelve to twenty"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class youth twenty-one and over, comprehensive works on young adults in -0842"
+      ],
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08351",
+    "type": "Concept",
+    "notation": "-08351",
+    "prefLabel": {
+      "en": "*Males twelve to twenty"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "manualRefs": [
+        "See Manual at T1-081 and T1-08351, T1-08352, T1-08421, T1-08422"
+      ],
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08352",
+    "type": "Concept",
+    "notation": "-08352",
+    "prefLabel": {
+      "en": "*Females twelve to twenty"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "manualRefs": [
+        "See Manual at T1-081 and T1-08351, T1-08352, T1-08421, T1-08422"
+      ],
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-084",
+    "type": "Concept",
+    "notation": "-084",
+    "prefLabel": {
+      "en": "People in specific stages of adulthood"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "tableRefs": [
+        "Class comprehensive works on adults in 001-999 without adding notation 084 from Table 1"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0842",
+    "type": "Concept",
+    "notation": "-0842",
+    "prefLabel": {
+      "en": "*People in early adulthood"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on young adults"
+      ],
+      "seeAlso": [
+        "For young adults under twenty-one, see -0835"
+      ],
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08421",
+    "type": "Concept",
+    "notation": "-08421",
+    "prefLabel": {
+      "en": "*Young men"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "manualRefs": [
+        "See Manual at T1-081 and T1-08351, T1-08352, T1-08421, T1-08422"
+      ],
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08422",
+    "type": "Concept",
+    "notation": "-08422",
+    "prefLabel": {
+      "en": "*Young women"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "manualRefs": [
+        "See Manual at T1-081 and T1-08351, T1-08352, T1-08421, T1-08422"
+      ],
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0844",
+    "type": "Concept",
+    "notation": "-0844",
+    "prefLabel": {
+      "en": "*People in middle adulthood"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0846",
+    "type": "Concept",
+    "notation": "-0846",
+    "prefLabel": {
+      "en": "*People in late adulthood"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-085",
+    "type": "Concept",
+    "notation": "-085",
+    "prefLabel": {
+      "en": "*Relatives"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here parents, adoptive and foster parents, stepparents"
+      ],
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0851",
+    "type": "Concept",
+    "notation": "-0851",
+    "prefLabel": {
+      "en": "*Fathers"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0852",
+    "type": "Concept",
+    "notation": "-0852",
+    "prefLabel": {
+      "en": "*Mothers"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-1_p00018.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "For unmarried mothers, see -086947"
+      ],
+      "tableRefs": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0853",
+    "type": "Concept",
+    "notation": "-0853",
+    "prefLabel": {
+      "en": "Grandparents"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including great grandparents of any degree (ancestors)"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0854",
+    "type": "Concept",
+    "notation": "-0854",
+    "prefLabel": {
+      "en": "Progeny"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here children considered in relation to parents"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0855",
+    "type": "Concept",
+    "notation": "-0855",
+    "prefLabel": {
+      "en": "Siblings"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Brothers and sisters by blood, adoption, foster care, remarriage of parents"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086",
+    "type": "Concept",
+    "notation": "-086",
+    "prefLabel": {
+      "en": "People by miscellaneous social attributes"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Not provided for elsewhere"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0862",
+    "type": "Concept",
+    "notation": "-0862",
+    "prefLabel": {
+      "en": "People by social and economic levels"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here people by level of cultural development [formerly —0863], social classes"
+      ],
+      "seeAlso": [
+        "For people with social disadvantages, see —08694"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08621",
+    "type": "Concept",
+    "notation": "-08621",
+    "prefLabel": {
+      "en": "Upper classes"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here elites"
+      ],
+      "including": [
+        "Including nobility, royalty, wealthy"
+      ],
+      "seeAlso": [
+        "For reigning monarchs and their regents, see —08835223"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08622",
+    "type": "Concept",
+    "notation": "-08622",
+    "prefLabel": {
+      "en": "Middle classes (Bourgeoisie)"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here moderately well-to-do people"
+      ],
+      "including": [
+        "Including entrepreneurs, managers, professionals"
+      ],
+      "seeAlso": [
+        "For lower middle classes, see —08623"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086222",
+    "type": "Concept",
+    "notation": "-086222",
+    "prefLabel": {
+      "en": "Intelligentsia [formerly —08631]"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here intellectual elites"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08623",
+    "type": "Concept",
+    "notation": "-08623",
+    "prefLabel": {
+      "en": "Lower middle classes"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here moderate-income people, working class in developed areas, blue collar workers"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08624",
+    "type": "Concept",
+    "notation": "-08624",
+    "prefLabel": {
+      "en": "Lower classes"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class blue collar workers in —08623; class peasants, sharecroppers in —08863"
+      ],
+      "including": [
+        "Including migrant workers, unskilled workers"
+      ],
+      "seeAlso": [
+        "For slaves, serfs, peons, see —08625; for poor people, see —086942"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08625",
+    "type": "Concept",
+    "notation": "-08625",
+    "prefLabel": {
+      "en": "Slaves, serfs, peons"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-1_p00019.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0863",
+    "type": "Concept",
+    "notation": "-0863",
+    "prefLabel": {
+      "en": "People by level of cultural development"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "relocations": [
+        "Relocated to —0862"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08631",
+    "type": "Concept",
+    "notation": "-08631",
+    "prefLabel": {
+      "en": "Intelligentsia"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "relocations": [
+        "Relocated to —08622"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08633",
+    "type": "Concept",
+    "notation": "-08633",
+    "prefLabel": {
+      "en": "People with cultural disadvantages"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "relocations": [
+        "Relocated to —08694"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0865",
+    "type": "Concept",
+    "notation": "-0865",
+    "prefLabel": {
+      "en": "*People by marital status"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08652",
+    "type": "Concept",
+    "notation": "-08652",
+    "prefLabel": {
+      "en": "*Single people"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "For separated and divorced people, see —08653; for widowed people, see —08654"
+      ],
+      "tableRefs": [
+        "For separated and divorced people, see —08653; for widowed people, see —08654"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086523",
+    "type": "Concept",
+    "notation": "-086523",
+    "prefLabel": {
+      "en": "*Engaged people"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-08653",
+    "type": "Concept",
+    "notation": "-08653",
+    "prefLabel": {
+      "en": "*Separated and divorced people"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Subdivisions are added for either or both topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08654",
+    "type": "Concept",
+    "notation": "-08654",
+    "prefLabel": {
+      "en": "*Widowed people"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-08655",
+    "type": "Concept",
+    "notation": "-08655",
+    "prefLabel": {
+      "en": "*Married people"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "relocations": [
+        "People in common-law marriages relocated to —08656"
+      ],
+      "seeAlso": [
+        "For polygamists, see —08659"
+      ],
+      "tableRefs": [
+        "For polygamists, see —08659"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08656",
+    "type": "Concept",
+    "notation": "-08656",
+    "prefLabel": {
+      "en": "*People in partnerships and unions"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Subdivisions are added for either or both topics in heading"
+      ],
+      "classHere": [
+        "Class here people in common-law marriages [formerly —08655], civil unions, de facto relationships, domestic partnerships, registered partnerships; unmarried couples living together (cohabitation)"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08659",
+    "type": "Concept",
+    "notation": "-08659",
+    "prefLabel": {
+      "en": "*Polygamists"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0866",
+    "type": "Concept",
+    "notation": "-0866",
+    "prefLabel": {
+      "en": "*People by sexual orientation"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including asexuals"
+      ],
+      "relocations": [
+        "Transsexuals relocated to —0867"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08662",
+    "type": "Concept",
+    "notation": "-08662",
+    "prefLabel": {
+      "en": "*Heterosexuals"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-08663",
+    "type": "Concept",
+    "notation": "-08663",
+    "prefLabel": {
+      "en": "*Bisexuals"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-08664",
+    "type": "Concept",
+    "notation": "-08664",
+    "prefLabel": {
+      "en": "*Gays"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-086642",
+    "type": "Concept",
+    "notation": "-086642",
+    "prefLabel": {
+      "en": "*Gay men"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-086643",
+    "type": "Concept",
+    "notation": "-086643",
+    "prefLabel": {
+      "en": "*Lesbians"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "Table-1_p00020.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0867",
+    "type": "Concept",
+    "notation": "-0867",
+    "prefLabel": {
+      "en": "Transgender and intersex people"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here transsexuals [formerly -0866], transgenderists"
+      ],
+      "including": [
+        "Including female-to-male transgender people, male-to-female transgender people"
+      ],
+      "notes": [
+        "Subdivisions are added for transgender and intersex people together, for transgender people alone",
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08675",
+    "type": "Concept",
+    "notation": "-08675",
+    "prefLabel": {
+      "en": "Intersex people"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0869",
+    "type": "Concept",
+    "notation": "-0869",
+    "prefLabel": {
+      "en": "People by miscellaneous social statuses"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08691",
+    "type": "Concept",
+    "notation": "-08691",
+    "prefLabel": {
+      "en": "People with status defined by changes in residence"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here aliens, expatriates, foreigners"
+      ],
+      "notes": [
+        "Class migrant workers in -08624; class runaway children in -086923; class tramps in -086942; class people of a specific ethnic or national group in -089",
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086912",
+    "type": "Concept",
+    "notation": "-086912",
+    "prefLabel": {
+      "en": "Immigrants"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class displaced persons, refugees in -086914"
+      ],
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086914",
+    "type": "Concept",
+    "notation": "-086914",
+    "prefLabel": {
+      "en": "Displaced persons"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here exiles, refugees, stateless persons"
+      ],
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086918",
+    "type": "Concept",
+    "notation": "-086918",
+    "prefLabel": {
+      "en": "Nomads"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08692",
+    "type": "Concept",
+    "notation": "-08692",
+    "prefLabel": {
+      "en": "Antisocial and asocial people"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for either or both topics in heading",
+        "*Add as instructed under -08"
+      ],
+      "seeAlso": [
+        "See also -086942 for tramps"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086923",
+    "type": "Concept",
+    "notation": "-086923",
+    "prefLabel": {
+      "en": "Juvenile delinquents and predelinquents"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for either or both topics in heading",
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086927",
+    "type": "Concept",
+    "notation": "-086927",
+    "prefLabel": {
+      "en": "Offenders"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here convicts, criminals",
+        "Class juvenile delinquents in -086923"
+      ],
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08693",
+    "type": "Concept",
+    "notation": "-08693",
+    "prefLabel": {
+      "en": "Nondominant groups"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class a specific nondominant group with the group, e.g., serfs -08625"
+      ],
+      "notes": [
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08694",
+    "type": "Concept",
+    "notation": "-08694",
+    "prefLabel": {
+      "en": "People with social disadvantages"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-1_p00021.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here people with cultural disadvantages [formerly -08633], alienated and excluded classes"
+      ],
+      "notes": [
+        "Class people with a specific social disadvantage not provided for here with the disadvantage, e.g., addicts in recovery -0874",
+        "*Add as instructed under -08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086941",
+    "type": "Concept",
+    "notation": "-086941",
+    "prefLabel": {
+      "en": "*Unemployed people"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class poverty-stricken and destitute unemployed people in —086942",
+        "Add as instructed under —08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086942",
+    "type": "Concept",
+    "notation": "-086942",
+    "prefLabel": {
+      "en": "*Poor people"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including homeless people, tramps"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086945",
+    "type": "Concept",
+    "notation": "-086945",
+    "prefLabel": {
+      "en": "*Abandoned children, abused children, children of unmarried parents, orphans"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "See also —086923 for runaway children"
+      ]
+    }
+  },
+  {
+    "id": "T1:-086947",
+    "type": "Concept",
+    "notation": "-086947",
+    "prefLabel": {
+      "en": "*Unmarried mothers"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-086949",
+    "type": "Concept",
+    "notation": "-086949",
+    "prefLabel": {
+      "en": "*Victims of war and crime"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including inmates of concentration or internment camps"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08696",
+    "type": "Concept",
+    "notation": "-08696",
+    "prefLabel": {
+      "en": "*Retired people"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-08697",
+    "type": "Concept",
+    "notation": "-08697",
+    "prefLabel": {
+      "en": "*Veterans of military service"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-087",
+    "type": "Concept",
+    "notation": "-087",
+    "prefLabel": {
+      "en": "*People with disabilities and illnesses, gifted people"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here people with physical disabilities"
+      ],
+      "including": [
+        "Including people with learning disabilities"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0871",
+    "type": "Concept",
+    "notation": "-0871",
+    "prefLabel": {
+      "en": "*People with blindness and visual impairments"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here people who are blind-deaf"
+      ],
+      "notes": [
+        "Subdivisions are added for either or both topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0872",
+    "type": "Concept",
+    "notation": "-0872",
+    "prefLabel": {
+      "en": "*People with hearing impairments"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here people who are deaf"
+      ],
+      "notes": [
+        "Class people who are deaf-blind in —0871"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0873",
+    "type": "Concept",
+    "notation": "-0873",
+    "prefLabel": {
+      "en": "*People with mobility impairments"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class people with mobility impairments resulting from developmental disabilities in —0875"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0874",
+    "type": "Concept",
+    "notation": "-0874",
+    "prefLabel": {
+      "en": "*People with mental illness and disabilities"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including addicts, addicts in recovery, alcoholics"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0875",
+    "type": "Concept",
+    "notation": "-0875",
+    "prefLabel": {
+      "en": "*People with developmental disabilities"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class people with congenital visual disabilities in —0871; class people with congenital hearing disabilities in —0872"
+      ],
+      "seeAlso": [
+        "For people with mental developmental disabilities, see —0874"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0877",
+    "type": "Concept",
+    "notation": "-0877",
+    "prefLabel": {
+      "en": "*People with physical illnesses"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-1_p00022.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "For people with a specific disability, illness, or impairment provided for elsewhere, see the disability, illness, or impairment, e.g., people with developmental disabilities —0875"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0879",
+    "type": "Concept",
+    "notation": "-0879",
+    "prefLabel": {
+      "en": "*Gifted people"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-1_p00023.png"
+    },
+    "table": "T1",
+    "scope": {
+      "notes": [
+        "Add as instructed under —08"
+      ]
+    }
+  },
+  {
+    "id": "T1:-088",
+    "type": "Concept",
+    "notation": "-088",
+    "prefLabel": {
+      "en": "Occupational and religious groups"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-1_p00023.png"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —088 notation 001–999, e.g., nondominant religious groups —0882, Catholic teachings on socioeconomic problems 261.8088282"
+      ],
+      "classHere": [
+        "Class works on the subject for people in specific occupations in —024"
+      ],
+      "manualRefs": [
+        "See Manual at T1—0882 and 200"
+      ]
+    }
+  },
+  {
+    "id": "T1:-089",
+    "type": "Concept",
+    "notation": "-089",
+    "prefLabel": {
+      "en": "Ethnic and national groups"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-1_p00023.png"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class here ethnic and national minorities; racial groups, racism"
+      ],
+      "manualRefs": [
+        "See Manual at T1—09 vs. T1—089"
+      ],
+      "notes": [
+        "Class biography of members of a specific ethnic or national group in —0923; class treatment with respect to specific ethnic and national groups in places where they predominate in —091–099. Class members of an ethnic or national group with a specific attribute, other than people with status defined by change in residence, with the attribute in —081–088, e.g., Chinese women —082"
+      ]
+    }
+  },
+  {
+    "id": "T1:-089001-089009",
+    "type": "Concept",
+    "notation": "-089001-089009",
+    "prefLabel": {
+      "en": "Forecasting, statistics, illustrations, dictionaries, encyclopedias, concordances, serials, museology, history and geographic treatment"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-1_p00023.png"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —08900 the numbers following 0 in notation 01–09 from table under —08, e.g., statistics —0890021"
+      ]
+    }
+  },
+  {
+    "id": "T1:-08905-08909",
+    "type": "Concept",
+    "notation": "-08905-08909",
+    "prefLabel": {
+      "en": "Specific ethnic and national groups with ethnic origins from more than one continent, of European descent"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-1_p00023.png"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —0890 the numbers following 0 in notation 05–09 from Table 5, e.g., ethnic groups of European descent —08909, ethnic groups of European descent in Namibia —0890906881"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0891-0899",
+    "type": "Concept",
+    "notation": "-0891-0899",
+    "prefLabel": {
+      "en": "Specific ethnic and national groups"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-1_p00023.png"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —089 notation 1–9 from Table 5, e.g., groups of Italian descent —08951, groups of Italian descent in United States —08951073"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09",
+    "type": "Concept",
+    "notation": "-09",
+    "prefLabel": {
+      "en": "History, geographic treatment, biography"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-1_p00023.png"
+    },
+    "table": "T1",
+    "scope": {
+      "classHere": [
+        "Class historiography in —0722; class history and geographic treatment of museums, collections, exhibits representing the whole subject in —074; class history and geographic treatment of museum activities and services representing the whole subject in —075"
+      ],
+      "manualRefs": [
+        "See Manual at T1—09; also at T1—0601–0609: Selection of area number; also at T1—09 vs. T1—089"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09005",
+    "type": "Concept",
+    "notation": "-09005",
+    "prefLabel": {
+      "en": "Serial publications"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-1_p00024.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-0901-0905_summary",
+    "type": "Concept",
+    "notation": "-0901-0905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-1_p00024.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-091",
+    "type": "Concept",
+    "notation": "-091",
+    "prefLabel": {
+      "en": "Areas, regions, places in general"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-1_p00024.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-092",
+    "type": "Concept",
+    "notation": "-092",
+    "prefLabel": {
+      "en": "Biography"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-1_p00024.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-093-099",
+    "type": "Concept",
+    "notation": "-093-099",
+    "prefLabel": {
+      "en": "Specific continents, countries, localities; extraterrestrial worlds"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-1_p00024.png"
+    },
+    "table": "T1"
+  },
+  {
+    "id": "T1:-0901-0905_main",
+    "type": "Concept",
+    "notation": "-0901-0905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-1_p00024.png"
+    },
+    "table": "T1",
+    "scope": {
+      "addToBaseRules": [
+        "Add to each subdivision identified by * as follows:",
+        "Add to 074 notation 4–9 from Table 2, e.g., collections in Pennsylvania 074748, collections of ancient objects in Pennsylvania —0901074748"
+      ],
+      "classHere": [
+        "Class statistical graphs in 021; class humorous cartoons in —0901–0905 without adding from this table",
+        "Class here house organs, magazines, newspapers, yearbooks",
+        "Class here exhibitions, fairs, festivals; catalogs, lists regardless of whether or not articles are offered for sale; guidebooks, history and description",
+        "Class here collectibles, memorabilia, price trends for collectors"
+      ],
+      "including": [
+        "Including cartoons, drawings, pictures, pictorial charts and designs, sketches; graphs; maps, plans, diagrams",
+        "Including thesauri (synonym dictionaries)"
+      ],
+      "notes": [
+        "The subdivisions listed in the add table below are special notation, not standard subdivisions",
+        "Unless other instructions are given in the add table below, observe the following table of preference, e.g., a periodical of statistics —021 (not —05):",
+        "Short term forecasts —01",
+        "Museums, collections, exhibits —074",
+        "Collecting objects —075",
+        "Illustrations —022",
+        "Statistics —021",
+        "Dictionaries, encyclopedias, concordances —03",
+        "Serial publications —05",
+        "01 Short term forecasts",
+        "02 Statistics and illustrations",
+        "021 Statistics",
+        "022 Illustrations",
+        "03 Dictionaries, encyclopedias, concordances",
+        "05 Serial publications",
+        "Regardless of form (print or electronic) or frequency",
+        "07 Museums, collections, exhibits; collecting objects",
+        "074 Museums, collections, exhibits",
+        "075 Collecting objects",
+        "(continued)"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T1:-0901-0905",
+    "type": "Concept",
+    "notation": "-0901-0905",
+    "prefLabel": {
+      "en": "Historical periods (continued)"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "manualRefs": [
+        "See Manual at T1—0901–0905"
+      ],
+      "notes": [
+        "Class historical periods in specific areas, regions, places in general in —091; class historical periods in specific continents, countries, localities in —093–099; class comprehensive works in —09"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0901",
+    "type": "Concept",
+    "notation": "-0901",
+    "prefLabel": {
+      "en": "*To 499 A.D."
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "The ancient period when the coverage is not limited to areas provided for in —093",
+        "*Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09012",
+    "type": "Concept",
+    "notation": "-09012",
+    "prefLabel": {
+      "en": "*To 4000 B.C."
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on prehistoric periods"
+      ],
+      "seeAlso": [
+        "For a specific prehistoric period not provided for here, see the period, e.g., 3999–1000 B.C. — 09013"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09013",
+    "type": "Concept",
+    "notation": "-09013",
+    "prefLabel": {
+      "en": "*3999–1000 B.C."
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09014",
+    "type": "Concept",
+    "notation": "-09014",
+    "prefLabel": {
+      "en": "*999–1 B.C."
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09015",
+    "type": "Concept",
+    "notation": "-09015",
+    "prefLabel": {
+      "en": "*1st–5th centuries, 1–499"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0902",
+    "type": "Concept",
+    "notation": "-0902",
+    "prefLabel": {
+      "en": "*6th–15th centuries, 500–1499"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here Middle Ages (Medieval period)"
+      ],
+      "manualRefs": [
+        "See Manual at T1—0940902 vs. T1—0902"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09021",
+    "type": "Concept",
+    "notation": "-09021",
+    "prefLabel": {
+      "en": "*6th–12th centuries, 500–1199"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09022",
+    "type": "Concept",
+    "notation": "-09022",
+    "prefLabel": {
+      "en": "*13th century, 1200–1299"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09023",
+    "type": "Concept",
+    "notation": "-09023",
+    "prefLabel": {
+      "en": "*14th century, 1300–1399"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09024",
+    "type": "Concept",
+    "notation": "-09024",
+    "prefLabel": {
+      "en": "*15th century, 1400–1499"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0903",
+    "type": "Concept",
+    "notation": "-0903",
+    "prefLabel": {
+      "en": "*Modern period, 1500–"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "For 20th century, see —0904; for 21st century, see —0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09031",
+    "type": "Concept",
+    "notation": "-09031",
+    "prefLabel": {
+      "en": "*16th century, 1500–1599"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09032",
+    "type": "Concept",
+    "notation": "-09032",
+    "prefLabel": {
+      "en": "*17th century, 1600–1699"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09033",
+    "type": "Concept",
+    "notation": "-09033",
+    "prefLabel": {
+      "en": "*18th century, 1700–1799"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09034",
+    "type": "Concept",
+    "notation": "-09034",
+    "prefLabel": {
+      "en": "*19th century, 1800–1899"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-0904",
+    "type": "Concept",
+    "notation": "-0904",
+    "prefLabel": {
+      "en": "*20th century, 1900–1999"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T1:-09041",
+    "type": "Concept",
+    "notation": "-09041",
+    "prefLabel": {
+      "en": "*1900–1919"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-1_p00025.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here early 20th century"
+      ],
+      "seeAlso": [
+        "For 1920–1929, see —09042; for 1930–1939, see —09043; for 1940–1949, see —09044"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09042",
+    "type": "Concept",
+    "notation": "-09042",
+    "prefLabel": {
+      "en": "*1920–1929"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09043",
+    "type": "Concept",
+    "notation": "-09043",
+    "prefLabel": {
+      "en": "*1930–1939"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09044",
+    "type": "Concept",
+    "notation": "-09044",
+    "prefLabel": {
+      "en": "*1940–1949"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here period of World War II"
+      ],
+      "seeAlso": [
+        "For 1939, see —09043"
+      ],
+      "tableRefs": [
+        "—09043"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09045",
+    "type": "Concept",
+    "notation": "-09045",
+    "prefLabel": {
+      "en": "*1950–1959"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here late 20th century, post World War II period"
+      ],
+      "seeAlso": [
+        "For 1945–1949, see —09044; for 1960–1969, see —09046; for 1970–1979, see —09047; for 1980–1989, see —09048; for 1990–1999, see —09049"
+      ],
+      "tableRefs": [
+        "—09044",
+        "—09046",
+        "—09047",
+        "—09048",
+        "—09049"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09046",
+    "type": "Concept",
+    "notation": "-09046",
+    "prefLabel": {
+      "en": "*1960–1969"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09047",
+    "type": "Concept",
+    "notation": "-09047",
+    "prefLabel": {
+      "en": "*1970–1979"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09048",
+    "type": "Concept",
+    "notation": "-09048",
+    "prefLabel": {
+      "en": "*1980–1989"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09049",
+    "type": "Concept",
+    "notation": "-09049",
+    "prefLabel": {
+      "en": "*1990–1999"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0905",
+    "type": "Concept",
+    "notation": "-0905",
+    "prefLabel": {
+      "en": "*21st century, 2000–2099"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09051",
+    "type": "Concept",
+    "notation": "-09051",
+    "prefLabel": {
+      "en": "*2000–2019"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-090511",
+    "type": "Concept",
+    "notation": "-090511",
+    "prefLabel": {
+      "en": "*2000–2009"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-090512",
+    "type": "Concept",
+    "notation": "-090512",
+    "prefLabel": {
+      "en": "*2010–2019"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Add as instructed under —0901–0905"
+      ]
+    }
+  },
+  {
+    "id": "T1:-091",
+    "type": "Concept",
+    "notation": "-091",
+    "prefLabel": {
+      "en": "Areas, regions, places in general"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-1_p00026.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —091 the numbers following —1 in notation 11–19 from Table 2, e.g., Torrid Zone —0913; then add further as instructed under —093–099, e.g., conservation and preservation in tropical areas —0913028"
+      ],
+      "notes": [
+        "History and description"
+      ],
+      "tableRefs": [
+        "Table 2"
+      ]
+    }
+  },
+  {
+    "id": "T1:-092",
+    "type": "Concept",
+    "notation": "-092",
+    "prefLabel": {
+      "en": "Biography"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-1_p00027.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here treatment of individuals",
+        "Class nonbiographical treatment of groups of people in —08; class biography not clearly related to any specific subject in 920; class belletristic diaries, reminiscences, correspondence in 800"
+      ],
+      "manualRefs": [
+        "See Manual at T1—092; also at 913–919: Add table: 04: Biography; also at 930–990: Wars: Personal narratives; also at 930–990: Biography"
+      ],
+      "notes": [
+        "Autobiography, description and critical appraisal of work, diaries, reminiscences, correspondence of people regardless of area, region, or place who are part of the subject or who study the subject, e.g., biographers, collectors, leaders and followers, practitioners and clients, scholars",
+        "Observe instructions not to use —092 that apply to 180–190, 759, 809, 810–890. (The instructions for 810–890 are found under notation 09 from Table 3B)",
+        "Do not use —092 for a person whose name is used in a schedule heading, e.g., class Muhammad the Prophet in 297.63 (not 297.63092)",
+        "(Option A: Class biography in 920.1–928",
+        "(Option B: Class individual biography in 92, or B",
+        "(Option C: Class all individual biography of men in 920.71, of women in 920.72)"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0922",
+    "type": "Concept",
+    "notation": "-0922",
+    "prefLabel": {
+      "en": "Collected biography"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-1_p00027.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —0922 notation 3–9 from Table 2, e.g., collected biography of a subject in Italy —092245"
+      ],
+      "classHere": [
+        "Class here comprehensive works"
+      ],
+      "including": [
+        "Class collectibles and memorabilia related to more than one person in —075; class collected biography of specific continents, countries, localities when not limited to a specific subject in 920.03–920.09"
+      ],
+      "manualRefs": [
+        "See Manual at T1—0922; also at T1—0922 vs. T1—093–099"
+      ],
+      "notes": [
+        "(Option: Class collected biography in 92, 920, or B without subdivision)"
+      ],
+      "relocations": [
+        "Collected biography of people by specific gender or sex; age groups; relationships relocated to —0925; collected biography of people by miscellaneous social attributes relocated to —0926; collected biography of people with disabilities and illnesses, gifted people relocated to —0927; collected biography of members of specific religious groups relocated to —0928"
+      ],
+      "seeAlso": [
+        "For collected biography of members of specific ethnic and national groups, see —0923"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0923-0928",
+    "type": "Concept",
+    "notation": "-0923-0928",
+    "prefLabel": {
+      "en": "Collected biography of specific groups of people"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-1_p00028.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class comprehensive works in —0922"
+      ],
+      "notes": [
+        "Unless other instructions are given, class a subject with aspects in two or more subdivisions of —0923–0928 in the number coming last, e.g., biography of African American women from Texas —0925209764 (not —0922764 or —0923960730764)"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0923",
+    "type": "Concept",
+    "notation": "-0923",
+    "prefLabel": {
+      "en": "Collected biography of members of ethnic and national groups"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-1_p00028.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Class collected biography of members of specific ethnic and national groups in areas where they predominate with the group in a specific area in —0922, e.g., biography of Italians in Italy —092245"
+      ],
+      "relocations": [
+        "Collected biography of people by specific gender or sex; age groups; relationships relocated to —0925; collected biography of people by miscellaneous social attributes relocated to —0926; collected biography of people with disabilities and illnesses, gifted people relocated to —0927; collected biography of members of specific religious groups relocated to —0928"
+      ]
+    }
+  },
+  {
+    "id": "T1:-092305-092309",
+    "type": "Concept",
+    "notation": "-092305-092309",
+    "prefLabel": {
+      "en": "Collected biography of members of ethnic and national groups with ethnic origins from more than one continent, of European descent"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-1_p00028.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —09230 the numbers following 0 in notation 05–09 from Table 5, e.g., biography of members of ethnic groups of European descent —092309, biography of members of ethnic groups of European descent in Australia —092309094"
+      ],
+      "tableRefs": [
+        "Table 5"
+      ]
+    }
+  },
+  {
+    "id": "T1:-09231-09239",
+    "type": "Concept",
+    "notation": "-09231-09239",
+    "prefLabel": {
+      "en": "Collected biography of members of specific ethnic and national groups"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-1_p00028.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —0923 notation 1–9 from Table 5, e.g., biography of people of Italian descent —092351, biography of people of Italian descent in United States —092351073"
+      ],
+      "tableRefs": [
+        "Table 5"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0925",
+    "type": "Concept",
+    "notation": "-0925",
+    "prefLabel": {
+      "en": "Collected biography of people by specific gender or sex; age groups; relationships [all formerly —0922, —0923]"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-1_p00028.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —0925 the numbers following —08 in notation 081–085 from Table 1, e.g., biography of women —09252"
+      ],
+      "seeAlso": [
+        "For collected biography of transgender and intersex people, see —09267"
+      ],
+      "tableRefs": [
+        "Table 1"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0926",
+    "type": "Concept",
+    "notation": "-0926",
+    "prefLabel": {
+      "en": "Collected biography of people by miscellaneous social attributes [formerly —0922, —0923]"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-1_p00028.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —0926 the numbers following —086 in Table 1, e.g., biography of gays —092664"
+      ],
+      "tableRefs": [
+        "Table 1"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0927",
+    "type": "Concept",
+    "notation": "-0927",
+    "prefLabel": {
+      "en": "Collected biography of people with disabilities and illnesses, gifted people [all formerly —0922, —0923]"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-1_p00028.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —0927 the numbers following —087 in Table 1, e.g., biography of blind people —09271"
+      ],
+      "tableRefs": [
+        "Table 1"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0928",
+    "type": "Concept",
+    "notation": "-0928",
+    "prefLabel": {
+      "en": "Collected biography of members of specific religious groups"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-1_p00029.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -0928 the numbers following 2 in 230-290, e.g., biography of Muslims -092897"
+      ],
+      "notes": [
+        "[formerly -0922, -0923]"
+      ]
+    }
+  },
+  {
+    "id": "T1:-0929",
+    "type": "Concept",
+    "notation": "-0929",
+    "prefLabel": {
+      "en": "Biography of animals and plants"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-1_p00029.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Use this number for animals and plants treated as individuals, e.g., a biography of Secretariat 798.400929"
+      ]
+    }
+  },
+  {
+    "id": "T1:-093-099",
+    "type": "Concept",
+    "notation": "-093-099",
+    "prefLabel": {
+      "en": "Specific continents, countries, localities; extraterrestrial worlds"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-1_p00029.png"
+    },
+    "table": "T1",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -09 notation 3-9 from Table 2, e.g., the subject in North America -097, in Brazil -0981; then add further as follows:",
+        "01 Forecasts",
+        "02 Statistics, illustrations; maintenance and repair",
+        "021 Statistics",
+        "022 Illustrations",
+        "028 Maintenance and repair",
+        "03 Dictionaries, encyclopedias, concordances",
+        "05 Serial publications"
+      ],
+      "notes": [
+        "History and description by place, by specific instance of the subject",
+        "The subdivisions listed in the add table below are special notation, not standard subdivisions",
+        "Unless other instructions are given in the add table below, observe the following table of preference, e.g., a periodical of statistics -021 (not -05):",
+        "Maintenance and repair -028",
+        "Forecasts -01",
+        "Specific continents, countries, localities -093-099",
+        "Areas, regions, places in general -091",
+        "Historical periods -0901-0905",
+        "Museums, collections, exhibits -074",
+        "Collecting objects -075",
+        "Illustrations -022",
+        "Statistics -021",
+        "Dictionaries, encyclopedias, concordances -03",
+        "History and geographic treatment (without subdivision) -09",
+        "Serial publications -05",
+        "Class statistical graphs in 021; class humorous cartoons in -093-099 without adding from this table",
+        "Regardless of form (print or electronic) or frequency"
+      ],
+      "including": [
+        "cartoons, drawings, pictures, pictorial charts and designs, sketches; graphs; maps, plans, diagrams",
+        "thesauri (synonym dictionaries)"
+      ],
+      "classHere": [
+        "conservation, preservation, restoration",
+        "house organs, magazines, newspapers, yearbooks"
+      ],
+      "standardSubdivisions": true
+    }
+  },
+  {
+    "id": "T1:-093-099",
+    "type": "Concept",
+    "notation": "-093-099",
+    "prefLabel": {
+      "en": "Specific continents, countries, localities; extraterrestrial worlds (continued)"
+    },
+    "ranges": [
+      {
+        "from": "-093",
+        "to": "-099"
+      }
+    ],
+    "page": 30,
+    "source": {
+      "fileName": "table-1_p00030.png"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:07",
+    "type": "Concept",
+    "notation": "07",
+    "prefLabel": {
+      "en": "Museums, collections, exhibits; collecting objects"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "table-1_p00030.png"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:074",
+    "type": "Concept",
+    "notation": "074",
+    "prefLabel": {
+      "en": "Museums, collections, exhibits"
+    },
+    "scope": {
+      "classHere": [
+        "exhibitions, fairs, festivals; catalogs, lists regardless of whether or not articles are offered for sale; guidebooks, history and description"
+      ],
+      "addToBaseRules": [
+        "Add to 074 notation 4–9 from Table 2, e.g., collections in Pennsylvania 074748, collections of Brazilian objects in Pennsylvania —0981074748"
+      ]
+    },
+    "page": 30,
+    "source": {
+      "fileName": "table-1_p00030.png"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:075",
+    "type": "Concept",
+    "notation": "075",
+    "prefLabel": {
+      "en": "Collecting objects"
+    },
+    "scope": {
+      "classHere": [
+        "collectibles, memorabilia, price trends for collectors"
+      ]
+    },
+    "page": 30,
+    "source": {
+      "fileName": "table-1_p00030.png"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:09",
+    "type": "Concept",
+    "notation": "09",
+    "prefLabel": {
+      "en": "History and geographic treatment"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "table-1_p00030.png"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:0901-0905",
+    "type": "Concept",
+    "notation": "0901-0905",
+    "prefLabel": {
+      "en": "Historical periods"
+    },
+    "ranges": [
+      {
+        "from": "0901",
+        "to": "0905"
+      }
+    ],
+    "scope": {
+      "addToBaseRules": [
+        "Add to 090 the numbers following —090 in notation 0901–0905 from Table 1, e.g., 20th century 0904; however, for museums, collections, exhibits of the subject in an area regardless of historical period, see 074, e.g., collections of 20th-century Brazilian art 709.81074 (not 709.810904)"
+      ]
+    },
+    "page": 30,
+    "source": {
+      "fileName": "table-1_p00030.png"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:091",
+    "type": "Concept",
+    "notation": "091",
+    "prefLabel": {
+      "en": "Areas, places, regions in general"
+    },
+    "scope": {
+      "addToBaseRules": [
+        "Add to 091 the numbers following —1 in notation 11–19 from Table 2, e.g., rural regions 091734"
+      ]
+    },
+    "page": 30,
+    "source": {
+      "fileName": "table-1_p00030.png"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  },
+  {
+    "id": "T1:093-099",
+    "type": "Concept",
+    "notation": "093-099",
+    "prefLabel": {
+      "en": "Specific continents, countries, localities, extraterrestrial worlds"
+    },
+    "ranges": [
+      {
+        "from": "093",
+        "to": "099"
+      }
+    ],
+    "scope": {
+      "addToBaseRules": [
+        "Add to 09 notation 3–9 from Table 2, e.g., Poland 09438"
+      ],
+      "notes": [
+        "Use 093–099 to add notation for a specific continent, country, locality when first area notation is used to specify area of origin, while second One identifies area in which subject is found or practiced, e.g., Polish political refugees 325.2109438, Polish political refugees in Canada 325.21094380971",
+        "(Option: Add historical period numbers that appear in subdivisions of 930–990, using one 0 in all cases except 00 for North America and South America, e.g., United States during Reconstruction —097308, Brazil during Empire —098104, North America in 20th century —097005. If option is used, do not use notation 090 from table above.An extra zero is used for the balance of notation from table above, e.g., statistics of Brazil —09810021)"
+      ],
+      "manualRefs": [
+        "See Manual at T1—0922 vs. T1—093–099; also at T1—0940902 vs. T1—0902"
+      ]
+    },
+    "page": 30,
+    "source": {
+      "fileName": "table-1_p00030.png"
+    },
+    "skos": {
+      "inScheme": "DDC23"
+    }
+  }
+]

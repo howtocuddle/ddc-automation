@@ -1,0 +1,7916 @@
+[
+  {
+    "id": "T5:-05-09",
+    "type": "Concept",
+    "notation": "-05-09",
+    "prefLabel": {
+      "en": "[People of mixed ancestry with ethnic origins from more than one continent; Europeans and people of European descent]"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "North Americans"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "prefLabel": {
+      "en": "British, English, Anglo-Saxons"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "prefLabel": {
+      "en": "Germanic peoples"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-4",
+    "type": "Concept",
+    "notation": "-4",
+    "prefLabel": {
+      "en": "Modern Latin peoples"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-5",
+    "type": "Concept",
+    "notation": "-5",
+    "prefLabel": {
+      "en": "Italians, Romanians, related groups"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-6",
+    "type": "Concept",
+    "notation": "-6",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Spanish, Portuguese, Galician"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-7",
+    "type": "Concept",
+    "notation": "-7",
+    "prefLabel": {
+      "en": "Other Italic peoples"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Greeks and related groups"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9",
+    "type": "Concept",
+    "notation": "-9",
+    "prefLabel": {
+      "en": "Other ethnic and national groups"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-05",
+    "type": "Concept",
+    "notation": "-05",
+    "prefLabel": {
+      "en": "People of mixed ancestry with ethnic origins from more than one continent"
+    },
+    "page": 2,
+    "source": {
+      "fileName": "Table-5_p00002.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Limited to works that emphasize such mixed ancestry",
+        "Class works about people of mixed ancestry that do not emphasize mixture",
+        "with the ethnic groups stressed in the works or with the groups with which the",
+        "people are most closely identified, e.g., works about Métis that emphasize their",
+        "North American native roots-97 (not-0597009); class works that stress the",
+        "kind of mixed ethnic heritage (e.g., language, customs, food, but not genetics)",
+        "that results when people of one continent move to another continent and raise",
+        "their children in the new location with the ethnic group of origin, plus notation",
+        "from Table 2 as instructed at beginning of Table 5 to show the new location,",
+        "e.g., people who have Chinese parents and were raised in the United Kingdom",
+        "-951041",
+        "For people of mixed North and South American native ancestry, see -97"
+      ]
+    }
+  },
+  {
+    "id": "T5:-0509",
+    "type": "Concept",
+    "notation": "-0509",
+    "prefLabel": {
+      "en": "Europeans and people of European descent with ethnic origins from\nmore than one continent"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-5_p00003.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Limited to works that emphasize European ancestry and mixed ancestry\nwith ethnic origins from more than one continent",
+        "Works that emphasize mixed ancestry but give equal emphasis\nto European and non-European origins, or give more emphasis to\nnon-European origins, are classed in -051-059, e.g., works about\nmixed Asian and European ancestry that give equal emphasis to both\ngroups -0595009, works about mixed Chinese and European ancestry\nthat emphasize Chinese ancestry-05951009"
+      ],
+      "addToBaseRules": [
+        "Add to base number -0509 notation 1-9 from Table 5, e.g., people\nwith European and Asian ancestry -0509095, people with European\nand Asian ancestry in Hawaii-05090950969, people with European\nand Chinese ancestry -05090951"
+      ]
+    }
+  },
+  {
+    "id": "T5:-051-059",
+    "type": "Concept",
+    "notation": "-051-059",
+    "prefLabel": {
+      "en": "Specific ethnic and national groups"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-5_p00003.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number —05 notation 1-9 from Table 5 for the group only,\ne.g., American native peoples of mixed ancestry with ethnic origins from\nmore than one continent-0597; then, for each group having its own\nnumber, add 0 and to the result add as follows:"
+      ]
+    }
+  },
+  {
+    "id": "T5:-09",
+    "type": "Concept",
+    "notation": "-09",
+    "prefLabel": {
+      "en": "Europeans and people of European descent"
+    },
+    "page": 3,
+    "source": {
+      "fileName": "Table-5_p00003.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here people who speak or whose ancestors spoke languages traditionally\nspoken in Europe; comprehensive works on Indo-European peoples;\ncomprehensive works on whites"
+      ],
+      "notes": [
+        "Class works that emphasize mixed ancestry with origins from more than one\ncontinent in -05, e.g., works emphasizing mixed Hindi-English ancestry\n-059143021",
+        "Give priority in notation to the ethnic group emphasized. If emphasis is\nequal, give priority to the one coming last in Table 5"
+      ],
+      "seeAlso": [
+        "For a specific ethnic or regional group, see the group, e.g., Germans -31,\nBengali-9144, Arabs -927, people of Middle Eastern origins -94"
+      ]
+    }
+  },
+  {
+    "id": "T5:-1-9",
+    "type": "Concept",
+    "notation": "-1-9",
+    "prefLabel": {
+      "en": "Specific ethnic and national groups"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-5_p00004.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "By origin or situation",
+        "Class people of mixed ancestry with ethnic origins from more than",
+        "one continent in -05; class comprehensive works on Europeans, on",
+        "Indo-European peoples in -09; class comprehensive works in 001-999",
+        "without adding notation from Table 5"
+      ],
+      "tableRefs": [
+        "without adding notation from Table 5"
+      ]
+    }
+  },
+  {
+    "id": "T5:-1",
+    "type": "Concept",
+    "notation": "-1",
+    "prefLabel": {
+      "en": "North Americans"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-5_p00004.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Spanish Americans, see -68; for North American regional and national",
+        "groups of largely African descent, see-9697, e.g., West Indians -969729,",
+        "Haitians-9697294; for North American native peoples, see-97. For",
+        "North Americans of other origins, see the ethnic group of origin, e.g., North",
+        "Americans of Celtic (Irish, Scots, Manx, Welsh, Cornish) origin-91607"
+      ]
+    }
+  },
+  {
+    "id": "T5:-11",
+    "type": "Concept",
+    "notation": "-11",
+    "prefLabel": {
+      "en": "Canadians"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-5_p00004.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here people of Canada as a national group"
+      ],
+      "seeAlso": [
+        "For Canadians not of British or French origin, see the ethnic group of",
+        "origin, e.g., Canadians of German origin -31071, Inuit-9712071"
+      ]
+    }
+  },
+  {
+    "id": "T5:-112",
+    "type": "Concept",
+    "notation": "-112",
+    "prefLabel": {
+      "en": "Canadians of British origin"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-5_p00004.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "manualRefs": [
+        "See Manual at T5-112, T5-114 vs. T5-2, T5-41"
+      ]
+    }
+  },
+  {
+    "id": "T5:-114",
+    "type": "Concept",
+    "notation": "-114",
+    "prefLabel": {
+      "en": "Canadians of French origin"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-5_p00004.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "manualRefs": [
+        "See Manual at T5-112, T5-114 vs. T5-2, T5-41"
+      ]
+    }
+  },
+  {
+    "id": "T5:-13",
+    "type": "Concept",
+    "notation": "-13",
+    "prefLabel": {
+      "en": "People of United States (“Americans”)"
+    },
+    "page": 4,
+    "source": {
+      "fileName": "Table-5_p00004.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here United States citizens of British origin, people of United States as a",
+        "national group"
+      ],
+      "seeAlso": [
+        "For United States citizens of other origins, see the ethnic group of origin,",
+        "e.g., German Americans -31073, African Americans -96073"
+      ],
+      "tableRefs": [
+        "See Manual at T5-13 vs. T5-2073, T5-21073"
+      ]
+    }
+  },
+  {
+    "id": "T5:-2",
+    "type": "Concept",
+    "notation": "-2",
+    "prefLabel": {
+      "en": "British, English, Anglo-Saxons"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-5_p00005.png",
+      "span": "T5"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for British, English, Anglo-Saxons together; for British as\nan ethnic group; for English as an ethnic group"
+      ],
+      "seeAlso": [
+        "For North Americans of British origin, see -1; for Anglo-Indians (Indian\ncitizens of British origin), see-91411; for people of Celtic (Irish, Scots,\nManx, Welsh, Cornish) origin, see-916"
+      ],
+      "tableRefs": [
+        "See Manual at Table 5; also at T5-112, T5-114 vs. T5-2, T5-41; also at\nT5-13 vs. T5-2073, T5-21073; also at T5-201-209 vs. T5-2101-2109"
+      ]
+    }
+  },
+  {
+    "id": "T5:-21",
+    "type": "Concept",
+    "notation": "-21",
+    "prefLabel": {
+      "en": "People of British Isles"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-5_p00005.png",
+      "span": "-21"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here United Kingdom citizens of British origin, people of United\nKingdom as a national group",
+        "Class New Zealanders of British origin in-23; class Australians of British\norigin in -24; class South Africans of British origin in -28"
+      ],
+      "seeAlso": [
+        "For United Kingdom citizens of other origins, see the ethnic group of\norigin, e.g., United Kingdom citizens of Indian origin -91411041"
+      ],
+      "tableRefs": [
+        "See Manual at T5-13 vs. Т5-2073, T5-21073; also at T5-201-209 vs.\nT5-2101-2109"
+      ]
+    }
+  },
+  {
+    "id": "T5:-23",
+    "type": "Concept",
+    "notation": "-23",
+    "prefLabel": {
+      "en": "New Zealanders"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-5_p00005.png",
+      "span": "-23"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here New Zealanders of British origin, New Zealanders as a national\ngroup"
+      ],
+      "seeAlso": [
+        "For New Zealanders of other origins, see the ethnic group of origin, e.g.,\nNew Zealanders of Irish origin -9162093, Maori-99442"
+      ]
+    }
+  },
+  {
+    "id": "T5:-24",
+    "type": "Concept",
+    "notation": "-24",
+    "prefLabel": {
+      "en": "Australians"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-5_p00005.png",
+      "span": "-24"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Australians of British origin, Australians as a national group"
+      ],
+      "seeAlso": [
+        "For Australians of other origins, see the ethnic group of origin, e.g.,\nAustralians of Italian origin-51094, Aboriginal Australians -9915"
+      ]
+    }
+  },
+  {
+    "id": "T5:-28",
+    "type": "Concept",
+    "notation": "-28",
+    "prefLabel": {
+      "en": "South Africans of British origin"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-5_p00005.png",
+      "span": "-28"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class South Africans as a national group in-968"
+      ],
+      "seeAlso": [
+        "-2106891 for Zimbabweans of British origin"
+      ]
+    }
+  },
+  {
+    "id": "T5:-3",
+    "type": "Concept",
+    "notation": "-3",
+    "prefLabel": {
+      "en": "Germanic peoples"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-5_p00005.png",
+      "span": "-3"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For English, Anglo-Saxons, see -2"
+      ]
+    }
+  },
+  {
+    "id": "T5:-31",
+    "type": "Concept",
+    "notation": "-31",
+    "prefLabel": {
+      "en": "Germans"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-5_p00005.png",
+      "span": "-31"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-35",
+    "type": "Concept",
+    "notation": "-35",
+    "prefLabel": {
+      "en": "Swiss"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-5_p00005.png",
+      "span": "-35"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Swiss Germans, comprehensive works on people of Switzerland as\na national group"
+      ],
+      "seeAlso": [
+        "For Swiss citizens of other ethnic groups, see the ethnic group, e.g.,\nFrench-speaking Swiss-410494, Romansh-speaking Swiss-59960494,\nItalian-speaking Swiss -510494"
+      ]
+    }
+  },
+  {
+    "id": "T5:-36",
+    "type": "Concept",
+    "notation": "-36",
+    "prefLabel": {
+      "en": "Austrians"
+    },
+    "page": 5,
+    "source": {
+      "fileName": "Table-5_p00005.png",
+      "span": "-36"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-39",
+    "type": "Concept",
+    "notation": "-39",
+    "prefLabel": {
+      "en": "Other Germanic peoples"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Goths, Vandals"
+      ]
+    }
+  },
+  {
+    "id": "T5:-392",
+    "type": "Concept",
+    "notation": "-392",
+    "prefLabel": {
+      "en": "Friesians"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-393",
+    "type": "Concept",
+    "notation": "-393",
+    "prefLabel": {
+      "en": "Netherlandish peoples"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-3931",
+    "type": "Concept",
+    "notation": "-3931",
+    "prefLabel": {
+      "en": "Dutch"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-3932",
+    "type": "Concept",
+    "notation": "-3932",
+    "prefLabel": {
+      "en": "Flemings (Flemish)"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on Belgians as a national group"
+      ],
+      "seeAlso": [
+        "For Walloons, see –42"
+      ]
+    }
+  },
+  {
+    "id": "T5:-3936",
+    "type": "Concept",
+    "notation": "-3936",
+    "prefLabel": {
+      "en": "Afrikaners"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class South Africans as a national group in-968"
+      ]
+    }
+  },
+  {
+    "id": "T5:-395",
+    "type": "Concept",
+    "notation": "-395",
+    "prefLabel": {
+      "en": "Scandinavians"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on peoples of the Nordic countries"
+      ],
+      "seeAlso": [
+        "For Icelanders and Faroese, see-396; for Swedes, see -397; for",
+        "Danes and Norwegians, see-398; for Finns, see-94541; for Sámi,",
+        "see-9457"
+      ]
+    }
+  },
+  {
+    "id": "T5:-396",
+    "type": "Concept",
+    "notation": "-396",
+    "prefLabel": {
+      "en": "Icelanders and Faroese"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-3961",
+    "type": "Concept",
+    "notation": "-3961",
+    "prefLabel": {
+      "en": "Icelanders"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-3969",
+    "type": "Concept",
+    "notation": "-3969",
+    "prefLabel": {
+      "en": "Faroese"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-397",
+    "type": "Concept",
+    "notation": "-397",
+    "prefLabel": {
+      "en": "Swedes"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-398",
+    "type": "Concept",
+    "notation": "-398",
+    "prefLabel": {
+      "en": "Danes and Norwegians"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-3981",
+    "type": "Concept",
+    "notation": "-3981",
+    "prefLabel": {
+      "en": "Danes"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-3982",
+    "type": "Concept",
+    "notation": "-3982",
+    "prefLabel": {
+      "en": "Norwegians"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-4",
+    "type": "Concept",
+    "notation": "-4",
+    "prefLabel": {
+      "en": "Modern Latin peoples"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Italians, Romanians, related groups, see –5; for peoples who speak, or",
+        "whose ancestors spoke, Spanish, Portuguese, Galician, see -6"
+      ]
+    }
+  },
+  {
+    "id": "T5:-41",
+    "type": "Concept",
+    "notation": "-41",
+    "prefLabel": {
+      "en": "French"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class Canadians of French origin in -114"
+      ],
+      "seeAlso": [
+        "For Corsicans, see -59984; for Basques, see -9992"
+      ],
+      "tableRefs": [
+        "See Manual at T5-112, T5-114 vs. T5-2, T5-41"
+      ]
+    }
+  },
+  {
+    "id": "T5:-42",
+    "type": "Concept",
+    "notation": "-42",
+    "prefLabel": {
+      "en": "Walloons"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-49",
+    "type": "Concept",
+    "notation": "-49",
+    "prefLabel": {
+      "en": "Catalans"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-5",
+    "type": "Concept",
+    "notation": "-5",
+    "prefLabel": {
+      "en": "Italians, Romanians, related groups"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-51",
+    "type": "Concept",
+    "notation": "-51",
+    "prefLabel": {
+      "en": "Italians"
+    },
+    "page": 6,
+    "source": {
+      "fileName": "Table-5_p00006.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-[56]",
+    "type": "Concept",
+    "notation": "-[56]",
+    "prefLabel": {
+      "en": "Sardinians"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "relocations": [
+        "Relocated to -59982"
+      ]
+    }
+  },
+  {
+    "id": "T5:-57",
+    "type": "Concept",
+    "notation": "-57",
+    "prefLabel": {
+      "en": "Dalmatians"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-[58]",
+    "type": "Concept",
+    "notation": "-[58]",
+    "prefLabel": {
+      "en": "Corsicans"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "relocations": [
+        "Relocated to -59984"
+      ]
+    }
+  },
+  {
+    "id": "T5:-59",
+    "type": "Concept",
+    "notation": "-59",
+    "prefLabel": {
+      "en": "Romanians; peoples who speak, or whose ancestors spoke, Rhaetian\nlanguages; Sardinians, Corsicans"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-591",
+    "type": "Concept",
+    "notation": "-591",
+    "prefLabel": {
+      "en": "Romanians"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-599",
+    "type": "Concept",
+    "notation": "-599",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Rhaetian languages;\nSardinians, Corsicans"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-5992",
+    "type": "Concept",
+    "notation": "-5992",
+    "prefLabel": {
+      "en": "Friulians"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-5994",
+    "type": "Concept",
+    "notation": "-5994",
+    "prefLabel": {
+      "en": "Ladins"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-5996",
+    "type": "Concept",
+    "notation": "-5996",
+    "prefLabel": {
+      "en": "Romansch"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-5998",
+    "type": "Concept",
+    "notation": "-5998",
+    "prefLabel": {
+      "en": "Sardinians and Corsicans"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-59982",
+    "type": "Concept",
+    "notation": "-59982",
+    "prefLabel": {
+      "en": "Sardinians [formerly -56]"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-59984",
+    "type": "Concept",
+    "notation": "-59984",
+    "prefLabel": {
+      "en": "Corsicans [formerly -58]"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-6",
+    "type": "Concept",
+    "notation": "-6",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Spanish,\nPortuguese, Galician"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-61",
+    "type": "Concept",
+    "notation": "-61",
+    "prefLabel": {
+      "en": "People of Spain"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Catalans, see -49; for Basques, see -9992"
+      ]
+    }
+  },
+  {
+    "id": "T5:-68",
+    "type": "Concept",
+    "notation": "-68",
+    "prefLabel": {
+      "en": "Spanish Americans"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on Latin Americans"
+      ],
+      "seeAlso": [
+        "For Latin American peoples not provided for here, see the people, e.g.,\nBrazilians-698",
+        "also-9141 for people of Guyana and Suriname as national groups;",
+        "also-96972 for Central American and Caribbean national groups of\nmajority African origin, e.g., -9697282 for Belizeans, -9697294 for\nHaitians"
+      ]
+    }
+  },
+  {
+    "id": "T5:-687-688",
+    "type": "Concept",
+    "notation": "-687-688",
+    "prefLabel": {
+      "en": "Regional and national groups"
+    },
+    "page": 7,
+    "source": {
+      "fileName": "Table-5_p00007.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Citizens of independent and partly independent jurisdictions having a\nSpanish-speaking majority or Spanish as an official language; former\ncitizens and descendants of citizens of these jurisdictions"
+      ],
+      "tableRefs": [
+        "Add to base number -68 notation 7-8 from Table 2, e.g., Central\nAmericans -68728, Puerto-Ricans -687295, Chileans-6883; then\nadd further as instructed at beginning of Table 5, e.g., Chileans in United\nStates and U.S. citizens of Chilean origin-6883073; however, for\ncomprehensive works on Spanish Americans in jurisdictions where they\nare a minority, see -6804-6809, e.g., Spanish Americans in United States\n-68073"
+      ]
+    }
+  },
+  {
+    "id": "T5:-69",
+    "type": "Concept",
+    "notation": "-69",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Portuguese and\nGalician"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for peoples who speak, or whose ancestors spoke,\nPortuguese and Galician together; for pcoples who speak, or whose ancestors\nspoke Portuguese alone"
+      ]
+    }
+  },
+  {
+    "id": "T5:-691",
+    "type": "Concept",
+    "notation": "-691",
+    "prefLabel": {
+      "en": "People of Portugal"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-698",
+    "type": "Concept",
+    "notation": "-698",
+    "prefLabel": {
+      "en": "Brazilians"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Brazilians of Portuguese origin, Brazilians as a national group"
+      ],
+      "seeAlso": [
+        "For Brazilian citizens of other origins, see the ethnic group of origin,\ne.g., Brazilians of Italian origin -51081, Brazilians of African origin\n-96081"
+      ]
+    }
+  },
+  {
+    "id": "T5:-699",
+    "type": "Concept",
+    "notation": "-699",
+    "prefLabel": {
+      "en": "People who speak, or whose ancestors spoke, Galician"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-7",
+    "type": "Concept",
+    "notation": "-7",
+    "prefLabel": {
+      "en": "Other Italic peoples"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Etruscans, see -9994"
+      ]
+    }
+  },
+  {
+    "id": "T5:-71",
+    "type": "Concept",
+    "notation": "-71",
+    "prefLabel": {
+      "en": "Ancient Romans"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-79",
+    "type": "Concept",
+    "notation": "-79",
+    "prefLabel": {
+      "en": "Osco-Umbrians"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-8",
+    "type": "Concept",
+    "notation": "-8",
+    "prefLabel": {
+      "en": "Greeks and related groups"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for Greeks and related groups together, for Greeks as an\nethnic group alone"
+      ],
+      "seeAlso": [
+        "See also-91819 for Slavic Macedonians"
+      ]
+    }
+  },
+  {
+    "id": "T5:-81",
+    "type": "Concept",
+    "notation": "-81",
+    "prefLabel": {
+      "en": "Ancient Greeks"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on ancient Greeks and Romans"
+      ],
+      "seeAlso": [
+        "For ancient Romans, see-71"
+      ]
+    }
+  },
+  {
+    "id": "T5:-89",
+    "type": "Concept",
+    "notation": "-89",
+    "prefLabel": {
+      "en": "Modern Greeks and related groups"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-893",
+    "type": "Concept",
+    "notation": "-893",
+    "prefLabel": {
+      "en": "Greek nationals"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-895",
+    "type": "Concept",
+    "notation": "-895",
+    "prefLabel": {
+      "en": "Cypriots"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on people of Cyprus"
+      ],
+      "seeAlso": [
+        "For Turkish Cypriots, see -943505693"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9",
+    "type": "Concept",
+    "notation": "-9",
+    "prefLabel": {
+      "en": "Other ethnic and national groups"
+    },
+    "page": 8,
+    "source": {
+      "fileName": "Table-5_p00008.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91",
+    "type": "Concept",
+    "notation": "-91",
+    "prefLabel": {
+      "en": "Other Indo-European peoples"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-92",
+    "type": "Concept",
+    "notation": "-92",
+    "prefLabel": {
+      "en": "Semites"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-93",
+    "type": "Concept",
+    "notation": "-93",
+    "prefLabel": {
+      "en": "Non-Semitic Afro-Asiatic peoples"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-94",
+    "type": "Concept",
+    "notation": "-94",
+    "prefLabel": {
+      "en": "Peoples of north and west Asian origin or situation; Dravidians; peoples\nwho speak, or whose ancestors spoke, miscellaneous languages of\nsouth Asia"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-95",
+    "type": "Concept",
+    "notation": "-95",
+    "prefLabel": {
+      "en": "East and southeast Asian peoples; Munda"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-96",
+    "type": "Concept",
+    "notation": "-96",
+    "prefLabel": {
+      "en": "Africans and people of African descent"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97",
+    "type": "Concept",
+    "notation": "-97",
+    "prefLabel": {
+      "en": "North American native peoples"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-98",
+    "type": "Concept",
+    "notation": "-98",
+    "prefLabel": {
+      "en": "South American native peoples"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-99",
+    "type": "Concept",
+    "notation": "-99",
+    "prefLabel": {
+      "en": "Papuans; Aboriginal Australians and Tasmanians; Malayo-Polynesian\nand related peoples; miscellaneous peoples"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91",
+    "type": "Concept",
+    "notation": "-91",
+    "prefLabel": {
+      "en": "Other Indo-European peoples"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-914",
+    "type": "Concept",
+    "notation": "-914",
+    "prefLabel": {
+      "en": "South Asians"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-915",
+    "type": "Concept",
+    "notation": "-915",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Iranian languages"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-916",
+    "type": "Concept",
+    "notation": "-916",
+    "prefLabel": {
+      "en": "Celts"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-917",
+    "type": "Concept",
+    "notation": "-917",
+    "prefLabel": {
+      "en": "East Slavs"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-918",
+    "type": "Concept",
+    "notation": "-918",
+    "prefLabel": {
+      "en": "Slavs"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-919",
+    "type": "Concept",
+    "notation": "-919",
+    "prefLabel": {
+      "en": "Balts and other Indo-European peoples"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-914",
+    "type": "Concept",
+    "notation": "-914",
+    "prefLabel": {
+      "en": "South Asians"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Indo-Aryans (peoples who speak, or whose ancestors spoke,\nIndo-Aryan languages)"
+      ],
+      "seeAlso": [
+        "See also notation 08621 in Table 1 for Brahmans as an elite social\ngroup; also notation 0882945 in Table 1 for Brahmans as a religious\ngroup"
+      ],
+      "tableRefs": [
+        "For Dravidians and peoples who speak, or whose ancestors spoke,\nmiscellaneous languages of south Asia, see -948; for south Asians\nwho speak, or whose ancestors spoke, languages closely related to\nlanguages of east and southeast Asia, see -95; for Andamanese, see\n-959"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9141",
+    "type": "Concept",
+    "notation": "-9141",
+    "prefLabel": {
+      "en": "National groups"
+    },
+    "page": 9,
+    "source": {
+      "fileName": "Table-5_p00009.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Guyanese, Mauritians, Surinamers"
+      ],
+      "relocations": [
+        "Maldivians as a national group relocated to -91489"
+      ],
+      "seeAlso": [
+        "See also-96972983 for Trinidadian national group; also -9959\nfor Fijian national group"
+      ],
+      "tableRefs": [
+        "Class nationals of a specific ethnolinguistic group with the group, e.g.,\nTamil-94811",
+        "For Nepalese national group, see-91495"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91411",
+    "type": "Concept",
+    "notation": "-91411",
+    "prefLabel": {
+      "en": "Indians"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Anglo-Indians (Indian citizens of British origin),",
+        "post-1975 Sikkimese"
+      ],
+      "notes": [
+        "Class comprehensive works on Sikkimese in--91417"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91412",
+    "type": "Concept",
+    "notation": "-91412",
+    "prefLabel": {
+      "en": "Pakistanis and people of Bangladesh"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-914122",
+    "type": "Concept",
+    "notation": "-914122",
+    "prefLabel": {
+      "en": "Pakistanis"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-914126",
+    "type": "Concept",
+    "notation": "-914126",
+    "prefLabel": {
+      "en": "People of Bangladesh"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91413",
+    "type": "Concept",
+    "notation": "-91413",
+    "prefLabel": {
+      "en": "Sri Lankans (Ceylonese)"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Sinhalese as an ethnic group, see -9148; for Tamil as an",
+        "ethnic group, see -94811"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91417",
+    "type": "Concept",
+    "notation": "-91417",
+    "prefLabel": {
+      "en": "Sikkimese"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For post-1975 Sikkimese, see-91411"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91418",
+    "type": "Concept",
+    "notation": "-91418",
+    "prefLabel": {
+      "en": "Bhutanese"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Class Bhotia as an ethnic group in --9541"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9142",
+    "type": "Concept",
+    "notation": "-9142",
+    "prefLabel": {
+      "en": "Punjabis and Sindhi"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91421",
+    "type": "Concept",
+    "notation": "-91421",
+    "prefLabel": {
+      "en": "Punjabis"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91425",
+    "type": "Concept",
+    "notation": "-91425",
+    "prefLabel": {
+      "en": "Sindhi [formerly -948]"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9143",
+    "type": "Concept",
+    "notation": "-9143",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Western Hindi\nlanguages"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on Hindi-speaking peoples"
+      ],
+      "seeAlso": [
+        "For peoples who speak, or whose ancestors spoke, languages of east",
+        "central zone of Indo-Aryan languages (Eastern Hindi languages),",
+        "see-91492"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9144",
+    "type": "Concept",
+    "notation": "-9144",
+    "prefLabel": {
+      "en": "Bengali"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Bengali of Bangladesh, see-914126"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9145",
+    "type": "Concept",
+    "notation": "-9145",
+    "prefLabel": {
+      "en": "Assamese, Bihari, Oriya"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91451",
+    "type": "Concept",
+    "notation": "-91451",
+    "prefLabel": {
+      "en": "Assamese"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91454",
+    "type": "Concept",
+    "notation": "-91454",
+    "prefLabel": {
+      "en": "Bihari"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91456",
+    "type": "Concept",
+    "notation": "-91456",
+    "prefLabel": {
+      "en": "Oriya"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9146",
+    "type": "Concept",
+    "notation": "-9146",
+    "prefLabel": {
+      "en": "Maratha and Konkani"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91461",
+    "type": "Concept",
+    "notation": "-91461",
+    "prefLabel": {
+      "en": "Maratha [formerly -948]"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91469",
+    "type": "Concept",
+    "notation": "-91469",
+    "prefLabel": {
+      "en": "Konkani [formerly -9149]"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9147",
+    "type": "Concept",
+    "notation": "-9147",
+    "prefLabel": {
+      "en": "Gujarati and Bhil; people who speak, or whose ancestors spoke,\nRajasthani"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91471",
+    "type": "Concept",
+    "notation": "-91471",
+    "prefLabel": {
+      "en": "Gujarati"
+    },
+    "page": 10,
+    "source": {
+      "fileName": "Table-5_p00010.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91479",
+    "type": "Concept",
+    "notation": "-91479",
+    "prefLabel": {
+      "en": "People who speak, or whose ancestors spoke, Rajasthani"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Gujar"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9148",
+    "type": "Concept",
+    "notation": "-9148",
+    "prefLabel": {
+      "en": "Sinhalese, Vedda, Maldivians"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for Sinhalese, Vedda, Maldivians together; for\nSinhalese alone"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91489",
+    "type": "Concept",
+    "notation": "-91489",
+    "prefLabel": {
+      "en": "Maldivians"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Peoples who speak, or whose ancestors spoke, Divehi (Maldivian)"
+      ],
+      "classHere": [
+        "Maldivians as a national group [formerly -9141]"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9149",
+    "type": "Concept",
+    "notation": "-9149",
+    "prefLabel": {
+      "en": "Other Indo-Aryan peoples"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including peoples who speak, or whose ancestors spoke, Nuristani\nlanguages"
+      ],
+      "relocations": [
+        "Konkani relocated to -91469"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91492",
+    "type": "Concept",
+    "notation": "-91492",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, east central zone\nlanguages (Eastern Hindi languages)"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including speakers of Awadhi, Bagheli, Chattisgarhi"
+      ],
+      "notes": [
+        "Speakers of Fijian Hindustani (Fiji Hindi) are of many south Asian\nethnic groups; use -91409611 for Fijian citizens from south Asia"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91495",
+    "type": "Concept",
+    "notation": "-91495",
+    "prefLabel": {
+      "en": "Nepali"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Nepali as an ethnic group, comprehensive works on\npeople of Nepal as a national group"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91496",
+    "type": "Concept",
+    "notation": "-91496",
+    "prefLabel": {
+      "en": "Pahari"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "For citizens of Nepal belonging to other ethnic groups, see the\nethnic group, e.g., Bihari -91454, Chepang and Newar -9549"
+      ],
+      "seeAlso": [
+        "For people who speak, or whose ancestors spoke, Nepali, see\n-91495"
+      ],
+      "tableRefs": [
+        "Class here peoples who speak, or whose ancestors spoke, northern\nzone languages, Pahari languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91497",
+    "type": "Concept",
+    "notation": "-91497",
+    "prefLabel": {
+      "en": "Romany people"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91499",
+    "type": "Concept",
+    "notation": "-91499",
+    "prefLabel": {
+      "en": "Dardic peoples"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Kashmiris, Kohistanis"
+      ],
+      "tableRefs": [
+        "Class Romany people in -91497"
+      ]
+    }
+  },
+  {
+    "id": "T5:-915",
+    "type": "Concept",
+    "notation": "-915",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Iranian languages"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Kushans, Scythians"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9155",
+    "type": "Concept",
+    "notation": "-9155",
+    "prefLabel": {
+      "en": "Persians"
+    },
+    "page": 11,
+    "source": {
+      "fileName": "Table-5_p00011.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Persians as an ethnic group, comprehensive works on people\nof Iran as a national group"
+      ],
+      "notes": [
+        "For citizens of Iran belonging to other ethnic groups, see the ethnic\ngroup, e.g., Azerbaijani -94361055"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9157",
+    "type": "Concept",
+    "notation": "-9157",
+    "prefLabel": {
+      "en": "Tajik"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Galcha"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9159",
+    "type": "Concept",
+    "notation": "-9159",
+    "prefLabel": {
+      "en": "Other Iranian peoples"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Ossets, Pamiri"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91593",
+    "type": "Concept",
+    "notation": "-91593",
+    "prefLabel": {
+      "en": "Afghans (Pashtun)"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Afghans as an ethnic group, comprehensive works on people of Afghanistan as a national group"
+      ],
+      "seeAlso": [
+        "For citizens of Afghanistan belonging to other ethnic groups, see the ethnic group, e.g., Tajik-91570581"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91597",
+    "type": "Concept",
+    "notation": "-91597",
+    "prefLabel": {
+      "en": "Kurds"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91598",
+    "type": "Concept",
+    "notation": "-91598",
+    "prefLabel": {
+      "en": "Baluchi"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-916",
+    "type": "Concept",
+    "notation": "-916",
+    "prefLabel": {
+      "en": "Celts"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Gauls"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9162",
+    "type": "Concept",
+    "notation": "-9162",
+    "prefLabel": {
+      "en": "Irish"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9163",
+    "type": "Concept",
+    "notation": "-9163",
+    "prefLabel": {
+      "en": "Scots"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9164",
+    "type": "Concept",
+    "notation": "-9164",
+    "prefLabel": {
+      "en": "Manx"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9166",
+    "type": "Concept",
+    "notation": "-9166",
+    "prefLabel": {
+      "en": "Welsh (Cymry)"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9167",
+    "type": "Concept",
+    "notation": "-9167",
+    "prefLabel": {
+      "en": "Cornish"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9168",
+    "type": "Concept",
+    "notation": "-9168",
+    "prefLabel": {
+      "en": "Bretons"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-917",
+    "type": "Concept",
+    "notation": "-917",
+    "prefLabel": {
+      "en": "East Slavs"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here people of Commonwealth of Independent States, of former Soviet Union as national groups",
+        "Class comprehensive works on Slavs in -918"
+      ],
+      "seeAlso": [
+        "For a specific ethnic group of Commonwealth of Independent States or former Soviet Union, see the group, e.g., Uzbek-94325"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9171",
+    "type": "Concept",
+    "notation": "-9171",
+    "prefLabel": {
+      "en": "Russians"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91714",
+    "type": "Concept",
+    "notation": "-91714",
+    "prefLabel": {
+      "en": "Cossacks"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9179",
+    "type": "Concept",
+    "notation": "-9179",
+    "prefLabel": {
+      "en": "Ukrainians, Ruthenians, Belarusians"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91791",
+    "type": "Concept",
+    "notation": "-91791",
+    "prefLabel": {
+      "en": "Ukrainians and Ruthenians"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for Ukrainians and Ruthenians together, for Ukrainians alone"
+      ],
+      "seeAlso": [
+        "See also notation 0882815 in Table 1 for Ruthenians as a religious group"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91799",
+    "type": "Concept",
+    "notation": "-91799",
+    "prefLabel": {
+      "en": "Belarusians"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-918",
+    "type": "Concept",
+    "notation": "-918",
+    "prefLabel": {
+      "en": "Slavs"
+    },
+    "page": 12,
+    "source": {
+      "fileName": "Table-5_p00012.png"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For east Slavs, see -917"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9181",
+    "type": "Concept",
+    "notation": "-9181",
+    "prefLabel": {
+      "en": "Bulgarians and Macedonians"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-5_p00013.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on South Slavs"
+      ],
+      "seeAlso": [
+        "For Serbs and Montenegrins, see -9182; for Croats and Bosnians,\nsee-9183; for Slovenes, see -9184"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91811",
+    "type": "Concept",
+    "notation": "-91811",
+    "prefLabel": {
+      "en": "Bulgarians"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-5_p00013.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91819",
+    "type": "Concept",
+    "notation": "-91819",
+    "prefLabel": {
+      "en": "Macedonians"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-5_p00013.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9182",
+    "type": "Concept",
+    "notation": "-9182",
+    "prefLabel": {
+      "en": "Serbs and Montenegrins"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-5_p00013.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here people of Serbia as a national group; people of former Serbia\nand Montenegro as a national group; people of former Yugoslavia as a\nnational group; comprehensive works on Serbs, Montenegrins, Croats,\nBosnians"
+      ],
+      "notes": [
+        "Subdivisions are added for Serbs and Montenegrins together, for Serbs\nalone",
+        "Class comprehensive works on South Slavs in -9181",
+        "For Croats, see-9183. For citizens of Serbia of other ethnic\ngroups, citizens of former Yugoslavia of other ethnic groups, see\nthe ethnic group, e.g., Serbian citizens of Hungarian ancestry\n-9451104971"
+      ],
+      "relocations": [
+        "Bosnians relocated to -91839"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91829",
+    "type": "Concept",
+    "notation": "-91829",
+    "prefLabel": {
+      "en": "Montenegrins"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-5_p00013.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9183",
+    "type": "Concept",
+    "notation": "-9183",
+    "prefLabel": {
+      "en": "Croats [formerly -91823] and Bosnians"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-5_p00013.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here people of Croatia as a national group"
+      ],
+      "notes": [
+        "Subdivisions are added for Croats and Bosnians together, for Croats\nalone",
+        "For citizens of Croatia of other ethnic groups, see the ethnic group,\ne.g., Hungarians -9451104972"
+      ]
+    }
+  },
+  {
+    "id": "T5:-91839",
+    "type": "Concept",
+    "notation": "-91839",
+    "prefLabel": {
+      "en": "Bosnians [formerly -9182]"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-5_p00013.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here people who speak, or whose ancestors spoke, Bosnian;\nBosniaks; Bosnian Muslims; people of Bosnia and Hercegovina as a\nnational group"
+      ],
+      "seeAlso": [
+        "For citizens of Bosnia and Hercegovina of other ethnic groups,\nsee the ethnic group, e.g., Croats -9183049742",
+        "See also notation 088297 from Table 1 for Muslims as a religious\ngroup"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9184",
+    "type": "Concept",
+    "notation": "-9184",
+    "prefLabel": {
+      "en": "Slovenes"
+    },
+    "page": 13,
+    "source": {
+      "fileName": "Table-5_p00013.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9185",
+    "type": "Concept",
+    "notation": "-9185",
+    "prefLabel": {
+      "en": "West Slavs"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Kashubs"
+      ],
+      "seeAlso": [
+        "For Cossacks, see -91714; for Czechs and Moravians, see -9186;",
+        "for Slovaks, see -9187; for Wends, see-9188"
+      ],
+      "tableRefs": [
+        "Class here Poles"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9186",
+    "type": "Concept",
+    "notation": "-9186",
+    "prefLabel": {
+      "en": "Czechs and Moravians"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Slovaks, see -9187"
+      ],
+      "tableRefs": [
+        "Class here Czechoslovaks",
+        "Subdivisions are added for either or both topics in heading",
+        "See also notation 0882846 in Table 1 for Moravians as a religious\ngroup"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9187",
+    "type": "Concept",
+    "notation": "-9187",
+    "prefLabel": {
+      "en": "Slovaks"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9188",
+    "type": "Concept",
+    "notation": "-9188",
+    "prefLabel": {
+      "en": "Wends (Lusatians, Sorbs)"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-919",
+    "type": "Concept",
+    "notation": "-919",
+    "prefLabel": {
+      "en": "Balts and other Indo-European peoples"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for Balts and other Indo-European peoples together,\nfor Balts alone"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9192",
+    "type": "Concept",
+    "notation": "-9192",
+    "prefLabel": {
+      "en": "Lithuanians"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9193",
+    "type": "Concept",
+    "notation": "-9193",
+    "prefLabel": {
+      "en": "Latvians (Letts)"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9199",
+    "type": "Concept",
+    "notation": "-9199",
+    "prefLabel": {
+      "en": "Albanians, Armenians, Hittites"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91991",
+    "type": "Concept",
+    "notation": "-91991",
+    "prefLabel": {
+      "en": "Albanians"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-91992",
+    "type": "Concept",
+    "notation": "-91992",
+    "prefLabel": {
+      "en": "Armenians"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-92",
+    "type": "Concept",
+    "notation": "-92",
+    "prefLabel": {
+      "en": "Semites"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including peoples who spoke Syriac, other eastern Aramaic languages"
+      ],
+      "seeAlso": [
+        "For non-Semitic Afro-Asiatic peoples, see -93"
+      ],
+      "tableRefs": [
+        "Class here comprehensive works on Afro-Asiatic peoples"
+      ]
+    }
+  },
+  {
+    "id": "T5:-921",
+    "type": "Concept",
+    "notation": "-921",
+    "prefLabel": {
+      "en": "Akkadians, Amorites, Assyrians, Babylonians"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-922",
+    "type": "Concept",
+    "notation": "-922",
+    "prefLabel": {
+      "en": "Aramaeans"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including peoples who spoke western Aramaic languages"
+      ],
+      "tableRefs": [
+        "Class peoples who spoke Syriac, other eastern Aramaic languages in -92"
+      ]
+    }
+  },
+  {
+    "id": "T5:-924",
+    "type": "Concept",
+    "notation": "-924",
+    "prefLabel": {
+      "en": "Hebrews, Israelis, Jews"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "tableRefs": [
+        "Class here Beta Israel",
+        "Subdivisions are added for any or all topics in heading",
+        "See also notation 088296 in Table 1 for Jews as a religious group"
+      ]
+    }
+  },
+  {
+    "id": "T5:-926",
+    "type": "Concept",
+    "notation": "-926",
+    "prefLabel": {
+      "en": "Canaanites and Phoenicians"
+    },
+    "page": 14,
+    "source": {
+      "fileName": "Table-5_p00014.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Amorites, see -921"
+      ]
+    }
+  },
+  {
+    "id": "T5:-927",
+    "type": "Concept",
+    "notation": "-927",
+    "prefLabel": {
+      "en": "Arabs and Maltese"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-5_p00015.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for Arabs and Maltese together, for Arabs alone"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9272",
+    "type": "Concept",
+    "notation": "-9272",
+    "prefLabel": {
+      "en": "Bedouins"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-5_p00015.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "-933 for Berbers and Tuareg"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9274",
+    "type": "Concept",
+    "notation": "-9274",
+    "prefLabel": {
+      "en": "Palestinian Arabs"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-5_p00015.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9275-9276",
+    "type": "Concept",
+    "notation": "-9275-9276",
+    "prefLabel": {
+      "en": "Regional and national groups of Arabs"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-5_p00015.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Citizens of independent or partly independent jurisdictions having an",
+        "Arab or Arabic-speaking majority or Arabic as the official language;",
+        "former citizens and descendants of citizens of these jurisdictions",
+        "-927567, North Africans -92761, Sudanese -927624; then add",
+        "further as instructed at beginning of Table 5, e.g., Sudanese in Ethiopia",
+        "and Ethiopian citizens of Sudanese ancestry-927624063; however, for",
+        "comprehensive works on Arabs as a minority group in a country of Asia",
+        "or Africa where Arabic is not the official language, see -92705-92706,",
+        "e.g., Arabs in Iran -927055; for Mauritanians as a national group, see",
+        "-9661"
+      ],
+      "addToBaseRules": [
+        "Add to base number -927 notation 5-6 from Table 2, e.g., Iraqis"
+      ]
+    }
+  },
+  {
+    "id": "T5:-92761",
+    "type": "Concept",
+    "notation": "-92761",
+    "prefLabel": {
+      "en": "Arabs of North Africa"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-5_p00015.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class Palestinian Arabs as an ethnic group in -9274",
+        "Class here comprehensive works on North Africans"
+      ],
+      "notes": [
+        "Number built according to instructions under-9275-9276",
+        "For a specific North African group not provided for here, see the",
+        "group, e.g., Algerians -92765, Berbers -933"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9279",
+    "type": "Concept",
+    "notation": "-9279",
+    "prefLabel": {
+      "en": "Maltese"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-5_p00015.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-928",
+    "type": "Concept",
+    "notation": "-928",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Ethiopian languages"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-5_p00015.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Amhara, Gurage, Harari, Tigre, Tigrinya"
+      ],
+      "notes": [
+        "For Beta Israel, see -924; for Cushitic and Omotic peoples of",
+        "Ethiopia, see-935; for Nilo-Saharan peoples of Ethiopia, see -965"
+      ],
+      "classHere": [
+        "comprehensive works on people of Ethiopia as a national group"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9289",
+    "type": "Concept",
+    "notation": "-9289",
+    "prefLabel": {
+      "en": "Eritreans"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-5_p00015.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on people of Eritrea as a national",
+        "group",
+        "Class Eritreans who speak, or whose ancestors spoke, a specific",
+        "Ethiopian language in -928"
+      ],
+      "notes": [
+        "For Cushitic peoples of Eritrea, see -935; for Nilo-Saharan peoples",
+        "of Eritrea, see -965"
+      ]
+    }
+  },
+  {
+    "id": "T5:-929",
+    "type": "Concept",
+    "notation": "-929",
+    "prefLabel": {
+      "en": "Mahri and Socotrans"
+    },
+    "page": 15,
+    "source": {
+      "fileName": "Table-5_p00015.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here South Arabic peoples"
+      ]
+    }
+  },
+  {
+    "id": "T5:-93",
+    "type": "Concept",
+    "notation": "-93",
+    "prefLabel": {
+      "en": "Non-Semitic Afro-Asiatic peoples"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, non-Semitic Afro-Asiatic languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-931",
+    "type": "Concept",
+    "notation": "-931",
+    "prefLabel": {
+      "en": "Ancient Egyptians"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class comprehensive works on North Africans in-92761"
+      ]
+    }
+  },
+  {
+    "id": "T5:-932",
+    "type": "Concept",
+    "notation": "-932",
+    "prefLabel": {
+      "en": "Copts"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "See also notation 08828172 in Table 1 for Copts as members of the Coptic Church"
+      ]
+    }
+  },
+  {
+    "id": "T5:-933",
+    "type": "Concept",
+    "notation": "-933",
+    "prefLabel": {
+      "en": "Berbers and Tuareg"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-935",
+    "type": "Concept",
+    "notation": "-935",
+    "prefLabel": {
+      "en": "Cushitic and Omotic peoples"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Afar, Beja"
+      ],
+      "notes": [
+        "Subdivisions are added Cushitic and Omotic peoples together, for Cushitic peoples alone",
+        "Class Beta Israel in -924; class Ethiopians as a national group in -928; class Eritreans as a national group in -9289; class Djiboutians as a national group in -96771"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9354",
+    "type": "Concept",
+    "notation": "-9354",
+    "prefLabel": {
+      "en": "Somali"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Somali as a national group [formerly -96773]"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9355",
+    "type": "Concept",
+    "notation": "-9355",
+    "prefLabel": {
+      "en": "Oromo"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9359",
+    "type": "Concept",
+    "notation": "-9359",
+    "prefLabel": {
+      "en": "Omotic peoples"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak or whose ancestors spoke Omotic languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-937",
+    "type": "Concept",
+    "notation": "-937",
+    "prefLabel": {
+      "en": "Hausa"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class the people of Niger as a national group in -96626"
+      ]
+    }
+  },
+  {
+    "id": "T5:-94",
+    "type": "Concept",
+    "notation": "-94",
+    "prefLabel": {
+      "en": "Peoples of north and west Asian origin or situation; Dravidians; peoples who speak, or whose ancestors spoke, miscellaneous languages of south Asia"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on peoples of Middle Eastern origin"
+      ],
+      "seeAlso": [
+        "For Cypriots, see -895; for Indo-European peoples of these regions, see -91; for Semites, see-92"
+      ]
+    }
+  },
+  {
+    "id": "T5:-941",
+    "type": "Concept",
+    "notation": "-941",
+    "prefLabel": {
+      "en": "Tungusic peoples"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Evenki, Nanai"
+      ]
+    }
+  },
+  {
+    "id": "T5:-942",
+    "type": "Concept",
+    "notation": "-942",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Mongolian languages"
+    },
+    "page": 16,
+    "source": {
+      "fileName": "Table-5_p00016.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Buriat (Buryat), Daur, Tu; people who speak, or whose ancestors spoke, Kalmyk-Oirat"
+      ],
+      "classHere": [
+        "Mongols"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9423",
+    "type": "Concept",
+    "notation": "-9423",
+    "prefLabel": {
+      "en": "People who speak, or whose ancestors spoke, Mongolian proper"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here people who speak, or whose ancestors spoke, Halh Mongolian (Khalkha Mongolian); people of Mongolia as a national group"
+      ]
+    }
+  },
+  {
+    "id": "T5:-943",
+    "type": "Concept",
+    "notation": "-943",
+    "prefLabel": {
+      "en": "Turkic peoples"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number-943 the numbers following -943 in notation 9431-9438 from Table 6, e.g., Turks-9435, Uzbek -94325; then add further as instructed at beginning of Table 5, e.g., Turks in Germany -9435043; however, for Chuvashes, see -9456"
+      ],
+      "classHere": [
+        "Class Cossacks in-91714"
+      ],
+      "manualRefs": [
+        "See Manual at T5-9435"
+      ]
+    }
+  },
+  {
+    "id": "T5:-944",
+    "type": "Concept",
+    "notation": "-944",
+    "prefLabel": {
+      "en": "Samoyed"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-945",
+    "type": "Concept",
+    "notation": "-945",
+    "prefLabel": {
+      "en": "Finno-Ugrians"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9451",
+    "type": "Concept",
+    "notation": "-9451",
+    "prefLabel": {
+      "en": "Ugrians"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Ostyaks, Vogul"
+      ]
+    }
+  },
+  {
+    "id": "T5:-94511",
+    "type": "Concept",
+    "notation": "-94511",
+    "prefLabel": {
+      "en": "Hungarians"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9453",
+    "type": "Concept",
+    "notation": "-9453",
+    "prefLabel": {
+      "en": "Permiaks, Votyak, Komi (Zyrian)"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9454",
+    "type": "Concept",
+    "notation": "-9454",
+    "prefLabel": {
+      "en": "Finnic peoples"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Karelians, Kven, Livonians, Veps; people who speak, or whose ancestors spoke, Tornedalen Finnish"
+      ],
+      "seeAlso": [
+        "For Permiaks, Votyak, Komi, see -9453; for Cheremis, Chuvashes, Mordvin, see-9456; for Sámi, see -9457"
+      ]
+    }
+  },
+  {
+    "id": "T5:-94541",
+    "type": "Concept",
+    "notation": "-94541",
+    "prefLabel": {
+      "en": "Finns"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class Kven and people who speak, or whose ancestors spoke, Tornedalen Finnish in-9454"
+      ]
+    }
+  },
+  {
+    "id": "T5:-94545",
+    "type": "Concept",
+    "notation": "-94545",
+    "prefLabel": {
+      "en": "Estonians"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:--[9455]",
+    "type": "Concept",
+    "notation": "--[9455]",
+    "prefLabel": {
+      "en": "Sámi"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "relocations": [
+        "Relocated to -9457"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9456",
+    "type": "Concept",
+    "notation": "-9456",
+    "prefLabel": {
+      "en": "Mari, Chuvashes, Mordvin"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9457",
+    "type": "Concept",
+    "notation": "-9457",
+    "prefLabel": {
+      "en": "Sámi [formerly -9455]"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -9457 the numbers following-9457 in notation 94572-94578 from Table 6, e.g., people who speak or whose ancestors spoke Lule Sámi -945743; then add further as instructed at beginning of Table 5, e.g., Lule Sámi in Sweden -9457430485"
+      ]
+    }
+  },
+  {
+    "id": "T5:-946",
+    "type": "Concept",
+    "notation": "-946",
+    "prefLabel": {
+      "en": "Paleo-Asiatic (Paleosiberian) peoples"
+    },
+    "page": 17,
+    "source": {
+      "fileName": "Table-5_p00017.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Ainu (Utari); peoples who speak or whose ancestors spoke Chukotko-Kamchatkan (Luorawetlin), Yukaghir languages; Nivkh (Gilyak), Ket (Yenisei Ostyak)"
+      ]
+    }
+  },
+  {
+    "id": "T5:-948",
+    "type": "Concept",
+    "notation": "-948",
+    "prefLabel": {
+      "en": "Dravidians and and peoples who speak, or whose ancestors spoke, miscellaneous languages of south Asia"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, Dravidian languages"
+      ],
+      "notes": [
+        "Subdivisions are added for Dravidians and peoples who speak, or whose ancestors spoke, miscellaneous languages of south Asia together, for Dravidians alone",
+        "Use of this number for Scytho-Dravidians discontinued because without meaning in context"
+      ],
+      "relocations": [
+        "Sindhi relocated to -91425; Maratha relocated to -91461"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9481",
+    "type": "Concept",
+    "notation": "-9481",
+    "prefLabel": {
+      "en": "South Dravidians"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Toda"
+      ],
+      "classHere": [
+        "peoples who speak, or whose ancestors spoke, south Dravidian languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-94811",
+    "type": "Concept",
+    "notation": "-94811",
+    "prefLabel": {
+      "en": "Tamil"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-94812",
+    "type": "Concept",
+    "notation": "-94812",
+    "prefLabel": {
+      "en": "Malayalis"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-94814",
+    "type": "Concept",
+    "notation": "-94814",
+    "prefLabel": {
+      "en": "Kanarese"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9482",
+    "type": "Concept",
+    "notation": "-9482",
+    "prefLabel": {
+      "en": "Central Dravidians"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, central Dravidian languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-94823",
+    "type": "Concept",
+    "notation": "-94823",
+    "prefLabel": {
+      "en": "Gond"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-94824",
+    "type": "Concept",
+    "notation": "-94824",
+    "prefLabel": {
+      "en": "Kandh (Kondh, Kui)"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-94827",
+    "type": "Concept",
+    "notation": "-94827",
+    "prefLabel": {
+      "en": "Telugu"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9483",
+    "type": "Concept",
+    "notation": "-9483",
+    "prefLabel": {
+      "en": "North Dravidians"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Oraon (Kurux, Kurukh)"
+      ],
+      "classHere": [
+        "Brahui; peoples who speak, or whose ancestors spoke, north Dravidian languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9489",
+    "type": "Concept",
+    "notation": "-9489",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, miscellaneous languages of south Asia"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Only those peoples provided for below",
+        "Class south Asians who speak, or whose ancestors spoke, languages closely related to east and southeast Asian languages in -95; class Andamanese in -959; class Indo-Aryans, comprehensive works on south Asians in-914"
+      ],
+      "including": [
+        "people who speak, or whose ancestors spoke, Nihali"
+      ]
+    }
+  },
+  {
+    "id": "T5:-94892",
+    "type": "Concept",
+    "notation": "-94892",
+    "prefLabel": {
+      "en": "Burusho"
+    },
+    "page": 18,
+    "source": {
+      "fileName": "Table-5_p00018.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here people who speak, or whose ancestors spoke, Burushaski"
+      ]
+    }
+  },
+  {
+    "id": "T5:-95",
+    "type": "Concept",
+    "notation": "-95",
+    "prefLabel": {
+      "en": "East and southeast Asian peoples; Munda"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-5_p00019.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Karen"
+      ],
+      "notes": [
+        "comprehensive works on Asian peoples"
+      ],
+      "seeAlso": [
+        "For a specific Asian people not provided for here, see the people, e.g., Persians -9155, Malays -9928"
+      ],
+      "classHere": [
+        "east Asians; south Asian peoples who speak, or whose ancestors spoke, languages closely related to languages of east and southeast Asia;"
+      ]
+    }
+  },
+  {
+    "id": "T5:-951",
+    "type": "Concept",
+    "notation": "-951",
+    "prefLabel": {
+      "en": "Chinese"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-5_p00019.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Chinese citizens of other ethnic groups, see the ethnic group, e.g., Mongol—942051"
+      ],
+      "classHere": [
+        "Han Chinese; people who speak or whose ancestors spoke Mandarin Chinese (Putonghua), Beijing dialect; comprehensive works on people of China as a national group"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9517",
+    "type": "Concept",
+    "notation": "-9517",
+    "prefLabel": {
+      "en": "Hakka"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-5_p00019.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "people who speak or whose ancestors spoke Hakka dialects"
+      ]
+    }
+  },
+  {
+    "id": "T5:-954",
+    "type": "Concept",
+    "notation": "-954",
+    "prefLabel": {
+      "en": "Tibeto-Burman peoples"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-5_p00019.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Naxi"
+      ],
+      "seeAlso": [
+        "Class Karen in -95",
+        "For Burmese, see -958"
+      ],
+      "classHere": [
+        "peoples who speak, or whose ancestors spoke, Tibeto-Burman languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9541",
+    "type": "Concept",
+    "notation": "-9541",
+    "prefLabel": {
+      "en": "Tibetans"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-5_p00019.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "See also-91418 for Bhutanese as a national group"
+      ],
+      "classHere": [
+        "Bhotia as an ethnic group"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9549",
+    "type": "Concept",
+    "notation": "-9549",
+    "prefLabel": {
+      "en": "Eastern Himalayan peoples"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-5_p00019.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Chepang, Newar"
+      ],
+      "seeAlso": [
+        "See also-91495 for Nepali"
+      ],
+      "classHere": [
+        "peoples who speak, or whose ancestors spoke, eastern Himalayan languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-956",
+    "type": "Concept",
+    "notation": "-956",
+    "prefLabel": {
+      "en": "Japanese"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-5_p00019.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Ryukyuans"
+      ],
+      "seeAlso": [
+        "For Ainu, see-946"
+      ]
+    }
+  },
+  {
+    "id": "T5:-957",
+    "type": "Concept",
+    "notation": "-957",
+    "prefLabel": {
+      "en": "Koreans"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-5_p00019.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-958",
+    "type": "Concept",
+    "notation": "-958",
+    "prefLabel": {
+      "en": "Burmese"
+    },
+    "page": 19,
+    "source": {
+      "fileName": "Table-5_p00019.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-959",
+    "type": "Concept",
+    "notation": "-959",
+    "prefLabel": {
+      "en": "Miscellaneous southeast Asian peoples; Munda"
+    },
+    "scope": {
+      "including": [
+        "Andamanese [formerly —9911]; peoples who speak, or whose ancestors spoke, Kadai languages, Kam-Sui languages"
+      ],
+      "classHere": [
+        "peoples who speak, or whose ancestors spoke, Daic languages"
+      ]
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9591",
+    "type": "Concept",
+    "notation": "-9591",
+    "prefLabel": {
+      "en": "Tai peoples"
+    },
+    "scope": {
+      "classHere": [
+        "peoples who speak, or whose ancestors spoke, Tai languages"
+      ]
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-95911",
+    "type": "Concept",
+    "notation": "-95911",
+    "prefLabel": {
+      "en": "Thai (Siamese)"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-95919",
+    "type": "Concept",
+    "notation": "-95919",
+    "prefLabel": {
+      "en": "Other Tai peoples"
+    },
+    "scope": {
+      "including": [
+        "Shan"
+      ],
+      "seeAlso": [
+        "For Viet-Muong peoples, see —9592"
+      ]
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-959191",
+    "type": "Concept",
+    "notation": "-959191",
+    "prefLabel": {
+      "en": "Lao"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9592",
+    "type": "Concept",
+    "notation": "-9592",
+    "prefLabel": {
+      "en": "Viet-Muong peoples"
+    },
+    "scope": {
+      "classHere": [
+        "peoples who speak, or whose ancestors spoke, Viet-Muong languages"
+      ],
+      "notes": [
+        "Class comprehensive works on Montagnards of Vietnam in —9593"
+      ]
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-95922",
+    "type": "Concept",
+    "notation": "-95922",
+    "prefLabel": {
+      "en": "Vietnamese"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9593",
+    "type": "Concept",
+    "notation": "-9593",
+    "prefLabel": {
+      "en": "Austroasiatic peoples"
+    },
+    "scope": {
+      "including": [
+        "Semang [formerly —9911]; comprehensive works on Montagnards of Vietnam"
+      ],
+      "classHere": [
+        "peoples who speak, or whose ancestors spoke, Austroasiatic languages, Mon-Khmer languages"
+      ],
+      "seeAlso": [
+        "For Viet-Muong peoples, see —9592",
+        "for Munda, see —9595",
+        "For Montagnards of a specific ethnic group, see the ethnic group, e.g., Rhade —9922"
+      ]
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-95932",
+    "type": "Concept",
+    "notation": "-95932",
+    "prefLabel": {
+      "en": "Khmer"
+    },
+    "scope": {
+      "classHere": [
+        "Khmer as an ethnic group, comprehensive works on people of Cambodia as a national group"
+      ],
+      "seeAlso": [
+        "For citizens of Cambodia belonging to another ethnic group, see the ethnic group, e.g., Jarai —9922"
+      ]
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9594",
+    "type": "Concept",
+    "notation": "-9594",
+    "prefLabel": {
+      "en": "Hmong and Yao peoples"
+    },
+    "scope": {
+      "relocations": [
+        "Relocated to —9597"
+      ]
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9595",
+    "type": "Concept",
+    "notation": "-9595",
+    "prefLabel": {
+      "en": "Munda"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9597",
+    "type": "Concept",
+    "notation": "-9597",
+    "prefLabel": {
+      "en": "Hmong and Yao peoples [formerly —9594]"
+    },
+    "scope": {
+      "classHere": [
+        "peoples who speak, or whose ancestors spoke, Hmong-Mien (Miao-Yao) languages"
+      ]
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-95972",
+    "type": "Concept",
+    "notation": "-95972",
+    "prefLabel": {
+      "en": "Hmong (Miao)"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-95978",
+    "type": "Concept",
+    "notation": "-95978",
+    "prefLabel": {
+      "en": "Yao"
+    },
+    "page": 20,
+    "source": {
+      "fileName": "table-5_p00020.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-96",
+    "type": "Concept",
+    "notation": "-96",
+    "prefLabel": {
+      "en": "Africans and people of African descent"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-5_p00021.png",
+      "span": "-96"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Blacks of African origin"
+      ],
+      "seeAlso": [
+        "For peoples who speak or whose ancestors spoke Ethiopian languages, see -928; for non-Semitic Afro-Asiatic peoples, see -93; for Malagasy, see -993"
+      ]
+    }
+  },
+  {
+    "id": "T5:-96067",
+    "type": "Concept",
+    "notation": "-96067",
+    "prefLabel": {
+      "en": "Africans of Central Africa and offshore islands"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-5_p00021.png",
+      "span": "-960 67"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Number built according to instructions at beginning of Table 5",
+        "For specific groups of African pygmies, see the specific ethnic group, e.g., Baka --96361"
+      ],
+      "classHere": [
+        "comprehensive works on African pygmies"
+      ]
+    }
+  },
+  {
+    "id": "T5:-96073",
+    "type": "Concept",
+    "notation": "-96073",
+    "prefLabel": {
+      "en": "African Americans (United States Blacks)"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-5_p00021.png",
+      "span": "-960 73"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Unless it is redundant, add 0* to -96073 and to the result add notation 1-9 from Table 2 for area, e.g., African Americans in England-96073042, African Americans in New York -960730747, but African Americans in United States -96073"
+      ],
+      "manualRefs": [
+        "T5-96073"
+      ]
+    }
+  },
+  {
+    "id": "T5:-961",
+    "type": "Concept",
+    "notation": "-961",
+    "prefLabel": {
+      "en": "Khoikhoi and San"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-5_p00021.png",
+      "span": "-961"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-963",
+    "type": "Concept",
+    "notation": "-963",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Niger-Congo languages"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-5_p00021.png",
+      "span": "-963"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including peoples who speak, or whose ancestors spoke, Ijoid languages, Kordofanian languages; Dogon"
+      ],
+      "addToBaseRules": [
+        "Add to base number -963 the numbers following -963 in notation 9632-9639 from Table 6, e.g., Zulu-963986; then add further as instructed at beginning of Table 5, e.g., Zulu in Malawi -96398606897"
+      ]
+    }
+  },
+  {
+    "id": "T5:-96391",
+    "type": "Concept",
+    "notation": "-96391",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, central Bantu languages"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-5_p00021.png",
+      "span": "-963 91"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Number built according to instructions under-963"
+      ],
+      "relocations": [
+        "Peoples who speak, or whose ancestors spoke, Fipa-Mambwe languages relocated to -96394"
+      ]
+    }
+  },
+  {
+    "id": "T5:-963915",
+    "type": "Concept",
+    "notation": "-963915",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, languages of Bemba group"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-5_p00021.png",
+      "span": "-963 915"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Number built according to instructions under-963"
+      ],
+      "relocations": [
+        "People who speak, or whose ancestors spoke, Bwile relocated to -96393"
+      ]
+    }
+  },
+  {
+    "id": "T5:-96393",
+    "type": "Concept",
+    "notation": "-96393",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, central western Bantu languages"
+    },
+    "page": 21,
+    "source": {
+      "fileName": "Table-5_p00021.png",
+      "span": "-963 93"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including people who speak, or whose ancestors spoke, Bwile [formerly -963915]"
+      ],
+      "notes": [
+        "Number built according to instructions under-963"
+      ]
+    }
+  },
+  {
+    "id": "T5:-96394",
+    "type": "Concept",
+    "notation": "-96394",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, northern Bantu languages"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-5_p00022.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Number built according to instructions under-963",
+        "Including peoples who speak, or whose ancestors spoke,\nFipa-Mambwe languages [formerly -96391]"
+      ]
+    }
+  },
+  {
+    "id": "T5:-965",
+    "type": "Concept",
+    "notation": "-965",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Nilo-Saharan languages"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-5_p00022.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Nilotic peoples, Nubians, Luo, Songhai"
+      ],
+      "notes": [
+        "Class here peoples who speak or whose ancestors spoke Chari-Nile\n(Macrosudanic) languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-966-968",
+    "type": "Concept",
+    "notation": "-966-968",
+    "prefLabel": {
+      "en": "Regional and national groups in Africa"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-5_p00022.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Citizens of independent and partly independent jurisdictions; former\ncitizens and descendants of citizens of these jurisdictions",
+        "Class nationals of a specific ethnolinguistic group with the group, e.g.,\nSouth Africans of British origin -28, Nigerian Hausa -9370669, Nigerian\nIgbo-963320669",
+        "See also-9276 for national groups of African Arabs, e.g., modern\nEgyptians-92762, Sudanese-927624; also -928 for Ethiopians as\na national group; also -9289 for Eritreans as a national group; also\n-931 for ancient Egyptians as a national group"
+      ],
+      "seeAlso": [
+        "-9276 for national groups of African Arabs, e.g., modern\nEgyptians-92762, Sudanese-927624; also -928 for Ethiopians as\na national group; also -9289 for Eritreans as a national group; also\n-931 for ancient Egyptians as a national group"
+      ],
+      "addToBaseRules": [
+        "Add to base number -96 the numbers following -6 in notation 66-68\nfrom Table 2, e.g., West Africans-966, Nigerians -9669; then add\nfurther as instructed at beginning of Table 5, e.g., Nigerians in the United\nKingdom and British citizens of Nigerian origin-9669041; however,\nSomali as a national group relocated from-96773 to-9354"
+      ]
+    }
+  },
+  {
+    "id": "T5:-969",
+    "type": "Concept",
+    "notation": "-969",
+    "prefLabel": {
+      "en": "Other regional and national groups of largely African descent"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-5_p00022.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Citizens of independent and partly independent jurisdictions outside Africa;\nformer citizens and descendants of citizens of these jurisdictions",
+        "Class Cubans in 687291; class Dominicans (Dominican Republic) in\n-687293; class Puerto Ricans in-687295; class minority groups of\nAfrican descent in -9604-9609, plus notation from Table 2 as instructed\nat beginning of Table 5 to show where the groups are located, e.g., people\nof African descent in Canada -96071. Class nationals of a specific\nethnolinguistic group with the group, e.g., Bahamians of English origin\n-2107296"
+      ],
+      "addToBaseRules": [
+        "Add to base number -969 notation 4-9 from Table 2, e.g., West Indians\n-969729, Haitians -9697294, Virgin Islanders -96972972; then add\nfurther as instructed at beginning of Table 5, e.g., Haitians in the United\nStates -9697294073"
+      ]
+    }
+  },
+  {
+    "id": "T5:-969729",
+    "type": "Concept",
+    "notation": "-969729",
+    "prefLabel": {
+      "en": "Caribbean peoples of largely African descent"
+    },
+    "page": 22,
+    "source": {
+      "fileName": "Table-5_p00022.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Number built according to instructions under-969",
+        "For Caribbean peoples of other ethnic groups, see the ethnic\ngroup, e.g., Spanish Americans -68729"
+      ],
+      "seeAlso": [
+        "For Caribbean peoples of other ethnic groups, see the ethnic\ngroup, e.g., Spanish Americans -68729"
+      ],
+      "tableRefs": [
+        "Number built according to instructions under-969"
+      ],
+      "classHere": [
+        "comprehensive works on Caribbean peoples"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97",
+    "type": "Concept",
+    "notation": "-97",
+    "prefLabel": {
+      "en": "North American native peoples"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-5_p00023.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, North American native languages; comprehensive works on Woodland Indians, on North and South American native peoples",
+        "Class national groups of modern Central America where Spanish is an official language in -68728 even if the majority of their population is of North American native origin, e.g., Guatemalans as a national group -687281. Class a specific group of Woodland Indians with the group according to the language that the Indians speak or their ancestors spoke, e.g., Iroquois -9755"
+      ],
+      "seeAlso": [
+        "For South American native peoples, see -98"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97078",
+    "type": "Concept",
+    "notation": "-97078",
+    "prefLabel": {
+      "en": "Indians of Western United States"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-5_p00023.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Number built according to instructions at beginning of Table 5"
+      ],
+      "seeAlso": [
+        "For a specific group of Plains Indians, see the group according to the language that the Indians speak or their ancestors spoke, e.g., Cheyenne -97353"
+      ],
+      "tableRefs": [
+        "Class here Plains Indians"
+      ]
+    }
+  },
+  {
+    "id": "T5:-971",
+    "type": "Concept",
+    "notation": "-971",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Inuit, Yupik, Aleut languages"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-5_p00023.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, Eskimo languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:--9712",
+    "type": "Concept",
+    "notation": "--9712",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Inuit (Inuktitut) languages"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-5_p00023.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Greenlandic Inuit, Inupiat"
+      ],
+      "notes": [
+        "Class comprehensive works on peoples who speak, or whose ancestors spoke, Inuit and Yupik languages in -971"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97124",
+    "type": "Concept",
+    "notation": "-97124",
+    "prefLabel": {
+      "en": "Eastern Canadian Inuit"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-5_p00023.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9714",
+    "type": "Concept",
+    "notation": "-9714",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Yupik languages"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-5_p00023.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including peoples who speak, or whose ancestors spoke, Siberian Yupik languages; Yuit"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9719",
+    "type": "Concept",
+    "notation": "-9719",
+    "prefLabel": {
+      "en": "Aleut"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-5_p00023.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-972",
+    "type": "Concept",
+    "notation": "-972",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Na-Dene languages"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-5_p00023.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Chipewyan, Gwich'in, Hupa, Koyukon, Tinne"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9725",
+    "type": "Concept",
+    "notation": "-9725",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Apachean languages"
+    },
+    "page": 23,
+    "source": {
+      "fileName": "Table-5_p00023.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Jicarilla Apache, Kiowa Apache"
+      ],
+      "seeAlso": [
+        "For Navajo, see -9726",
+        "See also -97492 for Kiowa"
+      ],
+      "tableRefs": [
+        "Class here Apache"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97256",
+    "type": "Concept",
+    "notation": "-97256",
+    "prefLabel": {
+      "en": "Chiricahua Apache and Mescalero Apache"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9726",
+    "type": "Concept",
+    "notation": "-9726",
+    "prefLabel": {
+      "en": "Navajo (Diné)"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for either or both topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9727",
+    "type": "Concept",
+    "notation": "-9727",
+    "prefLabel": {
+      "en": "Tlingit"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9728",
+    "type": "Concept",
+    "notation": "-9728",
+    "prefLabel": {
+      "en": "Haida"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-973",
+    "type": "Concept",
+    "notation": "-973",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Algic, Muskogean languages"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Lumbee, Yurok"
+      ],
+      "notes": [
+        "Subdivisions are added for peoples who speak, or whose ancestors spoke, Algic languages and peoples who speak, or whose ancestors spoke, Muskogean languages together; for peoples who speak, or whose ancestors spoke, Algic languages alone"
+      ],
+      "tableRefs": [
+        "Class here peoples who speak, or whose ancestors spoke, Algonquian languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9731-9735",
+    "type": "Concept",
+    "notation": "-9731-9735",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Algonquian languages"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class comprehensive works in -973"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9731",
+    "type": "Concept",
+    "notation": "-9731",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Central Algonquian languages"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "For peoples who speak, or whose ancestors spoke, Cree-Montaignais-Naskapi languages, see --9732; for peoples who speak, or whose ancestors spoke, Ojibwa languages, see -9733"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97312",
+    "type": "Concept",
+    "notation": "-97312",
+    "prefLabel": {
+      "en": "Kickapoo"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97313",
+    "type": "Concept",
+    "notation": "-97313",
+    "prefLabel": {
+      "en": "Menomini"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97314",
+    "type": "Concept",
+    "notation": "-97314",
+    "prefLabel": {
+      "en": "Mesquakie"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here Fox"
+      ]
+    }
+  },
+  {
+    "id": "T5:-973149",
+    "type": "Concept",
+    "notation": "-973149",
+    "prefLabel": {
+      "en": "Sauk (Sac)"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97315",
+    "type": "Concept",
+    "notation": "-97315",
+    "prefLabel": {
+      "en": "Miami"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Illinois"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97316",
+    "type": "Concept",
+    "notation": "-97316",
+    "prefLabel": {
+      "en": "Potawatomi"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97317",
+    "type": "Concept",
+    "notation": "-97317",
+    "prefLabel": {
+      "en": "Shawnee"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9732",
+    "type": "Concept",
+    "notation": "-9732",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke,\nCree-Montagnais-Naskapi languages"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here Innu"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97323",
+    "type": "Concept",
+    "notation": "-97323",
+    "prefLabel": {
+      "en": "Cree"
+    },
+    "page": 24,
+    "source": {
+      "fileName": "Table-5_p00024.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9733",
+    "type": "Concept",
+    "notation": "-9733",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Ojibwa languages"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Algonquin"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97333",
+    "type": "Concept",
+    "notation": "-97333",
+    "prefLabel": {
+      "en": "Ojibwa"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Chippewa"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97336",
+    "type": "Concept",
+    "notation": "-97336",
+    "prefLabel": {
+      "en": "Ottawa"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9734",
+    "type": "Concept",
+    "notation": "-9734",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, eastern Algonquian languages"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Abnaki, Malecite, Passamaquoddy"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97343",
+    "type": "Concept",
+    "notation": "-97343",
+    "prefLabel": {
+      "en": "Micmac"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97344",
+    "type": "Concept",
+    "notation": "-97344",
+    "prefLabel": {
+      "en": "Mohegan, Montauk, Narragansett, Pequot, Stockbridge"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for a combination of two or more topics in heading, for Mohegan alone, for Montauk alone, for Narragansett alone, for Pequot alone"
+      ]
+    }
+  },
+  {
+    "id": "T5:-973449",
+    "type": "Concept",
+    "notation": "-973449",
+    "prefLabel": {
+      "en": "Stockbridge"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97345",
+    "type": "Concept",
+    "notation": "-97345",
+    "prefLabel": {
+      "en": "Delaware (Lenni Lenape)"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Munsee"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97347",
+    "type": "Concept",
+    "notation": "-97347",
+    "prefLabel": {
+      "en": "Powhatan"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97348",
+    "type": "Concept",
+    "notation": "-97348",
+    "prefLabel": {
+      "en": "Wampanoag"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Massachuset"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9735",
+    "type": "Concept",
+    "notation": "-9735",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Plains Algonquian languages"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97352",
+    "type": "Concept",
+    "notation": "-97352",
+    "prefLabel": {
+      "en": "Blackfoot"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Kainah, Piegan, Siksika"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97353",
+    "type": "Concept",
+    "notation": "-97353",
+    "prefLabel": {
+      "en": "Cheyenne"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97354",
+    "type": "Concept",
+    "notation": "-97354",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Arapaho languages"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Gros Ventre (Atsina)"
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "T5:-9738",
+    "type": "Concept",
+    "notation": "-9738",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Muskogean languages"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Arapaho"
+      ],
+      "including": [
+        "Including Koasati, Mikasuki"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97385",
+    "type": "Concept",
+    "notation": "-97385",
+    "prefLabel": {
+      "en": "Muskogee (Creek) and Seminole"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for Muskogee and Seminole together, for Muskogee alone"
+      ]
+    }
+  },
+  {
+    "id": "T5:-973859",
+    "type": "Concept",
+    "notation": "-973859",
+    "prefLabel": {
+      "en": "Seminole"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97386",
+    "type": "Concept",
+    "notation": "-97386",
+    "prefLabel": {
+      "en": "Chickasaw"
+    },
+    "page": 25,
+    "source": {
+      "fileName": "Table-5_p00025.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97387",
+    "type": "Concept",
+    "notation": "-97387",
+    "prefLabel": {
+      "en": "Choctaw"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-974",
+    "type": "Concept",
+    "notation": "-974",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Penutian, Mayan, Mixe-Zoque, Uto-Aztecan, Kiowa Tanoan languages"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here Pueblo Indians"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9741",
+    "type": "Concept",
+    "notation": "-9741",
+    "prefLabel": {
+      "en": "Class a specific group of Pueblo Indians with the group according to the language that the Indians speak or their ancestors spoke, e.g., Zuni-97994"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9741",
+    "type": "Concept",
+    "notation": "-9741",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Penutian languages"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Chinook, Maidu"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97412",
+    "type": "Concept",
+    "notation": "-97412",
+    "prefLabel": {
+      "en": "Class Zuni in-97994; class peoples who speak, or whose ancestors spoke, Araucanian languages in -9872; class peoples who speak, or whose ancestors spoke, Uru-Chipaya languages in -989"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97412",
+    "type": "Concept",
+    "notation": "-97412",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Plateau Penutian, Tsimshian languages"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Niska, Umatilla"
+      ]
+    }
+  },
+  {
+    "id": "T5:-974122",
+    "type": "Concept",
+    "notation": "-974122",
+    "prefLabel": {
+      "en": "Klamath and Modoc"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for either or both topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T5:-974124",
+    "type": "Concept",
+    "notation": "-974124",
+    "prefLabel": {
+      "en": "Nez Percé"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-974127",
+    "type": "Concept",
+    "notation": "-974127",
+    "prefLabel": {
+      "en": "Yakama"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-974128",
+    "type": "Concept",
+    "notation": "-974128",
+    "prefLabel": {
+      "en": "Tsimshian"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97413",
+    "type": "Concept",
+    "notation": "-97413",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Yok-Utian languages"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Costanoan, Yokuts"
+      ]
+    }
+  },
+  {
+    "id": "T5:-974133",
+    "type": "Concept",
+    "notation": "-974133",
+    "prefLabel": {
+      "en": "Miwok"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9742",
+    "type": "Concept",
+    "notation": "-9742",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Mayan languages"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Huastec, Kekchí, Mam, Tzutujil"
+      ],
+      "classHere": [
+        "Mayas; peoples who speak, or whose ancestors spoke, Quichean-Mamean, Quichean languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97422",
+    "type": "Concept",
+    "notation": "-97422",
+    "prefLabel": {
+      "en": "Cakchikel"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97423",
+    "type": "Concept",
+    "notation": "-97423",
+    "prefLabel": {
+      "en": "Quiché"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97427",
+    "type": "Concept",
+    "notation": "-97427",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Yucatecan languages"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Itzá, Lacandón, Mopán"
+      ],
+      "classHere": [
+        "Yucatecan Maya"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97428",
+    "type": "Concept",
+    "notation": "-97428",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Cholan-Tzeltalan languages"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Tzeltal"
+      ]
+    }
+  },
+  {
+    "id": "T5:-974287",
+    "type": "Concept",
+    "notation": "-974287",
+    "prefLabel": {
+      "en": "Tzotzil"
+    },
+    "page": 26,
+    "source": {
+      "fileName": "Table-5_p00026.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9743",
+    "type": "Concept",
+    "notation": "-9743",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Mixe-Zoque languages"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "T5\n-974 3\nPeoples who speak, or whose ancestors spoke, Mixe-Zoque\nlanguages"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9745",
+    "type": "Concept",
+    "notation": "-9745",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Uto-Aztecan languages"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 5\nPeoples who speak, or whose ancestors spoke, Uto-Aztecan\nlanguages"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Cahuilla, Luiseño"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97452",
+    "type": "Concept",
+    "notation": "-97452",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Aztecan languages"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 52\nPeoples who speak, or whose ancestors spoke, Aztecan languages"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here Nahuas (Aztecs)"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97454",
+    "type": "Concept",
+    "notation": "-97454",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Sonoran languages"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 54\nPeoples who speak, or whose ancestors spoke, Sonoran languages"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "For peoples who speak, or whose ancestors spoke, Tepiman languages, see-97455"
+      ]
+    }
+  },
+  {
+    "id": "T5:-974542",
+    "type": "Concept",
+    "notation": "-974542",
+    "prefLabel": {
+      "en": "Yaqui"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 542\nYaqui"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-974544",
+    "type": "Concept",
+    "notation": "-974544",
+    "prefLabel": {
+      "en": "Huichol"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 544\nHuichol"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-974546",
+    "type": "Concept",
+    "notation": "-974546",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Tarahumaran languages"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 546\nPeoples who speak, or whose ancestors spoke, Tarahumaran\nlanguages"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here Tarahumara"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97455",
+    "type": "Concept",
+    "notation": "-97455",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Tepiman languages"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 55\nPeoples who speak, or whose ancestors spoke, Tepiman languages"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-974552",
+    "type": "Concept",
+    "notation": "-974552",
+    "prefLabel": {
+      "en": "Tohono O'Odham and Akimel O'Odham"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 552\nTohono O'Odham and Akimel O'Odham"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for Tohono O'Odham and Akimel\nO'Odham together, for Tohono O'Odham alone"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9745529",
+    "type": "Concept",
+    "notation": "-9745529",
+    "prefLabel": {
+      "en": "Akimel O'Odham (Pima)"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 552 9\nAkimel O'Odham (Pima)"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97457",
+    "type": "Concept",
+    "notation": "-97457",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Numic languages"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 57\nPeoples who speak, or whose ancestors spoke, Numic languages"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Mono"
+      ]
+    }
+  },
+  {
+    "id": "T5:-974572",
+    "type": "Concept",
+    "notation": "-974572",
+    "prefLabel": {
+      "en": "Comanche"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 572\nComanche"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-974574",
+    "type": "Concept",
+    "notation": "-974574",
+    "prefLabel": {
+      "en": "Shoshoni"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 574\nShoshoni"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-974576",
+    "type": "Concept",
+    "notation": "-974576",
+    "prefLabel": {
+      "en": "Ute and Southern Paiute"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 576\nUte and Southern Paiute"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Chemehuevi"
+      ],
+      "notes": [
+        "Subdivisions are added for Ute and Southern Paiute together, for\nUte alone"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9745769",
+    "type": "Concept",
+    "notation": "-9745769",
+    "prefLabel": {
+      "en": "Southern Paiute"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 576 9\nSouthern Paiute"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on Paiute"
+      ],
+      "seeAlso": [
+        "For Northern Paiute, see-974577"
+      ]
+    }
+  },
+  {
+    "id": "T5:-974577",
+    "type": "Concept",
+    "notation": "-974577",
+    "prefLabel": {
+      "en": "Northern Paiute"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 577\nNorthern Paiute"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here Bannock"
+      ],
+      "notes": [
+        "Class comprehensive works on Paiute in-9745769"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97458",
+    "type": "Concept",
+    "notation": "-97458",
+    "prefLabel": {
+      "en": "Hopi"
+    },
+    "page": 27,
+    "source": {
+      "fileName": "Table-5_p00027.png",
+      "span": "-974 58\nHopi"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9749",
+    "type": "Concept",
+    "notation": "-9749",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Kiowa Tanoan languages (Tanoan languages)"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97492",
+    "type": "Concept",
+    "notation": "-97492",
+    "prefLabel": {
+      "en": "Kiowa"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "-9725 for Kiowa Apache"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97494",
+    "type": "Concept",
+    "notation": "-97494",
+    "prefLabel": {
+      "en": "Tewa"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97496",
+    "type": "Concept",
+    "notation": "-97496",
+    "prefLabel": {
+      "en": "Northern Tiwa"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Taos, comprehensive works on Northern and Southern Tiwa"
+      ],
+      "seeAlso": [
+        "For Southern Tiwa, see-97497"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97497",
+    "type": "Concept",
+    "notation": "-97497",
+    "prefLabel": {
+      "en": "Southern Tiwa"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Isleta",
+        "comprehensive works on Northern and Southern Tiwa in -97496"
+      ]
+    }
+  },
+  {
+    "id": "T5:-975",
+    "type": "Concept",
+    "notation": "-975",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Siouan, Iroquoian, Hokan, Chumash, Yuki languages"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "peoples who speak, or whose ancestors spoke, Keresan languages in-979; class peoples who speak, or whose ancestors spoke, Caddoan languages in -9793"
+      ],
+      "seeAlso": [
+        "-979 for Yuchi"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9752",
+    "type": "Concept",
+    "notation": "-9752",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Siouan languages"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Catawba, Iowa, Oto"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97522",
+    "type": "Concept",
+    "notation": "-97522",
+    "prefLabel": {
+      "en": "Mandan"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97524",
+    "type": "Concept",
+    "notation": "-97524",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Dakota languages"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Assiniboine"
+      ]
+    }
+  },
+  {
+    "id": "T5:-975243",
+    "type": "Concept",
+    "notation": "-975243",
+    "prefLabel": {
+      "en": "Dakota"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-975244",
+    "type": "Concept",
+    "notation": "-975244",
+    "prefLabel": {
+      "en": "Lakota (Teton)"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Oglala"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97525",
+    "type": "Concept",
+    "notation": "-97525",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Dhegiha languages"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Kansa, Quapaw"
+      ]
+    }
+  },
+  {
+    "id": "T5:-975253",
+    "type": "Concept",
+    "notation": "-975253",
+    "prefLabel": {
+      "en": "Omaha and Ponca"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for Omaha and Ponca together, for Omaha alone"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9752539",
+    "type": "Concept",
+    "notation": "-9752539",
+    "prefLabel": {
+      "en": "Ponca"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-975254",
+    "type": "Concept",
+    "notation": "-975254",
+    "prefLabel": {
+      "en": "Osage"
+    },
+    "page": 28,
+    "source": {
+      "fileName": "Table-5_p00028.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-97526",
+    "type": "Concept",
+    "notation": "-975 26",
+    "prefLabel": {
+      "en": "Winnebago"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Ho-Chunk"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97527",
+    "type": "Concept",
+    "notation": "-975 27",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Missouri Valley Siouan languages"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-975272",
+    "type": "Concept",
+    "notation": "-975 272",
+    "prefLabel": {
+      "en": "Crow"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-975274",
+    "type": "Concept",
+    "notation": "-975 274",
+    "prefLabel": {
+      "en": "Hidatsa"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9755",
+    "type": "Concept",
+    "notation": "-975 5",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Iroquoian languages"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Tuscarora"
+      ],
+      "tableRefs": [
+        "Class here Iroquois"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97554",
+    "type": "Concept",
+    "notation": "-975 54",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Five Nations languages"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Cayuga, Onondaga"
+      ]
+    }
+  },
+  {
+    "id": "T5:-975542",
+    "type": "Concept",
+    "notation": "-975 542",
+    "prefLabel": {
+      "en": "Mohawk"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-975543",
+    "type": "Concept",
+    "notation": "-975 543",
+    "prefLabel": {
+      "en": "Oneida"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-975546",
+    "type": "Concept",
+    "notation": "-975 546",
+    "prefLabel": {
+      "en": "Seneca"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97555",
+    "type": "Concept",
+    "notation": "-975 55",
+    "prefLabel": {
+      "en": "Wyandot"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Huron"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97557",
+    "type": "Concept",
+    "notation": "-975 57",
+    "prefLabel": {
+      "en": "Cherokee"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9757",
+    "type": "Concept",
+    "notation": "-975 7",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Hokan languages"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Seri"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97572",
+    "type": "Concept",
+    "notation": "-975 72",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Yuman languages"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Diegueño, Maricopa, Quechan (Yuma)"
+      ]
+    }
+  },
+  {
+    "id": "T5:-975722",
+    "type": "Concept",
+    "notation": "-975 722",
+    "prefLabel": {
+      "en": "Mohave"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-975724",
+    "type": "Concept",
+    "notation": "-975 724",
+    "prefLabel": {
+      "en": "Havasupai, Walapai, Yavapai"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for any or all topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97574",
+    "type": "Concept",
+    "notation": "-975 74",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Pomo languages"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97576",
+    "type": "Concept",
+    "notation": "-975 76",
+    "prefLabel": {
+      "en": "Washo"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9758",
+    "type": "Concept",
+    "notation": "-975 8",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Chumash languages"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-976",
+    "type": "Concept",
+    "notation": "-976",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Oto-Manguean languages"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Mazatec, Otomí"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9763",
+    "type": "Concept",
+    "notation": "-976 3",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Mixtecan languages"
+    },
+    "page": 29,
+    "source": {
+      "fileName": "Table-5_p00029.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Mixtec"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9768",
+    "type": "Concept",
+    "notation": "-9768",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Zapotecan languages"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Zapotec"
+      ]
+    }
+  },
+  {
+    "id": "T5:-978",
+    "type": "Concept",
+    "notation": "-978",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Chibchan languages of Central America, Misumalpan languages"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for peoples who speak, or whose ancestors spoke,\nChibchan languages of Central America and peoples who speak, or whose\nancestors spoke, Misumalpan languages together; for peoples who speak, or\nwhose ancestors spoke, Chibchan languages of Central America alone",
+        "Class comprehensive works on peoples who speak, or whose ancestors\nspoke, Chibchan languages in-982"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9783",
+    "type": "Concept",
+    "notation": "-9783",
+    "prefLabel": {
+      "en": "San Blas Kuna (San Blas Cuna)"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9788",
+    "type": "Concept",
+    "notation": "-9788",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Misumalpan\nlanguages"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97882",
+    "type": "Concept",
+    "notation": "-97882",
+    "prefLabel": {
+      "en": "Mískito"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-979",
+    "type": "Concept",
+    "notation": "-979",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, other North American\nlanguages"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including peoples who speak, or whose ancestors spoke, Chimakuan,\nCoahuiltecan, Gulf, Huavean, Keres, Subtiaba-Tlapanec, Totonacan\nlanguages; peoples who speak, or whose ancestors spoke, Choco languages\nof Central America",
+        "Including Cuitlateco, Lenca, Xinca, Yuchi"
+      ],
+      "notes": [
+        "Class comprehensive works on peoples who speak, or whose ancestors\nspoke, Choco languages in-989"
+      ],
+      "seeAlso": [
+        "See also-975 for peoples who speak, or whose ancestors spoke, Yuki\nlanguages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9792",
+    "type": "Concept",
+    "notation": "-9792",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Arawakan languages\nof Central America and West Indies"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Garífuna (Black Carib)"
+      ],
+      "notes": [
+        "Class comprehensive works on peoples who speak, or whose ancestors\nspoke, Arawakan languages in -9839"
+      ],
+      "seeAlso": [
+        "See also-9842 for peoples who speak, or whose ancestors spoke,\nCarib languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97922",
+    "type": "Concept",
+    "notation": "-97922",
+    "prefLabel": {
+      "en": "Taino"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9793",
+    "type": "Concept",
+    "notation": "-9793",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Caddoan languages"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Caddo, Wichita"
+      ]
+    }
+  },
+  {
+    "id": "T5:-97932",
+    "type": "Concept",
+    "notation": "-97932",
+    "prefLabel": {
+      "en": "Arikara"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97933",
+    "type": "Concept",
+    "notation": "-97933",
+    "prefLabel": {
+      "en": "Pawnee"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9794",
+    "type": "Concept",
+    "notation": "-9794",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Salishan languages"
+    },
+    "page": 30,
+    "source": {
+      "fileName": "Table-5_p00030.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97943",
+    "type": "Concept",
+    "notation": "-97943",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Interior Salish languages"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Coeur d'Alene (Skitswish), Shuswap, Spokane"
+      ]
+    }
+  },
+  {
+    "id": "T5:-979435",
+    "type": "Concept",
+    "notation": "-979435",
+    "prefLabel": {
+      "en": "Kalispel and Pend d'Oreille (Salish)"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for either or both topics in heading"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9795",
+    "type": "Concept",
+    "notation": "-9795",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Wakashan languages"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97953",
+    "type": "Concept",
+    "notation": "-97953",
+    "prefLabel": {
+      "en": "Kwakiutl"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97954",
+    "type": "Concept",
+    "notation": "-97954",
+    "prefLabel": {
+      "en": "Makah"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97955",
+    "type": "Concept",
+    "notation": "-97955",
+    "prefLabel": {
+      "en": "Nootka"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9796",
+    "type": "Concept",
+    "notation": "-9796",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Tarascan languages"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Purépecha (Tarasco)"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9799",
+    "type": "Concept",
+    "notation": "-9799",
+    "prefLabel": {
+      "en": "Kutenai and Zuni"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97992",
+    "type": "Concept",
+    "notation": "-97992",
+    "prefLabel": {
+      "en": "Kutenai"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-97994",
+    "type": "Concept",
+    "notation": "-97994",
+    "prefLabel": {
+      "en": "Zuni"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-98",
+    "type": "Concept",
+    "notation": "-98",
+    "prefLabel": {
+      "en": "South American native peoples"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, South American native languages"
+      ],
+      "notes": [
+        "Class national groups of modern South America where Spanish is an official language in-688 even if the majority of their population is of South American native origin, e.g., Peruvians as a national group -6885"
+      ]
+    }
+  },
+  {
+    "id": "T5:-982",
+    "type": "Concept",
+    "notation": "-982",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Chibchan, Barbacoan languages; Paez"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class Warao in -989; class peoples who speak, or whose ancestors spoke, Yanomam languages in -9892"
+      ],
+      "seeAlso": [
+        "For peoples who speak, or whose ancestors spoke, Chibchan languages of Central America, see -978"
+      ]
+    }
+  },
+  {
+    "id": "T5:-983",
+    "type": "Concept",
+    "notation": "-983",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Quechuan, Aymaran, Tucanoan, Jivaroan, Tupi, Arawakan languages"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9832",
+    "type": "Concept",
+    "notation": "-9832",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Quechuan and Aymaran languages"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-98323",
+    "type": "Concept",
+    "notation": "-98323",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Quechuan (Kechuan) languages"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Incas, Quechua (Kechua)"
+      ],
+      "notes": [
+        "Class peoples who speak, or whose ancestors spoke, Aymaran languages in-98324"
+      ]
+    }
+  },
+  {
+    "id": "T5:-98324",
+    "type": "Concept",
+    "notation": "-98324",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Aymaran languages"
+    },
+    "page": 31,
+    "source": {
+      "fileName": "Table-5_p00031.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Aymara"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9835",
+    "type": "Concept",
+    "notation": "-9835",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Tucanoan languages"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Tucano"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9837",
+    "type": "Concept",
+    "notation": "-9837",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Jivaroan languages"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class Yaruro in -989"
+      ]
+    }
+  },
+  {
+    "id": "T5:-98372",
+    "type": "Concept",
+    "notation": "-98372",
+    "prefLabel": {
+      "en": "Shuar"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9838",
+    "type": "Concept",
+    "notation": "-9838",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Tupí languages"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, Tupí-Guaraní languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-98382",
+    "type": "Concept",
+    "notation": "-98382",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, languages in subgroups I and II of the Tupi-Guaraní family"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including eastern and western Bolivian Guaraní; Mbyá Guaraní"
+      ]
+    }
+  },
+  {
+    "id": "T5:-983822",
+    "type": "Concept",
+    "notation": "-983822",
+    "prefLabel": {
+      "en": "Paraguayan Guaraní"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-983829",
+    "type": "Concept",
+    "notation": "-983829",
+    "prefLabel": {
+      "en": "Tupí (Nhengatu)"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "relocations": [
+        "Relocated to -983832"
+      ]
+    }
+  },
+  {
+    "id": "T5:-98383",
+    "type": "Concept",
+    "notation": "-98383",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, languages in subgroup III of the Tupí-Guaraní family"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Tupinambá"
+      ]
+    }
+  },
+  {
+    "id": "T5:-983832",
+    "type": "Concept",
+    "notation": "-983832",
+    "prefLabel": {
+      "en": "Tupí (Nhengatu) [formerly -983829]"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9839",
+    "type": "Concept",
+    "notation": "-9839",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Arawakan languages"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Goajiro"
+      ],
+      "classHere": [
+        "comprehensive works on peoples who speak, or whose ancestors spoke, Arawakan languages of South America and peoples who speak, or whose ancestors spoke, Arawakan languages of Central America and West Indies"
+      ]
+    }
+  },
+  {
+    "id": "T5:-984",
+    "type": "Concept",
+    "notation": "-984",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Carib, Macro-Gê, Nambiquaran, Panoan languages"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "classHere": [
+        "Class peoples who speak, or whose ancestors spoke, Mataco-Guaicuru languages in-987; class peoples who speak, or whose ancestors spoke, Tacanan, Witotoan languages in -989"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9842",
+    "type": "Concept",
+    "notation": "-9842",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Carib languages"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "seeAlso": [
+        "See also --9792 for Island Carib, Black Carib"
+      ]
+    }
+  },
+  {
+    "id": "T5:-98422",
+    "type": "Concept",
+    "notation": "-98422",
+    "prefLabel": {
+      "en": "Carib (Galibi)"
+    },
+    "page": 32,
+    "source": {
+      "fileName": "Table-5_p00032.png",
+      "span": "string"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-987",
+    "type": "Concept",
+    "notation": "-987",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Araucanian, Alacalufan, Chon, Lule-Vilela, Mataco-Guaicuru languages"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Ona"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9872",
+    "type": "Concept",
+    "notation": "-9872",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Araucanian languages"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Mapudungu (Mapuche)"
+      ]
+    }
+  },
+  {
+    "id": "T5:-989",
+    "type": "Concept",
+    "notation": "-989",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, other South American languages"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including peoples who speak, or whose ancestors spoke, Arauan,\nArutani-Sape, Cahuapanan, Chapacura-Wanham, Choco, Guahiban,\nHarakmbet, Katukinan, Maku, Mascoian, Mosetenan, Mura, Peba-Yaguan,\nSalivan, Tacanan, Uru-Chipaya, Witotoan, Zamucoan, Zaparoan languages",
+        "Including Warao, Yaruro"
+      ],
+      "seeAlso": [
+        "For peoples who speak, or whose ancestors spoke, Choco languages of\nCentral America, see --979"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9892",
+    "type": "Concept",
+    "notation": "-9892",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Yanomam languages"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here Yanomamo"
+      ]
+    }
+  },
+  {
+    "id": "T5:-99",
+    "type": "Concept",
+    "notation": "-99",
+    "prefLabel": {
+      "en": "Papuans; Aboriginal Australians and Tasmanians;\nMalayo-Polynesian and related peoples; miscellaneous peoples"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-991",
+    "type": "Concept",
+    "notation": "-991",
+    "prefLabel": {
+      "en": "Papuans; Aboriginal Australians and Tasmanians"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9911",
+    "type": "Concept",
+    "notation": "-[9911]",
+    "prefLabel": {
+      "en": "Andamanese, Semang, Aeta"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "relocations": [
+        "Andamanese relocated to --959; Semang relocated to -9593; Aeta\nrelocated to -9921"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9912",
+    "type": "Concept",
+    "notation": "-9912",
+    "prefLabel": {
+      "en": "Papuans"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, Papuan\nlanguages; Papua New Guineans as a national group",
+        "Class peoples of New Guinea who speak, or whose ancestors spoke,\neastern Malayo-Polynesian languages in-995"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9915",
+    "type": "Concept",
+    "notation": "-9915",
+    "prefLabel": {
+      "en": "Aboriginal Australians and Tasmanians"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Subdivisions are added for Aboriginal Australians and Tasmanians\ntogether, for Aboriginal Australians alone"
+      ],
+      "seeAlso": [
+        "For peoples of Australia who speak, or whose ancestors spoke,\nPapuan languages, see -9912"
+      ]
+    }
+  },
+  {
+    "id": "T5:-99159",
+    "type": "Concept",
+    "notation": "-99159",
+    "prefLabel": {
+      "en": "Aboriginal Tasmanians"
+    },
+    "page": 33,
+    "source": {
+      "fileName": "Table-5_p00033.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-992",
+    "type": "Concept",
+    "notation": "-992",
+    "prefLabel": {
+      "en": "Malayo-Polynesian and related peoples"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke,\nMalayo-Polynesian languages; comprehensive works on peoples who\nspeak, or whose ancestors spoke, Austronesian languages"
+      ],
+      "seeAlso": [
+        "For Malagasy, see -993; for peoples who speak, or whose ancestors\nspoke, eastern Malayo-Polynesian languages, see -995"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9921",
+    "type": "Concept",
+    "notation": "-9921",
+    "prefLabel": {
+      "en": "Filipinos"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Aeta [formerly -9911]"
+      ],
+      "seeAlso": [
+        "For Philippine citizens of non-Filipino ethnic groups, see the ethnic\ngroup, e.g., Philippine citizens of Chinese origin-9510599"
+      ],
+      "classHere": [
+        "people of the Philippines as a national group"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9922",
+    "type": "Concept",
+    "notation": "-9922",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Malayo-Polynesian\nlanguages of Indonesia, Malaysia, Singapore, Brunei, East Timor;\npeoples who speak, or whose ancestors spoke, Chamic languages"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Former heading: Peoples who speak, or whose ancestors spoke,\nIndonesian and Chamic languages"
+      ],
+      "seeAlso": [
+        "Including peoples who speak, or whose ancestors spoke, central\nMalayo-Polynesian languages; Jarai, Rhade (Rade)"
+      ],
+      "tableRefs": [
+        "Class here people of Indonesia as a national group; peoples who speak,\nor whose ancestors spoke, local Malay languages",
+        "Class comprehensive works on Montagnards of Vietnam in -9593"
+      ]
+    }
+  },
+  {
+    "id": "T5:-99222",
+    "type": "Concept",
+    "notation": "-99222",
+    "prefLabel": {
+      "en": "People who speak, or whose ancestors spoke, Javanese"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5",
+    "scope": {
+      "seeAlso": [
+        "For Formosan native peoples, see -9925; for peoples who speak, or\nwhose ancestors spoke, Malay (Bahasa Malaysia, standard Malay)\nor other Malayo-Polynesian languages of Peninsular Malaysia, and\nMalaysians as a national group, see -9928",
+        "See also-9912 for peoples who speak, or whose ancestors spoke,\nnon-Austronesian languages of New Guinea; also -995 for peoples\nwho speak, or whose ancestors spoke, eastern Malayo-Polynesian\nlanguages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-99223",
+    "type": "Concept",
+    "notation": "-99223",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, other Malayo-Polynesian\nlanguages of Java and Bali"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class people who speak, or whose ancestors spoke, Indonesian\n(Bahasa Indonesia) in -9922"
+      ]
+    }
+  },
+  {
+    "id": "T5:-992232",
+    "type": "Concept",
+    "notation": "-992232",
+    "prefLabel": {
+      "en": "Sundanese (People who speak, or whose ancestors spoke, Sunda)"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-992234",
+    "type": "Concept",
+    "notation": "-992234",
+    "prefLabel": {
+      "en": "Madurese (People who speak, or whose ancestors spoke, Madura)"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-992238",
+    "type": "Concept",
+    "notation": "-992238",
+    "prefLabel": {
+      "en": "Balinese (People who speak, or whose ancestors spoke, Bali)"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-99224",
+    "type": "Concept",
+    "notation": "-99224",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Malayo-Polynesian\nlanguages of Sumatra"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-992242",
+    "type": "Concept",
+    "notation": "-992242",
+    "prefLabel": {
+      "en": "Aceh (Achinese)"
+    },
+    "page": 34,
+    "source": {
+      "fileName": "Table-5_p00034.png"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-992244",
+    "type": "Concept",
+    "notation": "-992244",
+    "prefLabel": {
+      "en": "Minangkabau"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-992246",
+    "type": "Concept",
+    "notation": "-992246",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Batak languages"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9922462",
+    "type": "Concept",
+    "notation": "-9922462",
+    "prefLabel": {
+      "en": "Toba Batak"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9922466",
+    "type": "Concept",
+    "notation": "-9922466",
+    "prefLabel": {
+      "en": "Dairi Batak (Pakpak)"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-992248",
+    "type": "Concept",
+    "notation": "-992248",
+    "prefLabel": {
+      "en": "Lampung"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-99225",
+    "type": "Concept",
+    "notation": "-99225",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Malayo-Polynesian languages of Kalimantan, Sarawak, Sabah, Brunei"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-992256",
+    "type": "Concept",
+    "notation": "-992256",
+    "prefLabel": {
+      "en": "Banjar (Banjarese)"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-99226",
+    "type": "Concept",
+    "notation": "-99226",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Malayo-Polynesian languages of Celebes (Sulawesi)"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-992262",
+    "type": "Concept",
+    "notation": "-992262",
+    "prefLabel": {
+      "en": "Bugis (Buginese)"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-992264",
+    "type": "Concept",
+    "notation": "-992264",
+    "prefLabel": {
+      "en": "Makasar"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-9925",
+    "type": "Concept",
+    "notation": "-9925",
+    "prefLabel": {
+      "en": "Formosan native peoples"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Ami, Atayal, Bunun, Paiwan, Thao, Yami"
+      ],
+      "seeAlso": [
+        "See also-951 for peoples who speak, or whose ancestors spoke, Taiwanese dialect of Chinese"
+      ],
+      "tableRefs": [
+        "Class here peoples who speak, or whose ancestors spoke, Taiwan (Formosan) languages"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9928",
+    "type": "Concept",
+    "notation": "-9928",
+    "prefLabel": {
+      "en": "Malays"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "including": [
+        "Including Jakun, Kanaq, Seletar, Temuan, other peoples who speak, or whose ancestors spoke, Malayo-Polynesian languages of Peninsular Malaysia other than Malay (Bahasa Malaysia, Standard Malay)"
+      ],
+      "seeAlso": [
+        "See also-9593 for peoples who speak, or whose ancestors spoke, Semang, Senoic, other Aslian languages"
+      ],
+      "tableRefs": [
+        "Class here people who speak, or whose ancestors spoke, Malay (Bahasa Malaysia, standard Malay); people of Malaysia as a national group",
+        "For citizens of Malaysia belonging to other ethnic groups, see the ethnic group, e.g., Chinese-9510595"
+      ]
+    }
+  },
+  {
+    "id": "T5:-993",
+    "type": "Concept",
+    "notation": "-993",
+    "prefLabel": {
+      "en": "Malagasy"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow"
+  },
+  {
+    "id": "T5:-994",
+    "type": "Concept",
+    "notation": "-994",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Polynesian languages"
+    },
+    "page": 35,
+    "source": {
+      "fileName": "Table-5_p00035.png"
+    },
+    "table": "T5",
+    "rowType": "TableRow",
+    "scope": {
+      "addToBaseRules": [
+        "Add to base number -994 the numbers following -994 in notation 9942-9948 from Table 6, e.g., Tahitians-99444; then add further as instructed at beginning of Table 5, e.g., Tahitians in New Zealand -99444093"
+      ],
+      "classHere": [
+        "Class here national groups of Polynesia; former citizens and descendants of citizens of these jurisdictions"
+      ]
+    }
+  },
+  {
+    "id": "T5:-995",
+    "type": "Concept",
+    "notation": "-995",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, eastern Malayo-Polynesian languages"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-5_p00036.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here comprehensive works on Pacific Islanders [formerly -994]; national groups of Melanesia"
+      ],
+      "seeAlso": [
+        "For Papua New Guineans as a national group and peoples who speak, or whose ancestors spoke, Papuan languages, see -9912; for national groups of Polynesia and peoples who speak, or whose ancestors spoke, Polynesian languages, see -994"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9952",
+    "type": "Concept",
+    "notation": "-9952",
+    "prefLabel": {
+      "en": "Peoples who speak, or whose ancestors spoke, Micronesian languages"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-5_p00036.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "including": [
+        "Including Chamorro, Palauans"
+      ],
+      "notes": [],
+      "seeAlso": [],
+      "standardSubdivisions": false,
+      "tableRefs": [
+        "from Table 1, see -01–-09",
+        "use with 001–999"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9959",
+    "type": "Concept",
+    "notation": "-9959",
+    "prefLabel": {
+      "en": "Fijians"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-5_p00036.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here national groups of Micronesia"
+      ]
+    }
+  },
+  {
+    "id": "T5:-999",
+    "type": "Concept",
+    "notation": "-999",
+    "prefLabel": {
+      "en": "Miscellaneous peoples"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-5_p00036.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, eastern Fijian languages; people who speak, or whose ancestors spoke, standard Fijian; Fijians as a national group"
+      ],
+      "seeAlso": [
+        "For Fijian citizens of south Asian origin, see-91409611"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9992",
+    "type": "Concept",
+    "notation": "-9992",
+    "prefLabel": {
+      "en": "Basques"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-5_p00036.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "notes": [
+        "Limited to peoples provided for below"
+      ]
+    }
+  },
+  {
+    "id": "T5:-9993",
+    "type": "Concept",
+    "notation": "-9993",
+    "prefLabel": {
+      "en": "Elamites"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-5_p00036.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9994",
+    "type": "Concept",
+    "notation": "-9994",
+    "prefLabel": {
+      "en": "Etruscans"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-5_p00036.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9995",
+    "type": "Concept",
+    "notation": "-9995",
+    "prefLabel": {
+      "en": "Sumerians"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-5_p00036.png",
+      "span": "null"
+    },
+    "table": "T5"
+  },
+  {
+    "id": "T5:-9996",
+    "type": "Concept",
+    "notation": "-9996",
+    "prefLabel": {
+      "en": "Georgians, Ingush, Chechen, Circassians, related peoples"
+    },
+    "page": 36,
+    "source": {
+      "fileName": "Table-5_p00036.png",
+      "span": "null"
+    },
+    "table": "T5",
+    "scope": {
+      "classHere": [
+        "Class here peoples who speak, or whose ancestors spoke, Caucasian (Caucasic) languages"
+      ],
+      "addToBaseRules": [
+        "Add to base number -9996 the numbers following-9996 in notation 99962-99969 from Table 6, e.g., Georgians-99969; then add further as instructed at beginning of Table 5, e.g., Georgians in Canada -99969071"
+      ]
+    }
+  }
+]
