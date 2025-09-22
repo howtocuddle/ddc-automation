@@ -24,6 +24,11 @@
       font-family: "Courier New", Courier, monospace;
     }
 
+    body.viewer-active {
+      align-items: stretch;
+      justify-content: flex-start;
+    }
+
     main {
       width: min(960px, 100%);
       padding: 2.5rem 1.5rem 3rem;
@@ -31,6 +36,16 @@
       flex-direction: column;
       align-items: center;
       gap: 2.5rem;
+    }
+
+    body.viewer-active main {
+      width: 100%;
+      min-height: 100vh;
+      padding: 0;
+      gap: 0;
+      align-items: stretch;
+      justify-content: flex-start;
+      flex: 1;
     }
 
     #menu {
@@ -102,6 +117,14 @@
       gap: 1.25rem;
     }
 
+    body.viewer-active #viewer {
+      flex: 1;
+      position: relative;
+      align-items: stretch;
+      justify-content: flex-start;
+      gap: 0;
+    }
+
     .current-label {
       text-transform: uppercase;
       letter-spacing: 0.22em;
@@ -121,8 +144,37 @@
       background: #111;
     }
 
+    body.viewer-active .viewer-frame {
+      flex: 1;
+      width: 100%;
+      height: auto;
+      border: none;
+      background: transparent;
+    }
+
+    body.viewer-active .current-label,
+    body.viewer-active .back-tip {
+      position: absolute;
+      left: 1.5rem;
+      padding: 0.55rem 0.8rem;
+      background: rgba(0, 0, 0, 0.65);
+      border-radius: 0.35rem;
+      pointer-events: none;
+    }
+
+    body.viewer-active .current-label {
+      top: 1.5rem;
+    }
+
+    body.viewer-active .back-tip {
+      top: 3.6rem;
+    }
+
     iframe {
+      width: 100%;
+      height: 100%;
       background: #111;
+      border: 0;
     }
   </style>
 </head>
@@ -172,12 +224,14 @@
         iframe.src = file;
         menu.hidden = true;
         viewer.hidden = false;
+        document.body.classList.add("viewer-active");
       }
 
       function backToMenu() {
         iframe.src = "";
         viewer.hidden = true;
         menu.hidden = false;
+        document.body.classList.remove("viewer-active");
       }
 
       document.getElementById("see-schedules").addEventListener("click", () => show("schedules"));
