@@ -1,1 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DDC Automation</title>
+    <link
+      rel="preconnect"
+      href="https://fonts.googleapis.com"
+    />
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #0d1117;
+        --panel: rgba(13, 17, 23, 0.85);
+        --accent: #8b5cf6;
+        --accent-soft: rgba(139, 92, 246, 0.12);
+        --accent-gradient: linear-gradient(135deg, #6366f1, #a855f7);
+        --text-main: #f3f4f6;
+        --text-subtle: #d1d5db;
+      }
 
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", sans-serif;
+        background: radial-gradient(circle at 20% 20%, rgba(99, 102, 241, 0.12),
+              rgba(99, 102, 241, 0))
+            no-repeat,
+          radial-gradient(circle at 80% 0%, rgba(168, 85, 247, 0.18), rgba(13, 17, 23, 0))
+            no-repeat,
+          var(--bg);
+        color: var(--text-main);
+        line-height: 1.6;
+        min-height: 100vh;
+      }
+
+      header {
+        position: sticky;
+        top: 0;
+        backdrop-filter: blur(18px);
+        background: rgba(13, 17, 23, 0.72);
+        border-bottom: 1px solid rgba(99, 102, 241, 0.2);
+        z-index: 10;
+      }
+
+      .container {
+        width: min(1100px, 92vw);
+        margin: 0 auto;
+        padding: 3rem 0 5rem;
+      }
+
+      .nav-bar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1.5rem 0;
+      }
+
+      .brand {
+        font-weight: 700;
+        font-size: 1.2rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+      }
+
+      nav ul {
+        display: flex;
+        gap: 1.5rem;
+        list-style: none;
+        font-size: 0.95rem;
+      }
+
+      nav a {
+        color: var(--text-subtle);
+        text-decoration: none;
+        transition: color 0.2s ease;
+      }
+
+      nav a:hover,
+      nav a:focus {
+        color: var(--text-main);
+      }
+
+      .hero {
+        margin-top: 5rem;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 3rem;
+        align-items: center;
+      }
+
+      .hero h1 {
+        font-size: clamp(2.5rem, 5vw, 3.75rem);
+        line-height: 1.1;
+        margin-bottom: 1.5rem;
+      }
+
+      .hero p {
+        color: var(--text-subtle);
+        max-width: 36ch;
+        font-size: 1.05rem;
+      }
+
+      .hero-actions {
+        margin-top: 2.5rem;
+        display: flex;
+        gap: 1.2rem;
+        flex-wrap: wrap;
+      }
+
+      .cta-primary,
+      .cta-secondary {
+        padding: 0.9rem 1.8rem;
+        border-radius: 999px;
+        font-weight: 600;
+        text-decoration: none;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .cta-primary {
+        background: var(--accent-gradient);
+        color: white;
+        box-shadow: 0 18px 35px rgba(99, 102, 241, 0.35);
+      }
+
+      .cta-primary:hover,
+      .cta-primary:focus {
+        transform: translateY(-2px);
+        box-shadow: 0 22px 42px rgba(99, 102, 241, 0.4);
+      }
+
+      .cta-secondary {
+        color: var(--text-subtle);
+        border: 1px solid rgba(99, 102, 241, 0.3);
+        background: rgba(13, 17, 23, 0.6);
+      }
+
+      .cta-secondary:hover,
+      .cta-secondary:focus {
+        border-color: rgba(139, 92, 246, 0.6);
+        color: var(--text-main);
+      }
+
+      .panel {
+        background: var(--panel);
+        border: 1px solid rgba(99, 102, 241, 0.18);
+        border-radius: 24px;
+        padding: 2.5rem;
+        box-shadow: 0 18px 32px rgba(13, 17, 23, 0.45);
+      }
+
+      .panel h2 {
+        font-size: 1.85rem;
+        margin-bottom: 1rem;
+      }
+
+      .features {
+        display: grid;
+        gap: 1.4rem;
+        margin-top: 1.5rem;
+      }
+
+      .feature-item {
+        background: rgba(13, 17, 23, 0.7);
+        border: 1px solid rgba(139, 92, 246, 0.18);
+        border-radius: 18px;
+        padding: 1.6rem;
+        display: grid;
+        gap: 0.6rem;
+      }
+
+      .feature-item strong {
+        font-size: 1.05rem;
+      }
+
+      .feature-item p {
+        color: var(--text-subtle);
+        font-size: 0.95rem;
+      }
+
+      .timeline {
+        margin-top: 2.5rem;
+      }
+
+      .timeline ol {
+        list-style: none;
+        display: grid;
+        gap: 1.5rem;
+        position: relative;
+        padding-left: 1.2rem;
+      }
+
+      .timeline ol::before {
+        content: "";
+        position: absolute;
+        left: 0.4rem;
+        top: 0.2rem;
+        bottom: 0.2rem;
+        width: 2px;
+        background: rgba(99, 102, 241, 0.35);
+      }
+
+      .timeline li {
+        position: relative;
+        padding-left: 1.5rem;
+      }
+
+      .timeline li::before {
+        content: "";
+        position: absolute;
+        left: -0.2rem;
+        top: 0.35rem;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: rgba(99, 102, 241, 0.9);
+        box-shadow: 0 0 0 5px rgba(99, 102, 241, 0.2);
+      }
+
+      .timeline h3 {
+        font-size: 1.1rem;
+        margin-bottom: 0.4rem;
+      }
+
+      .timeline p {
+        color: var(--text-subtle);
+        font-size: 0.95rem;
+      }
+
+      .cta-panel {
+        margin-top: 4rem;
+        text-align: center;
+        background: linear-gradient(135deg, rgba(99, 102, 241, 0.38), rgba(168, 85, 247, 0.26));
+        border: 1px solid rgba(139, 92, 246, 0.35);
+        border-radius: 24px;
+        padding: 3rem 2rem;
+        box-shadow: 0 25px 45px rgba(99, 102, 241, 0.35);
+      }
+
+      .cta-panel h2 {
+        font-size: 2rem;
+        margin-bottom: 0.8rem;
+      }
+
+      .cta-panel p {
+        margin-bottom: 2rem;
+        color: rgba(255, 255, 255, 0.85);
+      }
+
+      footer {
+        margin-top: 4rem;
+        padding: 3rem 0;
+        color: var(--text-subtle);
+        font-size: 0.85rem;
+      }
+
+      footer a {
+        color: inherit;
+      }
+
+      @media (max-width: 720px) {
+        .nav-bar {
+          flex-direction: column;
+          gap: 1rem;
+        }
+
+        .hero {
+          margin-top: 3.5rem;
+        }
+
+        nav ul {
+          flex-wrap: wrap;
+          justify-content: center;
+        }
+
+        .panel {
+          padding: 2rem;
+        }
+
+        .cta-panel {
+          padding: 2.5rem 1.6rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="container nav-bar">
+        <span class="brand">DDC Automation</span>
+        <nav aria-label="Primary">
+          <ul>
+            <li><a href="#vision">Vision</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#workflow">Workflow</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="hero" id="vision">
+        <div>
+          <h1>
+            Workflow automation designed for
+            <span style="color: #a855f7">teams that build</span>
+          </h1>
+          <p>
+            DDC Automation brings together the tools, dashboards, and playbooks
+            you need to turn manual operations into orchestrated, measurable
+            outcomes. Track progress, keep stakeholders in the loop, and scale a
+            modern automation practice without adding complexity.
+          </p>
+          <div class="hero-actions">
+            <a class="cta-primary" href="#contact">Request a demo</a>
+            <a class="cta-secondary" href="#workflow">See how it works</a>
+          </div>
+        </div>
+        <div class="panel" role="presentation">
+          <h2>Automation snapshot</h2>
+          <p style="color: var(--text-subtle); font-size: 0.95rem">
+            Configure pipelines and integrations once, then monitor their health
+            with lightweight insights.
+          </p>
+          <div class="features" style="margin-top: 2rem">
+            <div class="feature-item">
+              <strong>Unified orchestration</strong>
+              <p>
+                Connect deployment scripts, infrastructure-as-code, and cloud
+                services without leaving the platform.
+              </p>
+            </div>
+            <div class="feature-item">
+              <strong>Observability built in</strong>
+              <p>
+                Automatic run histories, alerts, and rollbacks keep your team in
+                control of every automation run.
+              </p>
+            </div>
+            <div class="feature-item">
+              <strong>Human-friendly guardrails</strong>
+              <p>
+                Approvals, ownership handoffs, and contextual docs meet teams
+                where they already work.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel" id="features" aria-labelledby="features-heading">
+        <h2 id="features-heading">Why teams choose DDC Automation</h2>
+        <div class="features">
+          <div class="feature-item">
+            <strong>Composable automations</strong>
+            <p>
+              Build repeatable flows using reusable components. Snap in new
+              integrations or update actions without rebuilding your pipeline.
+            </p>
+          </div>
+          <div class="feature-item">
+            <strong>Real-time visibility</strong>
+            <p>
+              A command center view surfaces blockers, queued jobs, and delivery
+              metrics so everyone stays aligned.
+            </p>
+          </div>
+          <div class="feature-item">
+            <strong>Secure by default</strong>
+            <p>
+              Role-based access, secrets management, and immutable audit logs are
+              standard. Keep compliance teams confident.
+            </p>
+          </div>
+          <div class="feature-item">
+            <strong>Built for iteration</strong>
+            <p>
+              Preview changes, branch workflows, and run safe experiments with
+              dark launches before rolling out to production.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel timeline" id="workflow" aria-labelledby="workflow-heading">
+        <h2 id="workflow-heading">How we streamline delivery</h2>
+        <ol>
+          <li>
+            <h3>Blueprint</h3>
+            <p>
+              Capture the ideal flow with stakeholders, define SLAs, and map each
+              trigger and dependency from the start.
+            </p>
+          </li>
+          <li>
+            <h3>Integrate</h3>
+            <p>
+              Connect repositories, CI/CD platforms, chat tools, and monitoring
+              systems through secure adapters.
+            </p>
+          </li>
+          <li>
+            <h3>Launch</h3>
+            <p>
+              Roll out automated playbooks with progressive delivery and instant
+              rollbacks if anything looks off.
+            </p>
+          </li>
+          <li>
+            <h3>Optimize</h3>
+            <p>
+              Evaluate run analytics, identify drift, and iterate quickly so your
+              automations keep pace with the team.
+            </p>
+          </li>
+        </ol>
+      </section>
+
+      <section class="cta-panel" id="contact">
+        <h2>Ready to modernize delivery?</h2>
+        <p>
+          Tell us about your goals and we&apos;ll tailor a walkthrough of DDC
+          Automation for your team.
+        </p>
+        <a class="cta-primary" href="mailto:hello@ddc.example">Connect with us</a>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container">
+        <p>
+          Crafted with care by the DDC Automation team. View the source on
+          <a href="https://github.com/howtocuddle/ddc-automation">GitHub</a>.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
