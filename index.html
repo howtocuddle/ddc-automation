@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DDC 23rd Edition Design</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      color-scheme: light;
+      --bg-gradient: radial-gradient(circle at top, #f8fbff 0%, #e4edff 45%, #d9e6ff 70%, #c8d5ff 100%);
+      --accent: #3751ff;
+      --accent-strong: #5f7cff;
+      --accent-soft: rgba(55, 81, 255, 0.08);
+      --text-strong: #0b1440;
+      --text-muted: #465184;
+      --surface: rgba(255, 255, 255, 0.86);
+      --surface-strong: rgba(255, 255, 255, 0.98);
+      --shadow-soft: 0 24px 60px rgba(24, 39, 75, 0.16);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Space Grotesk", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      min-height: 100vh;
+      background: var(--bg-gradient);
+      color: var(--text-strong);
+      display: flex;
+      align-items: stretch;
+      justify-content: center;
+    }
+
+    main {
+      width: min(1200px, 100vw);
+      flex: 1 1 auto;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .panel {
+      flex: 1 1 auto;
+      display: none;
+      position: relative;
+      padding: clamp(2rem, 4vw, 4rem);
+      transition: opacity 220ms ease, transform 260ms ease;
+      opacity: 0;
+      transform: translateY(24px);
+    }
+
+    .panel.active {
+      display: flex;
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .panel::before {
+      content: "";
+      position: absolute;
+      inset: clamp(1.5rem, 3vw, 3rem);
+      border-radius: 28px;
+      background: var(--surface);
+      box-shadow: var(--shadow-soft);
+      z-index: 0;
+      backdrop-filter: blur(12px);
+    }
+
+    .panel-content {
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      gap: 1.5rem;
+    }
+
+    h1, h2 {
+      margin: 0;
+      line-height: 1.05;
+      letter-spacing: -0.01em;
+    }
+
+    h1 {
+      font-size: clamp(2.5rem, 6vw, 4.5rem);
+    }
+
+    h2 {
+      font-size: clamp(2rem, 4vw, 3rem);
+      color: var(--text-strong);
+    }
+
+    p.lead {
+      margin: 0;
+      font-size: clamp(1.05rem, 2.3vw, 1.3rem);
+      max-width: 44ch;
+      color: var(--text-muted);
+    }
+
+    .cta-button {
+      font-size: 1.05rem;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      padding: 0.95rem 2.4rem;
+      border-radius: 999px;
+      border: none;
+      color: #fff;
+      background-image: linear-gradient(135deg, var(--accent) 0%, var(--accent-strong) 100%);
+      box-shadow: 0 18px 36px rgba(55, 81, 255, 0.28);
+      cursor: pointer;
+      transition: transform 180ms ease, box-shadow 200ms ease;
+    }
+
+    .cta-button:hover,
+    .cta-button:focus-visible {
+      transform: translateY(-2px) scale(1.01);
+      box-shadow: 0 28px 52px rgba(55, 81, 255, 0.32);
+    }
+
+    .cta-button:focus-visible {
+      outline: 3px solid rgba(55, 81, 255, 0.4);
+      outline-offset: 4px;
+    }
+
+    .shiny-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: clamp(1rem, 3vw, 2.5rem);
+      margin-top: clamp(1.5rem, 4vw, 3rem);
+    }
+
+    .shiny-button {
+      position: relative;
+      overflow: hidden;
+      padding: clamp(1rem, 2vw, 1.2rem) clamp(2.5rem, 5vw, 4rem);
+      border-radius: 22px;
+      font-size: clamp(1.05rem, 2vw, 1.3rem);
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      border: none;
+      cursor: pointer;
+      color: #fff;
+      background: linear-gradient(120deg, rgba(55, 81, 255, 0.95) 0%, rgba(100, 133, 255, 0.95) 100%);
+      box-shadow: 0 18px 36px rgba(55, 81, 255, 0.28);
+      transition: transform 200ms ease, box-shadow 220ms ease;
+      min-width: min(260px, 80vw);
+    }
+
+    .shiny-button::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at top left, rgba(255, 255, 255, 0.45), transparent 45%);
+      mix-blend-mode: screen;
+      opacity: 0.8;
+      transition: opacity 200ms ease;
+    }
+
+    .shiny-button:hover,
+    .shiny-button:focus-visible {
+      transform: translateY(-4px) scale(1.02);
+      box-shadow: 0 32px 60px rgba(55, 81, 255, 0.35);
+    }
+
+    .shiny-button:focus-visible {
+      outline: 3px solid rgba(255, 255, 255, 0.6);
+      outline-offset: 4px;
+    }
+
+    .panel-footer {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+    }
+
+    #viewer-panel {
+      padding: 0;
+    }
+
+    #viewer-panel::before {
+      inset: 0;
+      border-radius: 0;
+      background: transparent;
+      box-shadow: none;
+      backdrop-filter: none;
+    }
+
+    #viewer-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: clamp(1rem, 2.5vw, 1.6rem) clamp(1.5rem, 3vw, 2.4rem);
+      background: var(--surface-strong);
+      box-shadow: 0 14px 32px rgba(24, 39, 75, 0.12);
+      position: relative;
+      z-index: 3;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    #viewer-header h2 {
+      font-size: clamp(1.4rem, 2.5vw, 2rem);
+      text-align: left;
+    }
+
+    #viewer-actions {
+      display: flex;
+      gap: 0.8rem;
+      flex-wrap: wrap;
+    }
+
+    .chip-button {
+      padding: 0.55rem 1.4rem;
+      border-radius: 999px;
+      border: 1px solid rgba(55, 81, 255, 0.35);
+      background: rgba(55, 81, 255, 0.1);
+      color: var(--accent);
+      font-weight: 600;
+      letter-spacing: 0.015em;
+      cursor: pointer;
+      transition: all 180ms ease;
+    }
+
+    .chip-button:hover,
+    .chip-button:focus-visible {
+      background: rgba(55, 81, 255, 0.16);
+      border-color: rgba(55, 81, 255, 0.45);
+    }
+
+    .chip-button.active {
+      background: linear-gradient(135deg, var(--accent) 0%, var(--accent-strong) 100%);
+      color: #fff;
+      border-color: transparent;
+      box-shadow: 0 14px 30px rgba(55, 81, 255, 0.24);
+    }
+
+    .chip-button:focus-visible {
+      outline: 3px solid rgba(55, 81, 255, 0.35);
+      outline-offset: 3px;
+    }
+
+    #graph-frame {
+      flex: 1 1 auto;
+      width: 100%;
+      border: none;
+      min-height: 0;
+    }
+
+    #empty-state {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-muted);
+      font-size: 1.05rem;
+    }
+
+    @media (max-width: 720px) {
+      body {
+        background: linear-gradient(180deg, #f8fbff 0%, #dbe5ff 100%);
+      }
+
+      .panel::before {
+        inset: clamp(0.8rem, 4vw, 1.4rem);
+        border-radius: 22px;
+      }
+
+      .panel-content {
+        padding: 1rem 0;
+      }
+
+      #viewer-header {
+        align-items: flex-start;
+      }
+
+      #viewer-header h2 {
+        width: 100%;
+      }
+
+      .shiny-button {
+        min-width: min(220px, 90vw);
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section id="landing-panel" class="panel active" aria-labelledby="landing-title">
+      <div class="panel-content">
+        <h1 id="landing-title">DDC 23rd Edition Design</h1>
+        <p class="lead">Explore the Dewey Decimal Classification in two immersive ways. Tap below to step inside and reveal the latest interactive tools crafted for the 23rd edition.</p>
+        <button id="enter-button" class="cta-button">Enter experience</button>
+        <div class="panel-footer">A single click unlocks the design hub.</div>
+      </div>
+    </section>
+
+    <section id="menu-panel" class="panel" aria-labelledby="menu-title" aria-hidden="true">
+      <div class="panel-content">
+        <h2 id="menu-title">Choose your journey</h2>
+        <p class="lead">Select a map of the DDC universe. Schedules reveal the full hierarchy, while Tables spotlight focused expansions.</p>
+        <div class="shiny-buttons">
+          <button class="shiny-button" data-view="schedules">✨ View schedules</button>
+          <button class="shiny-button" data-view="tables">🌟 View tables</button>
+        </div>
+        <div class="panel-footer">Switch between views anytime once you dive in.</div>
+      </div>
+    </section>
+
+    <section id="viewer-panel" class="panel" aria-live="polite" aria-hidden="true">
+      <header id="viewer-header">
+        <h2 id="viewer-title">Interactive explorer</h2>
+        <div id="viewer-actions">
+          <button id="back-button" class="chip-button" type="button">← Menu</button>
+          <button id="schedules-button" class="chip-button" type="button" data-view="schedules">Schedules</button>
+          <button id="tables-button" class="chip-button" type="button" data-view="tables">Tables</button>
+        </div>
+      </header>
+      <iframe id="graph-frame" title="DDC visualization" allow="fullscreen"></iframe>
+      <div id="empty-state">Select a view to begin exploring the DDC network.</div>
+    </section>
+  </main>
+
+  <script>
+    const panels = {
+      landing: document.getElementById('landing-panel'),
+      menu: document.getElementById('menu-panel'),
+      viewer: document.getElementById('viewer-panel'),
+    };
+
+    const frame = document.getElementById('graph-frame');
+    const emptyState = document.getElementById('empty-state');
+    const viewerTitle = document.getElementById('viewer-title');
+    const viewerButtons = {
+      schedules: document.getElementById('schedules-button'),
+      tables: document.getElementById('tables-button'),
+    };
+
+    function showPanel(name) {
+      Object.entries(panels).forEach(([key, panel]) => {
+        const isActive = key === name;
+        panel.classList.toggle('active', isActive);
+        panel.setAttribute('aria-hidden', (!isActive).toString());
+      });
+    }
+
+    function setActiveView(view) {
+      Object.entries(viewerButtons).forEach(([key, button]) => {
+        button.classList.toggle('active', key === view);
+      });
+    }
+
+    function loadView(view) {
+      const sources = {
+        schedules: {
+          src: 'hierarchy_graph.html',
+          title: 'DDC schedules explorer',
+        },
+        tables: {
+          src: 'tables_graph.html',
+          title: 'DDC tables explorer',
+        },
+      };
+
+      const selected = sources[view];
+      if (!selected) return;
+
+      frame.src = selected.src;
+      frame.setAttribute('title', selected.title);
+      viewerTitle.textContent = selected.title;
+      emptyState.style.display = 'none';
+      setActiveView(view);
+      showPanel('viewer');
+    }
+
+    document.getElementById('enter-button').addEventListener('click', () => {
+      showPanel('menu');
+    });
+
+    document.querySelectorAll('#menu-panel .shiny-button').forEach(button => {
+      button.addEventListener('click', () => {
+        const view = button.dataset.view;
+        loadView(view);
+      });
+    });
+
+    document.getElementById('back-button').addEventListener('click', () => {
+      frame.removeAttribute('src');
+      emptyState.style.display = '';
+      setActiveView('');
+      showPanel('menu');
+    });
+
+    Object.values(viewerButtons).forEach(button => {
+      button.addEventListener('click', () => {
+        const view = button.dataset.view;
+        if (view) {
+          loadView(view);
+        }
+      });
+    });
+  </script>
+</body>
+</html>
