@@ -1,6 +1,11 @@
+
+
+
 # ddc-automation
 
 # A SKOS-Anchored, Multi-Round Workflow for Assigning Dewey Numbers with Annif and an LLM Mediator
+
+# The database is live at: https://howtocuddle.github.io/ddc-automation/
 
 ## Abstract
 
