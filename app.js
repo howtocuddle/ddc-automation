@@ -1,5 +1,5 @@
 (() => {
-  // Spinner animation
+  // Spinner
   const spinner = document.getElementById("spinner");
   const frames = ["|", "/", "-", "\\"];
   let frameIdx = 0;
@@ -8,7 +8,7 @@
     spinner.textContent = frames[frameIdx];
   }, 140);
 
-  // Minimal router for viewer
+  // Router
   const menu = document.getElementById("menu");
   const viewer = document.getElementById("viewer");
   const iframe = document.getElementById("viewer-frame");
@@ -35,20 +35,15 @@
   document.getElementById("see-tables").addEventListener("click", () => show("tables"));
   document.addEventListener("keydown", (event) => { if (event.key === "0") backToMenu(); });
 
-  // JS-driven glow for the title
+  // Glowing title
   const glowEl = document.getElementById("glow");
   let t = 0;
-
-  function animateGlow() {
-    // Hue cycles around teal/blue/purple; intensity gently pulses
+  (function animateGlow() {
     t += 0.02;
-    const hue = Math.floor(200 + Math.sin(t) * 50);               // 150–250 range
-    const intensity = 0.65 + 0.25 * Math.sin(t * 1.6);            // 0.4–0.9-ish
-
+    const hue = Math.floor(200 + Math.sin(t) * 50);
+    const intensity = 0.65 + 0.25 * Math.sin(t * 1.6);
     glowEl.style.setProperty("--glow-h", hue);
     glowEl.style.setProperty("--glow-intensity", Math.max(0.3, intensity).toFixed(3));
     requestAnimationFrame(animateGlow);
-  }
-
-  animateGlow();
+  })();
 })();
