@@ -1,130 +1,260 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>DDC 23rd Edition Design</title>
   <style>
-    :root{
+    :root {
       color-scheme: dark;
       --gap: clamp(.6rem, 1.8vw, 1.1rem);
-      --tight: -0.02em;          /* tighter tracking for title */
-      --ascii-tight: .01em;      /* slightly tighter ASCII */
+      --tight: -0.02em;
+      /* tighter tracking for title */
+      --ascii-tight: .01em;
+      /* slightly tighter ASCII */
 
       /* NEW vertical spacing */
-      --space-a2t: clamp(0.9rem, 3.2vh, 1.8rem);  /* ASCII → Title */
-      --space-t2s: clamp(1.0rem, 3.6vh, 2.0rem);  /* Title → Subheading */
+      --space-a2t: clamp(0.9rem, 3.2vh, 1.8rem);
+      /* ASCII → Title */
+      --space-t2s: clamp(1.0rem, 3.6vh, 2.0rem);
+      /* Title → Subheading */
     }
 
-    *{box-sizing:border-box}
-    html,body{height:100%}
+    * {
+      box-sizing: border-box
+    }
 
-    body{
-      margin:0;
-      min-height:100%;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      padding:clamp(1rem,3vw,2rem);
-      background:#000;           /* AMOLED */
-      color:#fff;
+    html,
+    body {
+      height: 100%
+    }
+
+    body {
+      margin: 0;
+      min-height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: clamp(1rem, 3vw, 2rem);
+      background: #000;
+      /* AMOLED */
+      color: #fff;
       font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Courier New", monospace;
-      overflow:hidden;
+      overflow: hidden;
     }
 
     /* Fullscreen viewer mode */
-    body.viewer-active{
-      align-items:stretch; justify-content:flex-start;
-      padding:0; overflow:auto;
+    body.viewer-active {
+      align-items: stretch;
+      justify-content: flex-start;
+      padding: 0;
+      overflow: auto;
     }
 
-    main{
-      width:min(880px,100%);
-      padding:clamp(.8rem,3vw,1.6rem);
-      display:flex; flex-direction:column; align-items:center; justify-content:center;
-      gap:var(--gap);
-      text-align:center;
+    body.viewer-active main {
+      flex: 1;
+      width: 100%;
+      max-width: none;
+      padding: 0;
+      align-items: stretch;
+      justify-content: flex-start;
     }
 
-    section[hidden]{display:none!important}
+    main {
+      width: min(880px, 100%);
+      padding: clamp(.8rem, 3vw, 1.6rem);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: var(--gap);
+      text-align: center;
+    }
+
+    section[hidden] {
+      display: none !important
+    }
 
     /* ASCII banner */
-    .ascii-banner{
-      margin:0 0 var(--space-a2t) 0;      /* add space below ASCII */
-      display:inline-block;
-      white-space:pre;
+    .ascii-banner {
+      margin: 0 0 var(--space-a2t) 0;
+      /* add space below ASCII */
+      display: inline-block;
+      white-space: pre;
       font-size: clamp(.7rem, 1.6vw, 1.15rem);
-      line-height:1.12;
-      letter-spacing:var(--ascii-tight);
-      opacity:.95;
+      line-height: 1.12;
+      letter-spacing: var(--ascii-tight);
+      opacity: .95;
     }
 
     /* Glowing title */
-    .title-line{ margin: 0; }
-    .title-line h1{
-      margin:0;
+    .title-line {
+      margin: 0;
+    }
+
+    .title-line h1 {
+      margin: 0;
       font-size: clamp(1.6rem, 4.6vw, 2.6rem);
       letter-spacing: var(--tight);
       text-transform: uppercase;
-      line-height:1.02;
-      --glow-h:210; --glow-intensity:.7;
+      line-height: 1.02;
+      --glow-h: 210;
+      --glow-intensity: .7;
       text-shadow:
-        0 0 .55em hsla(var(--glow-h),100%,60%,var(--glow-intensity)),
-        0 0 1.1em hsla(var(--glow-h),100%,55%,calc(var(--glow-intensity)*.8)),
-        0 0 1.8em hsla(var(--glow-h),100%,50%,calc(var(--glow-intensity)*.55));
+        0 0 .55em hsla(var(--glow-h), 100%, 60%, var(--glow-intensity)),
+        0 0 1.1em hsla(var(--glow-h), 100%, 55%, calc(var(--glow-intensity)*.8)),
+        0 0 1.8em hsla(var(--glow-h), 100%, 50%, calc(var(--glow-intensity)*.55));
     }
 
     /* Subheading + spinner */
-    .spinner-line{
-      margin-top: var(--space-t2s);       /* add space below title */
-      display:flex; align-items:center; justify-content:center;
-      gap:.6rem;
-      letter-spacing:.18em;
-      text-transform:uppercase;
-      font-size:clamp(.7rem,1.2vw,.9rem);
-      opacity:.85;
+    .spinner-line {
+      margin-top: var(--space-t2s);
+      /* add space below title */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: .6rem;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      font-size: clamp(.7rem, 1.2vw, .9rem);
+      opacity: .85;
     }
-    .spinner{display:inline-block; min-width:1ch}
+
+    .spinner {
+      display: inline-block;
+      min-width: 1ch
+    }
 
     /* Buttons */
-    .menu-buttons{ display:flex; flex-wrap:wrap; justify-content:center; gap:var(--gap) }
-    .menu-buttons button{ min-width:clamp(8.5rem,24vw,11rem) }
-
-    button{
-      background:transparent; color:#fff; border:1px solid rgba(255,255,255,.7);
-      border-radius:.6rem; padding:.7rem 2.1rem;
-      letter-spacing:.12em; text-transform:uppercase;
-      font-size:clamp(.8rem,1.6vw,.95rem); cursor:pointer;
-      transition:transform .2s ease, border-color .2s ease, background .2s ease, color .2s ease;
+    .menu-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: var(--gap)
     }
-    button:hover,button:focus-visible{
-      background:#fff;color:#000;border-color:#fff;transform:translateY(-2px);outline:none
+
+    .menu-buttons button {
+      min-width: clamp(8.5rem, 24vw, 11rem)
+    }
+
+    button {
+      background: transparent;
+      color: #fff;
+      border: 1px solid rgba(255, 255, 255, .7);
+      border-radius: .6rem;
+      padding: .7rem 2.1rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      font-size: clamp(.8rem, 1.6vw, .95rem);
+      cursor: pointer;
+      transition: transform .2s ease, border-color .2s ease, background .2s ease, color .2s ease;
+    }
+
+    button:hover,
+    button:focus-visible {
+      background: #fff;
+      color: #000;
+      border-color: #fff;
+      transform: translateY(-2px);
+      outline: none
     }
 
     /* Viewer */
-    #viewer{width:100%;display:flex;flex-direction:column;align-items:center;gap:var(--gap)}
-    body.viewer-active #viewer{flex:1;position:relative;align-items:stretch;justify-content:flex-start;gap:0}
-
-    .viewer-hints{display:flex;flex-direction:column;align-items:center;gap:.25rem;opacity:.9}
-    .current-label{ text-transform:uppercase; letter-spacing:.18em; font-size:.8rem }
-    .back-tip{ text-transform:uppercase; letter-spacing:.16em; font-size:.7rem }
-
-    .viewer-frame{ width:min(960px,95vw); height:min(70vh,600px); background:#000; border:1px solid #222 }
-    body.viewer-active .viewer-frame{ flex:1; width:100%; height:auto; border:none; background:#000 }
-
-    body.viewer-active .viewer-hints{
-      position:absolute; right:1.2rem; bottom:1.2rem;
-      flex-direction:row; flex-wrap:wrap; gap:.45rem; padding:.4rem .7rem;
-      background:rgba(0,0,0,.7); border-radius:.4rem; pointer-events:none; max-width:min(320px,60vw); text-align:right;
+    #viewer {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: var(--gap)
     }
-    body.viewer-active .current-label, body.viewer-active .back-tip{ font-size:.6rem; letter-spacing:.16em }
 
-    iframe{width:100%;height:100%;background:#000;border:0}
+    body.viewer-active #viewer {
+      flex: 1;
+      position: relative;
+      align-items: stretch;
+      justify-content: flex-start;
+      gap: 0;
+      min-height: 100vh
+    }
+
+    .viewer-hints {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: .25rem;
+      opacity: .9
+    }
+
+    .current-label {
+      text-transform: uppercase;
+      letter-spacing: .18em;
+      font-size: .8rem
+    }
+
+    .back-tip {
+      text-transform: uppercase;
+      letter-spacing: .16em;
+      font-size: .7rem
+    }
+
+    .viewer-frame {
+      width: min(960px, 95vw);
+      height: min(70vh, 600px);
+      background: #000;
+      border: 1px solid #222
+    }
+
+    body.viewer-active .viewer-frame {
+      flex: 1;
+      width: 100%;
+      height: 100%;
+      min-height: 100vh;
+      border: none;
+      background: #000
+    }
+
+    body.viewer-active .viewer-hints {
+      position: absolute;
+      right: 1.2rem;
+      bottom: 1.2rem;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: .45rem;
+      padding: .4rem .7rem;
+      background: rgba(0, 0, 0, .7);
+      border-radius: .4rem;
+      pointer-events: none;
+      max-width: min(320px, 60vw);
+      text-align: right;
+    }
+
+    body.viewer-active .current-label,
+    body.viewer-active .back-tip {
+      font-size: .6rem;
+      letter-spacing: .16em
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      background: #000;
+      border: 0
+    }
 
     /* Hidden background player */
-    #bg-yt{position:fixed;width:0;height:0;border:0;opacity:0;pointer-events:none;z-index:-1}
+    #bg-yt {
+      position: fixed;
+      width: 0;
+      height: 0;
+      border: 0;
+      opacity: 0;
+      pointer-events: none;
+      z-index: -1
+    }
   </style>
 </head>
+
 <body>
   <main>
     <section id="menu">
@@ -132,7 +262,9 @@
 &nbsp;|_____| |     | |  |  |    |    |     | |       |     | |     \ |     \ |      |______
 &nbsp;|     | |_____| |__|__|    |    |_____| |_____  |_____| |_____/ |_____/ |_____ |______</pre>
 
-      <div class="title-line"><h1 id="glow">THE DDC 23RD EDITION</h1></div>
+      <div class="title-line">
+        <h1 id="glow">THE DDC 23RD EDITION</h1>
+      </div>
 
       <div class="spinner-line">
         <span id="spinner" class="spinner">|</span>
@@ -143,6 +275,11 @@
         <button type="button" id="see-schedules">Schedules</button>
         <button type="button" id="see-tables">Tables</button>
       </div>
+
+      <div class="menu-buttons" style="margin-top: var(--gap);">
+        <button type="button" id="see-automation"
+          style="width: 100%; max-width: 400px; border-color: #0f0; color: #0f0;">I'm Feeling Lucky</button>
+      </div>
     </section>
 
     <section id="viewer" hidden>
@@ -150,13 +287,13 @@
         <div class="current-label">Now Showing: <span id="current-view">Schedules</span></div>
         <div class="back-tip">Press 0 to go back to menu</div>
       </div>
-      <iframe id="viewer-frame" class="viewer-frame" title="DDC Viewer" sandbox="allow-scripts allow-same-origin"></iframe>
+      <iframe id="viewer-frame" class="viewer-frame" title="DDC Viewer"
+        sandbox="allow-scripts allow-same-origin allow-forms allow-popups"></iframe>
     </section>
   </main>
 
   <!-- Background YouTube (autoplay, unmuted) -->
-  <iframe
-    id="bg-yt" title="Background Music"
+  <iframe id="bg-yt" title="Background Music"
     src="https://www.youtube.com/embed/lOJr4KquzgI?autoplay=1&mute=0&loop=1&playlist=lOJr4KquzgI&controls=0&playsinline=1&rel=0"
     allow="autoplay; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -164,7 +301,7 @@
     (() => {
       // Spinner
       const spinner = document.getElementById("spinner");
-      const frames = ["|","/","-","\\"];
+      const frames = ["|", "/", "-", "\\"];
       let i = 0;
       setInterval(() => { i = (i + 1) % frames.length; spinner.textContent = frames[i]; }, 140);
 
@@ -174,16 +311,28 @@
       const iframe = document.getElementById("viewer-frame");
       const currentView = document.getElementById("current-view");
 
-      function show(view){
-        const file  = view === "tables" ? "tables_graph.html" : "hierarchy_graph.html";
-        const label = view === "tables" ? "Tables" : "Schedules";
+      function show(view) {
+        let file = "";
+        let label = "";
+
+        if (view === "tables") {
+          file = "tables_graph.html";
+          label = "Tables";
+        } else if (view === "schedules") {
+          file = "hierarchy_graph.html";
+          label = "Schedules";
+        } else if (view === "automation") {
+          file = "https://sagsg-ddcv1.hf.space";
+          label = "I'm Feeling Lucky";
+        }
+
         currentView.textContent = label;
         iframe.src = file;
         menu.hidden = true;
         viewer.hidden = false;
         document.body.classList.add("viewer-active");
       }
-      function backToMenu(){
+      function backToMenu() {
         iframe.src = "";
         viewer.hidden = true;
         menu.hidden = false;
@@ -192,12 +341,13 @@
 
       document.getElementById("see-schedules").addEventListener("click", () => show("schedules"));
       document.getElementById("see-tables").addEventListener("click", () => show("tables"));
-      document.addEventListener("keydown", e => { if(e.key === "0") backToMenu(); });
+      document.getElementById("see-automation").addEventListener("click", () => show("automation"));
+      document.addEventListener("keydown", e => { if (e.key === "0") backToMenu(); });
 
       // Title glow (subtle pulse + hue drift)
       const glow = document.getElementById("glow");
       let t = 0;
-      (function animate(){
+      (function animate() {
         t += 0.018;
         const hue = Math.round(195 + Math.sin(t) * 35);     // cooler range
         const inten = 0.6 + 0.18 * Math.sin(t * 1.4);       // milder glow
@@ -208,4 +358,5 @@
     })();
   </script>
 </body>
+
 </html>
